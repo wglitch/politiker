@@ -1,0 +1,329 @@
+{
+  "namn": "Patrik Krantz",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms kommun",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Malmö kommun",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västmanlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "52",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1507"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "10",
+      "kandidatnummer": "1507"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Christian Fagerhov",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "15",
+      "kandidatnummer": "20447"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "20447"
+    }
+  ]
+}

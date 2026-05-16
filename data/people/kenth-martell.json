@@ -1,0 +1,23 @@
+{
+  "namn": "Kenth Martell",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "28166"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "28166"
+    }
+  ]
+}

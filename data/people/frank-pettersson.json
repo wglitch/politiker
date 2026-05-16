@@ -1,0 +1,50 @@
+{
+  "namn": "Frank Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "50790"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "50790"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "50790"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "7",
+      "kandidatnummer": "50790"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "7",
+      "kandidatnummer": "50790"
+    }
+  ]
+}

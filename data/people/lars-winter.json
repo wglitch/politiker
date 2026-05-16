@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Winter",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "17875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Båstad",
+      "valkrets": "Båstad",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "17875"
+    }
+  ]
+}

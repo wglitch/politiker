@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Holmström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "40",
+      "kandidatnummer": "48412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "30535"
+    }
+  ]
+}

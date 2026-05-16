@@ -1,0 +1,23 @@
+{
+  "namn": "Henrik Sjöholm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "20960"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "20960"
+    }
+  ]
+}

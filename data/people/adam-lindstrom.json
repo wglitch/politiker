@@ -1,0 +1,32 @@
+{
+  "namn": "Adam Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "46",
+      "kandidatnummer": "13180"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "46",
+      "kandidatnummer": "13180"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "46",
+      "kandidatnummer": "13180"
+    }
+  ]
+}

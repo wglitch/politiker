@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Ntui Ayukegba Forss",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "9758"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "9758"
+    }
+  ]
+}

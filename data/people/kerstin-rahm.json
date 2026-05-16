@@ -1,0 +1,23 @@
+{
+  "namn": "Kerstin Rahm",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "4818"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "4818"
+    }
+  ]
+}

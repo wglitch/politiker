@@ -1,0 +1,23 @@
+{
+  "namn": "Oscar Rickardsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "31",
+      "kandidatnummer": "3064"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "3064"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Helena Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "39939"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "40612"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Anton Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Botkyrka",
+      "valkrets": "Botkyrka",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "46577"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "28",
+      "kandidatnummer": "40733"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norsjö",
+      "valkrets": "Norsjö",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "54489"
+    }
+  ]
+}

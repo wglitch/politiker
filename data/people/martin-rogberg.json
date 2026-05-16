@@ -1,0 +1,23 @@
+{
+  "namn": "Martin Rogberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "16",
+      "kandidatnummer": "51669"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "16",
+      "kandidatnummer": "51669"
+    }
+  ]
+}

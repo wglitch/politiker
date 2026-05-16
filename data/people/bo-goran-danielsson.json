@@ -1,0 +1,23 @@
+{
+  "namn": "Bo-Göran Danielsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "9058"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "9058"
+    }
+  ]
+}

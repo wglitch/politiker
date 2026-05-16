@@ -1,0 +1,23 @@
+{
+  "namn": "Love Almquist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "44",
+      "kandidatnummer": "28241"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "44",
+      "kandidatnummer": "28241"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Jenny Sundell",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "63",
+      "kandidatnummer": "16950"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "16950"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "16950"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "16950"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvkarleby",
+      "valkrets": "Älvkarleby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16950"
+    }
+  ]
+}

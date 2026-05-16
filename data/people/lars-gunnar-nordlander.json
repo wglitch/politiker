@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Gunnar Nordlander",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "4500"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "4500"
+    }
+  ]
+}

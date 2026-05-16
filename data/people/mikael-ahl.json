@@ -1,0 +1,41 @@
+{
+  "namn": "Mikael Ahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "5",
+      "kandidatnummer": "37609"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "5",
+      "kandidatnummer": "37609"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "5",
+      "kandidatnummer": "37609"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "1",
+      "kandidatnummer": "37609"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "My Lilja",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "21208"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "21208"
+    }
+  ]
+}

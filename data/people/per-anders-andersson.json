@@ -1,0 +1,50 @@
+{
+  "namn": "Per-Anders Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "43926"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "43926"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "43926"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eda",
+      "valkrets": "Eda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "28547"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ånge",
+      "valkrets": "Ånge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "15999"
+    }
+  ]
+}

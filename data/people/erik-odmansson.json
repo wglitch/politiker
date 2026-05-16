@@ -1,0 +1,23 @@
+{
+  "namn": "Erik Ödmansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "16",
+      "kandidatnummer": "37518"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "16",
+      "kandidatnummer": "37518"
+    }
+  ]
+}

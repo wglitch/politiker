@@ -1,0 +1,158 @@
+{
+  "namn": "Yvonne Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "9281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "9281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "9281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "9281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "9281"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "46",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "46",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "46",
+      "kandidatnummer": "49904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skurup",
+      "valkrets": "Skurup",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "22081"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Alternativet",
+      "partiförkortning": "Alt",
+      "ordning": "5",
+      "kandidatnummer": "50558"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "38",
+      "kandidatnummer": "35018"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "30040"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "9281"
+    }
+  ]
+}

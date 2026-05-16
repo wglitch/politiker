@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Lidehäll",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "17599"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "17599"
+    }
+  ]
+}

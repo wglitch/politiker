@@ -1,0 +1,23 @@
+{
+  "namn": "Christina Silverbern",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "38660"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "38660"
+    }
+  ]
+}

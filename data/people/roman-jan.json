@@ -1,0 +1,32 @@
+{
+  "namn": "Röman, Jan",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "",
+      "kandidatnummer": "48339"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "",
+      "kandidatnummer": "48339"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "",
+      "kandidatnummer": "48339"
+    }
+  ]
+}

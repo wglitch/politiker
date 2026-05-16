@@ -1,0 +1,23 @@
+{
+  "namn": "Kristina Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "14346"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "35117"
+    }
+  ]
+}

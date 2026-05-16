@@ -1,0 +1,23 @@
+{
+  "namn": "Werner Hilliges",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "45645"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "57",
+      "kandidatnummer": "45645"
+    }
+  ]
+}

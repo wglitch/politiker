@@ -1,0 +1,23 @@
+{
+  "namn": "Åke Nyberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "2613"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "2613"
+    }
+  ]
+}

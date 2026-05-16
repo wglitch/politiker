@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabeth Äng Åkerlund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "20442"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "20442"
+    }
+  ]
+}

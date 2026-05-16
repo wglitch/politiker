@@ -1,0 +1,23 @@
+{
+  "namn": "Göran Wåhlstedth",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "25602"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "25602"
+    }
+  ]
+}

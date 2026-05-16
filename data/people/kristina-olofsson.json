@@ -1,0 +1,23 @@
+{
+  "namn": "Kristina Olofsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "28443"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Överkalix",
+      "valkrets": "Överkalix",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "28443"
+    }
+  ]
+}

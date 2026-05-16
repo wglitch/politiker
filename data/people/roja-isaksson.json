@@ -1,0 +1,23 @@
+{
+  "namn": "Roja Isaksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "18421"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "18421"
+    }
+  ]
+}

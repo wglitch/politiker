@@ -1,0 +1,23 @@
+{
+  "namn": "Jenny Hellsten",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "23627"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alingsås",
+      "valkrets": "Alingsås",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "23627"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "namn": "Ulf Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "34325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "34325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "34325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "34325"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Skärgårdspartiet",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "56720"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlshamn",
+      "valkrets": "Karlshamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "34325"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "38476"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömstad",
+      "valkrets": "Strömstad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "31",
+      "kandidatnummer": "23430"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "22",
+      "kandidatnummer": "42731"
+    }
+  ]
+}

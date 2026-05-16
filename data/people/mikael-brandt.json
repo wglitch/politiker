@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Brandt",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "42404"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "52162"
+    }
+  ]
+}

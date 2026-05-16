@@ -1,0 +1,77 @@
+{
+  "namn": "Fredrik Schlyter",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "42446"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "42446"
+    }
+  ]
+}

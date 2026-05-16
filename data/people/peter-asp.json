@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Asp",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "18",
+      "kandidatnummer": "55663"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hofors",
+      "valkrets": "Hofors",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "55663"
+    }
+  ]
+}

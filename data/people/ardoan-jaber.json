@@ -1,0 +1,23 @@
+{
+  "namn": "Ardoan Jaber",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "60",
+      "kandidatnummer": "14747"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "14747"
+    }
+  ]
+}

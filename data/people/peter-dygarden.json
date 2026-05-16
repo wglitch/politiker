@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Dygården",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "35016"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "35016"
+    }
+  ]
+}

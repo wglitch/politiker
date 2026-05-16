@@ -1,0 +1,23 @@
+{
+  "namn": "Christian Anderberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "8770"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "8770"
+    }
+  ]
+}

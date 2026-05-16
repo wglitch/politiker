@@ -1,0 +1,32 @@
+{
+  "namn": "Marcus Juuso",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6570"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "6570"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "6570"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Jesper Smith",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "24732"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "24732"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "24732"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "24732"
+    }
+  ]
+}

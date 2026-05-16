@@ -1,0 +1,32 @@
+{
+  "namn": "Petter Bykvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "10851"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "10851"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "10851"
+    }
+  ]
+}

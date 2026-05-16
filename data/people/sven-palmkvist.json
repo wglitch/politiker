@@ -1,0 +1,23 @@
+{
+  "namn": "Sven Palmkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "19491"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "19491"
+    }
+  ]
+}

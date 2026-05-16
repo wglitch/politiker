@@ -1,0 +1,32 @@
+{
+  "namn": "Sanna Bergman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "17431"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "17431"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härnösand",
+      "valkrets": "Härnösand",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "17431"
+    }
+  ]
+}

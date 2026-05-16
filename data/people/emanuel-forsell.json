@@ -1,0 +1,23 @@
+{
+  "namn": "Emanuel Forsell",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "21120"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "21120"
+    }
+  ]
+}

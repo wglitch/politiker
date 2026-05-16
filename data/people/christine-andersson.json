@@ -1,0 +1,23 @@
+{
+  "namn": "Christine Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mellerud",
+      "valkrets": "Mellerud",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "15006"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "54057"
+    }
+  ]
+}

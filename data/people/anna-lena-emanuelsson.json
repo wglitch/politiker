@@ -1,0 +1,59 @@
+{
+  "namn": "Anna-Lena Emanuelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "42970"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "42970"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "42970"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "42970"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "42970"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "42970"
+    }
+  ]
+}

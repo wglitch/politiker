@@ -1,0 +1,50 @@
+{
+  "namn": "Björn Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "26389"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alvesta",
+      "valkrets": "Alvesta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "14465"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "54",
+      "kandidatnummer": "34252"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "49253"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Västjämtlands Väl",
+      "partiförkortning": "VV",
+      "ordning": "3",
+      "kandidatnummer": "56065"
+    }
+  ]
+}

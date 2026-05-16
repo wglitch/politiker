@@ -1,0 +1,59 @@
+{
+  "namn": "David Järn",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "4930"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "4930"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "4930"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "4930"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "4930"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lekeberg",
+      "valkrets": "Lekeberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "4930"
+    }
+  ]
+}

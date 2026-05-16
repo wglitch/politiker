@@ -1,0 +1,23 @@
+{
+  "namn": "Hal Marabel",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "55",
+      "kandidatnummer": "42328"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "55",
+      "kandidatnummer": "42328"
+    }
+  ]
+}

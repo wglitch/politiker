@@ -1,0 +1,32 @@
+{
+  "namn": "Rupert Tansley",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "2544"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "14",
+      "kandidatnummer": "2544"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "5",
+      "kandidatnummer": "2544"
+    }
+  ]
+}

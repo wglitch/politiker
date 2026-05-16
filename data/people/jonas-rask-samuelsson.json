@@ -1,0 +1,32 @@
+{
+  "namn": "Jonas Rask Samuelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "50618"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "50618"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "50618"
+    }
+  ]
+}

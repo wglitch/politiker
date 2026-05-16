@@ -1,0 +1,41 @@
+{
+  "namn": "Astrid Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "14244"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "14244"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "14244"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "48771"
+    }
+  ]
+}

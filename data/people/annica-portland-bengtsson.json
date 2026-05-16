@@ -1,0 +1,23 @@
+{
+  "namn": "Annica Portland Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "14068"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "14068"
+    }
+  ]
+}

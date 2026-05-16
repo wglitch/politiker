@@ -1,0 +1,23 @@
+{
+  "namn": "Tina Rudolphson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "2846"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "2846"
+    }
+  ]
+}

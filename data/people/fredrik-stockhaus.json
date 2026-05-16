@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Stockhaus",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3512"
+    }
+  ]
+}

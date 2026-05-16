@@ -1,0 +1,23 @@
+{
+  "namn": "Louise Byström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "41",
+      "kandidatnummer": "14829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "41",
+      "kandidatnummer": "14829"
+    }
+  ]
+}

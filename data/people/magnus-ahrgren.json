@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Åhrgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "41",
+      "kandidatnummer": "5164"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "5164"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "namn": "Kristofer Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "18",
+      "kandidatnummer": "25448"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "17122"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "44137"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "44137"
+    }
+  ]
+}

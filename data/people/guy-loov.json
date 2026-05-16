@@ -1,0 +1,23 @@
+{
+  "namn": "Guy Lööv",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "18413"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "18413"
+    }
+  ]
+}

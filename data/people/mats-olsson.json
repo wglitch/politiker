@@ -1,0 +1,221 @@
+{
+  "namn": "Mats Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "20",
+      "kandidatnummer": "40926"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "20",
+      "kandidatnummer": "40926"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "20",
+      "kandidatnummer": "40926"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "55",
+      "kandidatnummer": "11365"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "1",
+      "kandidatnummer": "40926"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "3256"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "40439"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Framtid Öland",
+      "partiförkortning": "FÖL",
+      "ordning": "4",
+      "kandidatnummer": "31841"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "42631"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "30461"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Essunga",
+      "valkrets": "Essunga",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "27675"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "17264"
+    }
+  ]
+}

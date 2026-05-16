@@ -1,0 +1,32 @@
+{
+  "namn": "Birgit Meier Thunborg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "33681"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "33681"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "33681"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Gunilla Englund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "34846"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härjedalen",
+      "valkrets": "Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5297"
+    }
+  ]
+}

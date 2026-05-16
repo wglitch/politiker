@@ -1,0 +1,32 @@
+{
+  "namn": "Vibeke Johnson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "6039"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "6039"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sunne",
+      "valkrets": "Sunne",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "6039"
+    }
+  ]
+}

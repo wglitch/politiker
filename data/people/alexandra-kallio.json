@@ -1,0 +1,32 @@
+{
+  "namn": "Alexandra Kallio",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "39568"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "43",
+      "kandidatnummer": "39568"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "39568"
+    }
+  ]
+}

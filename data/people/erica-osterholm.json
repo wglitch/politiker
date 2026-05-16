@@ -1,0 +1,50 @@
+{
+  "namn": "Erica Österholm",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "8",
+      "kandidatnummer": "54113"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "8",
+      "kandidatnummer": "54113"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "8",
+      "kandidatnummer": "54113"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "8",
+      "kandidatnummer": "54113"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "8",
+      "kandidatnummer": "54113"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "PeO Axelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "51312"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "51312"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Krokom",
+      "valkrets": "Krokom",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "51312"
+    }
+  ]
+}

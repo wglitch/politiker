@@ -1,0 +1,50 @@
+{
+  "namn": "Beata Allen",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "5537"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "5537"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "5537"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "5537"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Aneby",
+      "valkrets": "Aneby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "5537"
+    }
+  ]
+}

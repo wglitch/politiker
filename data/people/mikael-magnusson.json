@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "44518"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orsa",
+      "valkrets": "Orsa",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "27130"
+    }
+  ]
+}

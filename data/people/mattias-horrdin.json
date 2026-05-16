@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Horrdin",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "16522"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "16522"
+    }
+  ]
+}

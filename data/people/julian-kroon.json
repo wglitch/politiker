@@ -1,0 +1,59 @@
+{
+  "namn": "Julian Kroon",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "53123"
+    }
+  ]
+}

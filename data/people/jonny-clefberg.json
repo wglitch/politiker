@@ -1,0 +1,32 @@
+{
+  "namn": "Jonny Clefberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "3722"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "3722"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "49",
+      "kandidatnummer": "3722"
+    }
+  ]
+}

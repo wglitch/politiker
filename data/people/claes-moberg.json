@@ -1,0 +1,23 @@
+{
+  "namn": "Claes Moberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "2779"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Krokom",
+      "valkrets": "Krokom",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "50157"
+    }
+  ]
+}

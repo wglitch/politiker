@@ -1,0 +1,32 @@
+{
+  "namn": "Annika Hedman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "37",
+      "kandidatnummer": "10339"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "58",
+      "kandidatnummer": "10339"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "10339"
+    }
+  ]
+}

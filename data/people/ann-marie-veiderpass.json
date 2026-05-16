@@ -1,0 +1,59 @@
+{
+  "namn": "Ann-Marie Veiderpass",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "49525"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "49525"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "49525"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "49525"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "49525"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "49525"
+    }
+  ]
+}

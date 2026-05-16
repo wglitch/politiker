@@ -1,0 +1,23 @@
+{
+  "namn": "Leo Visuri",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "37",
+      "kandidatnummer": "11800"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Degerfors",
+      "valkrets": "Degerfors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "11800"
+    }
+  ]
+}

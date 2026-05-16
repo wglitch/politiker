@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Arvidsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "46",
+      "kandidatnummer": "42440"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Töreboda",
+      "valkrets": "Töreboda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "33322"
+    }
+  ]
+}

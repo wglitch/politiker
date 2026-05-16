@@ -1,0 +1,23 @@
+{
+  "namn": "Ida Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "2604"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "62",
+      "kandidatnummer": "2604"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Mattias Joelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "26904"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "26904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "26904"
+    }
+  ]
+}

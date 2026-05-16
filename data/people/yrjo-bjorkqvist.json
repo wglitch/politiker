@@ -1,0 +1,32 @@
+{
+  "namn": "Yrjö Björkqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "36540"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "36540"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsör",
+      "valkrets": "Kungsör",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "36540"
+    }
+  ]
+}

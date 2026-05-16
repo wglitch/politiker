@@ -1,0 +1,23 @@
+{
+  "namn": "Pethra Ängquist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "47190"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "47190"
+    }
+  ]
+}

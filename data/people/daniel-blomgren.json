@@ -1,0 +1,41 @@
+{
+  "namn": "Daniel Blomgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "51",
+      "kandidatnummer": "14935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "51",
+      "kandidatnummer": "14935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "51",
+      "kandidatnummer": "14935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "19176"
+    }
+  ]
+}

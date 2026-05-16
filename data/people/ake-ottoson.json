@@ -1,0 +1,32 @@
+{
+  "namn": "Åke Ottoson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "9850"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "9850"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "48",
+      "kandidatnummer": "9850"
+    }
+  ]
+}

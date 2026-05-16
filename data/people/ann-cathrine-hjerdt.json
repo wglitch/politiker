@@ -1,0 +1,68 @@
+{
+  "namn": "Ann-Cathrine Hjerdt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "22795"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "22795"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Ann Nordin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "48",
+      "kandidatnummer": "53085"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "53085"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "51",
+      "kandidatnummer": "53085"
+    }
+  ]
+}

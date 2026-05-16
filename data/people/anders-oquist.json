@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Öquist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "44",
+      "kandidatnummer": "15825"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ockelbo",
+      "valkrets": "Ockelbo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "15825"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Henrik Sporrong Esbjörnsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "2581"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "2581"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "2581"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "2581"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Habo",
+      "valkrets": "Habo",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "2581"
+    }
+  ]
+}

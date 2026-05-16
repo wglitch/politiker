@@ -1,0 +1,59 @@
+{
+  "namn": "Anders Dage",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "30566"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "30566"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "30566"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "30566"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "30566"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "30566"
+    }
+  ]
+}

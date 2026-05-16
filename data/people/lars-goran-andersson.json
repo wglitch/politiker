@@ -1,0 +1,41 @@
+{
+  "namn": "Lars-Göran Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "45462"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "47",
+      "kandidatnummer": "32229"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Essunga",
+      "valkrets": "Essunga",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "27677"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "52757"
+    }
+  ]
+}

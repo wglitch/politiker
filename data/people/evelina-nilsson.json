@@ -1,0 +1,32 @@
+{
+  "namn": "Evelina Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "12099"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "15864"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "15864"
+    }
+  ]
+}

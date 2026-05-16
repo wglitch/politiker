@@ -1,0 +1,23 @@
+{
+  "namn": "Victoria Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "43187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hofors",
+      "valkrets": "Hofors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "43187"
+    }
+  ]
+}

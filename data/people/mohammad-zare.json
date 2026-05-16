@@ -1,0 +1,23 @@
+{
+  "namn": "Mohammad Zare",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "30090"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "30090"
+    }
+  ]
+}

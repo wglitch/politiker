@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Ölmhult",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "8422"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristinehamn",
+      "valkrets": "Kristinehamn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "8422"
+    }
+  ]
+}

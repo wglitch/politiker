@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Elmvik",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "33",
+      "kandidatnummer": "42401"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "42401"
+    }
+  ]
+}

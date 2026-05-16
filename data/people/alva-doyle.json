@@ -1,0 +1,68 @@
+{
+  "namn": "Alva Doyle",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "18948"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "18948"
+    }
+  ]
+}

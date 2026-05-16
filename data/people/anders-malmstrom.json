@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Malmström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "1031"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "1031"
+    }
+  ]
+}

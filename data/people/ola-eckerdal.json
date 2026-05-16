@@ -1,0 +1,23 @@
+{
+  "namn": "Ola Eckerdal",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "26",
+      "kandidatnummer": "10790"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "10790"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Johan Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "31248"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalix",
+      "valkrets": "Kalix",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "6",
+      "kandidatnummer": "40074"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Elin Granberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "51134"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "51134"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "51134"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "51134"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lycksele",
+      "valkrets": "Lycksele",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "25663"
+    }
+  ]
+}

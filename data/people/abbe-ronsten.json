@@ -1,0 +1,23 @@
+{
+  "namn": "Abbe Ronsten",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "6225"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "6225"
+    }
+  ]
+}

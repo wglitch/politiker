@@ -1,0 +1,23 @@
+{
+  "namn": "Paulus Kuoljok",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "14",
+      "kandidatnummer": "53174"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "53174"
+    }
+  ]
+}

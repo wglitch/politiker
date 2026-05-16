@@ -1,0 +1,32 @@
+{
+  "namn": "Magnus Häggblad",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "63",
+      "kandidatnummer": "16830"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "16830"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16830"
+    }
+  ]
+}

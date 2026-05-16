@@ -1,0 +1,122 @@
+{
+  "namn": "Tommy Deogan",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "16",
+      "kandidatnummer": "56604"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56604"
+    }
+  ]
+}

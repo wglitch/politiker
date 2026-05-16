@@ -1,0 +1,68 @@
+{
+  "namn": "Ing-Britt Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "18708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ulricehamn",
+      "valkrets": "Ulricehamn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "18708"
+    }
+  ]
+}

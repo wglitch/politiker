@@ -1,0 +1,419 @@
+{
+  "namn": "Anders Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Malmö kommun",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31725"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "16",
+      "kandidatnummer": "55709"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "16",
+      "kandidatnummer": "55709"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "16",
+      "kandidatnummer": "55709"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ekerö",
+      "valkrets": "Ekerö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "43015"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Botkyrka",
+      "valkrets": "Botkyrka",
+      "parti": "Kristna Familjepartiet",
+      "partiförkortning": "",
+      "ordning": "21",
+      "kandidatnummer": "48168"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ydre",
+      "valkrets": "Ydre",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "20596"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "15506"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "2214"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Habo",
+      "valkrets": "Habo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "19442"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "12",
+      "kandidatnummer": "55709"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hultsfred",
+      "valkrets": "Hultsfred",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "23444"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "8771"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "8771"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "23917"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "52018"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "31725"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "31725"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "22773"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gullspång",
+      "valkrets": "Gullspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "35967"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mellerud",
+      "valkrets": "Mellerud",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "15005"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "2127"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Herrljunga",
+      "valkrets": "Herrljunga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "19336"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Medborgarpartiet",
+      "partiförkortning": "Vfp",
+      "ordning": "23",
+      "kandidatnummer": "32682"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "18535"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grums",
+      "valkrets": "Grums",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "10160"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömsund",
+      "valkrets": "Strömsund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "12078"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "44322"
+    }
+  ]
+}

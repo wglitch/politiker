@@ -1,0 +1,23 @@
+{
+  "namn": "Hans Ädel",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "54",
+      "kandidatnummer": "26366"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "26366"
+    }
+  ]
+}

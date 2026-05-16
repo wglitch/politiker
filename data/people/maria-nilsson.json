@@ -1,0 +1,500 @@
+{
+  "namn": "Maria Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Malmö kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västmanlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "59",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "36",
+      "kandidatnummer": "45934"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "36",
+      "kandidatnummer": "45934"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "36",
+      "kandidatnummer": "45934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "42814"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnesta",
+      "valkrets": "Gnesta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "44625"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Töreboda",
+      "valkrets": "Töreboda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "24513"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "6898"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "23545"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "1015"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "10643"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härnösand",
+      "valkrets": "Härnösand",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "33",
+      "kandidatnummer": "37820"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "45934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "45934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalix",
+      "valkrets": "Kalix",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "8",
+      "kandidatnummer": "53215"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "45774"
+    }
+  ]
+}

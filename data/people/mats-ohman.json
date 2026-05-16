@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Öhman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "54",
+      "kandidatnummer": "47205"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "54",
+      "kandidatnummer": "47205"
+    }
+  ]
+}

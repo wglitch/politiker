@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Eklund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "17720"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "23150"
+    }
+  ]
+}

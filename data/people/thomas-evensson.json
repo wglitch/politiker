@@ -1,0 +1,23 @@
+{
+  "namn": "Thomas Evensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "32",
+      "kandidatnummer": "14884"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "14884"
+    }
+  ]
+}

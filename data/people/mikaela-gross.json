@@ -1,0 +1,23 @@
+{
+  "namn": "Mikaela Gross",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "41634"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppvidinge",
+      "valkrets": "Uppvidinge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "41634"
+    }
+  ]
+}

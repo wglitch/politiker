@@ -1,0 +1,41 @@
+{
+  "namn": "Christina Nyström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "2084"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "2084"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "2084"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "38211"
+    }
+  ]
+}

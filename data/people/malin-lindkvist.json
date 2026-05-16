@@ -1,0 +1,23 @@
+{
+  "namn": "Malin Lindkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "38",
+      "kandidatnummer": "40486"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "35",
+      "kandidatnummer": "40486"
+    }
+  ]
+}

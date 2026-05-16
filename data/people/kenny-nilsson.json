@@ -1,0 +1,23 @@
+{
+  "namn": "Kenny Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "1419"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sölvesborg",
+      "valkrets": "Sölvesborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "1419"
+    }
+  ]
+}

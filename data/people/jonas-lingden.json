@@ -1,0 +1,32 @@
+{
+  "namn": "Jonas Lingdén",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "51",
+      "kandidatnummer": "31116"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "31116"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "31116"
+    }
+  ]
+}

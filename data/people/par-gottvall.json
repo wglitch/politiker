@@ -1,0 +1,23 @@
+{
+  "namn": "Pär Gottvall",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "29",
+      "kandidatnummer": "27621"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "27621"
+    }
+  ]
+}

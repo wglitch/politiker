@@ -1,0 +1,23 @@
+{
+  "namn": "Cecilia Albertsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "5929"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hällefors",
+      "valkrets": "Hällefors",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "5929"
+    }
+  ]
+}

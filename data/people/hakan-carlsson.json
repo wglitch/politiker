@@ -1,0 +1,41 @@
+{
+  "namn": "Håkan Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Oxelösund",
+      "valkrets": "Oxelösund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "34644"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Osby",
+      "valkrets": "Osby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "30",
+      "kandidatnummer": "50231"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "50",
+      "kandidatnummer": "35545"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "50",
+      "kandidatnummer": "35545"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Noemi Nygård",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "19099"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "19099"
+    }
+  ]
+}

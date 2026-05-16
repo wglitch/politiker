@@ -1,0 +1,23 @@
+{
+  "namn": "Ann-Louise Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "6292"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Smedjebacken",
+      "valkrets": "Smedjebacken",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "6292"
+    }
+  ]
+}

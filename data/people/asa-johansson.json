@@ -1,0 +1,41 @@
+{
+  "namn": "Åsa Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "28774"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "36609"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "15168"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "28774"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Martin Bagge",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "16",
+      "kandidatnummer": "40956"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "21",
+      "kandidatnummer": "40956"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "40956"
+    }
+  ]
+}

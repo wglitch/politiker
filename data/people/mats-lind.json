@@ -1,0 +1,50 @@
+{
+  "namn": "Mats Lind",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "3506"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "3506"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "3506"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "3506"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kumla",
+      "valkrets": "Kumla",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "3506"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Susanne Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "47",
+      "kandidatnummer": "33726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ronneby",
+      "valkrets": "Ronneby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "5978"
+    }
+  ]
+}

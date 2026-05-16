@@ -1,0 +1,32 @@
+{
+  "namn": "Birgitta Näslund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "56411"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "10",
+      "kandidatnummer": "56411"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "10",
+      "kandidatnummer": "56411"
+    }
+  ]
+}

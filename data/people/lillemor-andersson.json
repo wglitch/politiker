@@ -1,0 +1,23 @@
+{
+  "namn": "Lillemor Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "2389"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "2389"
+    }
+  ]
+}

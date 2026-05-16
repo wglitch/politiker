@@ -1,0 +1,23 @@
+{
+  "namn": "Martina Holmkvist Lundström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "39307"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alvesta",
+      "valkrets": "Alvesta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "39307"
+    }
+  ]
+}

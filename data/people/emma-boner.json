@@ -1,0 +1,23 @@
+{
+  "namn": "Emma Bonér",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "53331"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "53331"
+    }
+  ]
+}

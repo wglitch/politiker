@@ -1,0 +1,32 @@
+{
+  "namn": "Fanny Thorsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "4546"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "4546"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Rättvik",
+      "valkrets": "Rättvik",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "4546"
+    }
+  ]
+}

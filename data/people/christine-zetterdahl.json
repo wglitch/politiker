@@ -1,0 +1,32 @@
+{
+  "namn": "Christine Zetterdahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "66",
+      "kandidatnummer": "16942"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "16942"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Flen",
+      "valkrets": "Flen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16942"
+    }
+  ]
+}

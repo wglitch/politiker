@@ -1,0 +1,32 @@
+{
+  "namn": "Tomas Rehnfors",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "70",
+      "kandidatnummer": "2263"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "27",
+      "kandidatnummer": "2263"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "2263"
+    }
+  ]
+}

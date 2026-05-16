@@ -1,0 +1,23 @@
+{
+  "namn": "Malin Östh",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "2418"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "2418"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Gunilla Franklin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "39",
+      "kandidatnummer": "1185"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "1185"
+    }
+  ]
+}

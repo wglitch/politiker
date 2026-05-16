@@ -1,0 +1,32 @@
+{
+  "namn": "Johnny Sundling",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "42264"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "7945"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ale",
+      "valkrets": "Ale",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "42264"
+    }
+  ]
+}

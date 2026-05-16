@@ -1,0 +1,23 @@
+{
+  "namn": "Noa Kron",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "24",
+      "kandidatnummer": "2272"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "2272"
+    }
+  ]
+}

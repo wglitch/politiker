@@ -1,0 +1,23 @@
+{
+  "namn": "Göran Wigert",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "6257"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Leksand",
+      "valkrets": "Leksand",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "6257"
+    }
+  ]
+}

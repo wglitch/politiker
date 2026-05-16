@@ -1,0 +1,23 @@
+{
+  "namn": "Andreaz Vincent",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "39",
+      "kandidatnummer": "22558"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "22558"
+    }
+  ]
+}

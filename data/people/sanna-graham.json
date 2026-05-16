@@ -1,0 +1,32 @@
+{
+  "namn": "Sanna Graham",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "56100"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "56100"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "56100"
+    }
+  ]
+}

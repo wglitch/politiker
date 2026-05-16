@@ -1,0 +1,23 @@
+{
+  "namn": "Karl-Johan Bodell",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "39526"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "39526"
+    }
+  ]
+}

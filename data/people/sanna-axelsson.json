@@ -1,0 +1,23 @@
+{
+  "namn": "Sanna Axelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "47175"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "47175"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Pegah Mokhtari Fard",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "5259"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Järfälla",
+      "valkrets": "Järfälla",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "5259"
+    }
+  ]
+}

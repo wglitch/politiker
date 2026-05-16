@@ -1,0 +1,41 @@
+{
+  "namn": "Gabriella Semaan",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "10400"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "39",
+      "kandidatnummer": "10400"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "10400"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "10400"
+    }
+  ]
+}

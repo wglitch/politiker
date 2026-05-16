@@ -1,0 +1,23 @@
+{
+  "namn": "Melena Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "37430"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "37430"
+    }
+  ]
+}

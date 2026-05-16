@@ -1,0 +1,41 @@
+{
+  "namn": "Carl-Göran Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "1472"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "1472"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "1472"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "19926"
+    }
+  ]
+}

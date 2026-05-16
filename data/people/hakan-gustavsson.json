@@ -1,0 +1,50 @@
+{
+  "namn": "Håkan Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vaggeryd",
+      "valkrets": "Vaggeryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "46397"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "24840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tibro",
+      "valkrets": "Tibro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "24487"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristinehamn",
+      "valkrets": "Kristinehamn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "18021"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laxå",
+      "valkrets": "Laxå",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "13986"
+    }
+  ]
+}

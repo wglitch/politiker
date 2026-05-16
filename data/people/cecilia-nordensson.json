@@ -1,0 +1,23 @@
+{
+  "namn": "Cecilia Nordensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "32",
+      "kandidatnummer": "3364"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "32",
+      "kandidatnummer": "3364"
+    }
+  ]
+}

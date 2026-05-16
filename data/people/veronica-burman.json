@@ -1,0 +1,23 @@
+{
+  "namn": "Veronica Burman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "6653"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arjeplog",
+      "valkrets": "Arjeplog",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6653"
+    }
+  ]
+}

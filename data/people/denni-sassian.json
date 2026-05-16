@@ -1,0 +1,23 @@
+{
+  "namn": "Denni Sassian",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "52",
+      "kandidatnummer": "22480"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "22480"
+    }
+  ]
+}

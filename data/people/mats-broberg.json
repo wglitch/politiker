@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Broberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "5",
+      "kandidatnummer": "40094"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsby",
+      "valkrets": "Torsby",
+      "parti": "De Oberoende i Torsby",
+      "partiförkortning": "DO!T",
+      "ordning": "8",
+      "kandidatnummer": "40094"
+    }
+  ]
+}

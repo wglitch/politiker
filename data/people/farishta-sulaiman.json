@@ -1,0 +1,32 @@
+{
+  "namn": "Farishta Sulaiman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Malmö kommun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "42283"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "42283"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "42283"
+    }
+  ]
+}

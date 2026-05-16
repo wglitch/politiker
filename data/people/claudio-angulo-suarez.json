@@ -1,0 +1,41 @@
+{
+  "namn": "Claudio Angulo Suarez",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "8767"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "8767"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "8767"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "8767"
+    }
+  ]
+}

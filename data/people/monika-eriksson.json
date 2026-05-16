@@ -1,0 +1,23 @@
+{
+  "namn": "Monika Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "21",
+      "kandidatnummer": "29905"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "29905"
+    }
+  ]
+}

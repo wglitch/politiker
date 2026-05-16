@@ -1,0 +1,50 @@
+{
+  "namn": "Monika Lövgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "68",
+      "kandidatnummer": "16955"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "16955"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "16955"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "16955"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16955"
+    }
+  ]
+}

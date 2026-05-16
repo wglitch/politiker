@@ -1,0 +1,266 @@
+{
+  "namn": "Jörgen Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "30072"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "43512"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Högsby",
+      "valkrets": "Högsby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "25812"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hultsfred",
+      "valkrets": "Hultsfred",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "31",
+      "kandidatnummer": "16055"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ronneby",
+      "valkrets": "Ronneby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "37311"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östra Göinge",
+      "valkrets": "Östra Göinge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "22441"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tomelilla",
+      "valkrets": "Tomelilla",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "16511"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "29847"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ängelholm",
+      "valkrets": "Ängelholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "42376"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "30072"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsby",
+      "valkrets": "Torsby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "28412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "45681"
+    }
+  ]
+}

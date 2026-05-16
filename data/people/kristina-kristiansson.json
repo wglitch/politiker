@@ -1,0 +1,23 @@
+{
+  "namn": "Kristina Kristiansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "29786"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "60",
+      "kandidatnummer": "29786"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Ali Ghamari",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "48562"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "48562"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "48562"
+    }
+  ]
+}

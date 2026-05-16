@@ -1,0 +1,284 @@
+{
+  "namn": "Stefan Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "4866"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "18401"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "41493"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "51468"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alingsås",
+      "valkrets": "Alingsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "10030"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "4866"
+    }
+  ]
+}

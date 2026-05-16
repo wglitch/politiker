@@ -1,0 +1,32 @@
+{
+  "namn": "Oskar Sundin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "31",
+      "kandidatnummer": "53077"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "53077"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "32",
+      "kandidatnummer": "53077"
+    }
+  ]
+}

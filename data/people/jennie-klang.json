@@ -1,0 +1,95 @@
+{
+  "namn": "Jennie Klang",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "39",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "33",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "39",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "33",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "39",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "33",
+      "kandidatnummer": "11270"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "11270"
+    }
+  ]
+}

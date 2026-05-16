@@ -1,0 +1,23 @@
+{
+  "namn": "Nathalie Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "11838"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "11838"
+    }
+  ]
+}

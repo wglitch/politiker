@@ -1,0 +1,23 @@
+{
+  "namn": "Jörgen Wärja",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "22292"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "22292"
+    }
+  ]
+}

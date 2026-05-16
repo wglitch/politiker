@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Storbacka",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "9252"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lindesberg",
+      "valkrets": "Lindesberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "9252"
+    }
+  ]
+}

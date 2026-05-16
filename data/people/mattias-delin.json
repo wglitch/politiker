@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Delin",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "11046"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "11046"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Farhad Khaghani",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "25",
+      "kandidatnummer": "14514"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "14514"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Olof Nyström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "13555"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "13555"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "13555"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "8688"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "13555"
+    }
+  ]
+}

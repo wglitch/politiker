@@ -1,0 +1,23 @@
+{
+  "namn": "Kerstin Borg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "1173"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "1173"
+    }
+  ]
+}

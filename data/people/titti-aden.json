@@ -1,0 +1,23 @@
+{
+  "namn": "Titti Ådén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "9788"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "9788"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "namn": "Ted Ek",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "4895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "4895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "4895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "4895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "4895"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "4895"
+    }
+  ]
+}

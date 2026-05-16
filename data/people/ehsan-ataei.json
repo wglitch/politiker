@@ -1,0 +1,23 @@
+{
+  "namn": "Ehsan Ataei",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "39640"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "39640"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Margareta Freijd-Merbom",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "2535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "2535"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "60",
+      "kandidatnummer": "2535"
+    }
+  ]
+}

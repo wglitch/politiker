@@ -1,0 +1,41 @@
+{
+  "namn": "Mike Tutsch",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "24264"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "24264"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "24264"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "24264"
+    }
+  ]
+}

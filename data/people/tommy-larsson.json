@@ -1,0 +1,122 @@
+{
+  "namn": "Tommy Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "3497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "3497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "50590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "50590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "50590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "50590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "50590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Färgelanda",
+      "valkrets": "Färgelanda",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "40982"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollebygd",
+      "valkrets": "Bollebygd",
+      "parti": "Folkets Röst",
+      "partiförkortning": "FR",
+      "ordning": "9",
+      "kandidatnummer": "53101"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lidköping",
+      "valkrets": "Lidköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "50590"
+    }
+  ]
+}

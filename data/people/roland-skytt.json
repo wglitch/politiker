@@ -1,0 +1,41 @@
+{
+  "namn": "Roland Skytt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "30953"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "30953"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "30953"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vännäs",
+      "valkrets": "Vännäs",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "30953"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Johan Axhamn",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "42314"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "42314"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Marianne Thessén",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västmanlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "41455"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "41455"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "41455"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sala",
+      "valkrets": "Sala",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "41455"
+    }
+  ]
+}

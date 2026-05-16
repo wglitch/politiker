@@ -1,0 +1,23 @@
+{
+  "namn": "Hodan Omar",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "56461"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "56461"
+    }
+  ]
+}

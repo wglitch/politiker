@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Jonasson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "22978"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "22978"
+    }
+  ]
+}

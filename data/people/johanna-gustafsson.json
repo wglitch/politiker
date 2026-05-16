@@ -1,0 +1,32 @@
+{
+  "namn": "Johanna Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vaggeryd",
+      "valkrets": "Vaggeryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "46398"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tranås",
+      "valkrets": "Tranås",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "37107"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "40429"
+    }
+  ]
+}

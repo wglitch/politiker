@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Häussling Löwgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "44916"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "44916"
+    }
+  ]
+}

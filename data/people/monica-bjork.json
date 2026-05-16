@@ -1,0 +1,23 @@
+{
+  "namn": "Monica Björk",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "16",
+      "kandidatnummer": "12935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "16",
+      "kandidatnummer": "12935"
+    }
+  ]
+}

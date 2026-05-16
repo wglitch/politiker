@@ -1,0 +1,41 @@
+{
+  "namn": "Christoffer Svanberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "4601"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "4601"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "4601"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "51",
+      "kandidatnummer": "4601"
+    }
+  ]
+}

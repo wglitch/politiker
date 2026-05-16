@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Haglund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "51757"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "51757"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anton Markström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "18",
+      "kandidatnummer": "18009"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "2",
+      "kandidatnummer": "18009"
+    }
+  ]
+}

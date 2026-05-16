@@ -1,0 +1,23 @@
+{
+  "namn": "Annelie Frykholm",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "16",
+      "kandidatnummer": "1408"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svalöv",
+      "valkrets": "Svalöv",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "1408"
+    }
+  ]
+}

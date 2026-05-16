@@ -1,0 +1,23 @@
+{
+  "namn": "Ola Pärson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "42483"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "42483"
+    }
+  ]
+}

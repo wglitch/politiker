@@ -1,0 +1,23 @@
+{
+  "namn": "Ester Stolpe",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48067"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48067"
+    }
+  ]
+}

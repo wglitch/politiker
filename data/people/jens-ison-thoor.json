@@ -1,0 +1,23 @@
+{
+  "namn": "Jens Ison Thoor",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "39530"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "39530"
+    }
+  ]
+}

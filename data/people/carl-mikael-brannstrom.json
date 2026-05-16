@@ -1,0 +1,23 @@
+{
+  "namn": "Carl-Mikael Brännström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "7486"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "7486"
+    }
+  ]
+}

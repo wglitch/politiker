@@ -1,0 +1,23 @@
+{
+  "namn": "Katarina Sjöberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "45541"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falköping",
+      "valkrets": "Falköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "49577"
+    }
+  ]
+}

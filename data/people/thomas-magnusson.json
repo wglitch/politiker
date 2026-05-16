@@ -1,0 +1,32 @@
+{
+  "namn": "Thomas Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Solna",
+      "valkrets": "Solna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53446"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37561"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Töreboda",
+      "valkrets": "Töreboda",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "47121"
+    }
+  ]
+}

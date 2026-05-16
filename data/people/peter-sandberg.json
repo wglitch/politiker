@@ -1,0 +1,50 @@
+{
+  "namn": "Peter Sandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "9841"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "9841"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "1",
+      "kandidatnummer": "51887"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "14407"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "9841"
+    }
+  ]
+}

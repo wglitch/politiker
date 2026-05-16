@@ -1,0 +1,32 @@
+{
+  "namn": "Klas Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "6",
+      "kandidatnummer": "13090"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "6",
+      "kandidatnummer": "13090"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "6",
+      "kandidatnummer": "13090"
+    }
+  ]
+}

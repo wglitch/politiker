@@ -1,0 +1,23 @@
+{
+  "namn": "Greger Eneqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "44206"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "44206"
+    }
+  ]
+}

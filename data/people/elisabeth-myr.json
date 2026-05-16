@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabeth Myr",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "51",
+      "kandidatnummer": "11811"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Degerfors",
+      "valkrets": "Degerfors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "11811"
+    }
+  ]
+}

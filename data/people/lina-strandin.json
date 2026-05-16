@@ -1,0 +1,23 @@
+{
+  "namn": "Lina Strandin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "6252"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Leksand",
+      "valkrets": "Leksand",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6252"
+    }
+  ]
+}

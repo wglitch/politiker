@@ -1,0 +1,32 @@
+{
+  "namn": "Kjell Wendin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "38563"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "38563"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arboga",
+      "valkrets": "Arboga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "38563"
+    }
+  ]
+}

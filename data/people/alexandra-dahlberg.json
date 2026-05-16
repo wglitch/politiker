@@ -1,0 +1,50 @@
+{
+  "namn": "Alexandra Dahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37198"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37198"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37198"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "69",
+      "kandidatnummer": "44270"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "21",
+      "kandidatnummer": "54064"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Mats Boström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "50259"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "50259"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "50259"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "50259"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Huddinge",
+      "valkrets": "Huddinge",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "2",
+      "kandidatnummer": "4316"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Björn Forsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sjöbo",
+      "valkrets": "Sjöbo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "22061"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordmaling",
+      "valkrets": "Nordmaling",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "25768"
+    }
+  ]
+}

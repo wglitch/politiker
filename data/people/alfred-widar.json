@@ -1,0 +1,77 @@
+{
+  "namn": "Alfred Widar",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "31",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "33",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "9976"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "9976"
+    }
+  ]
+}

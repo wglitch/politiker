@@ -1,0 +1,41 @@
+{
+  "namn": "Magnus Jakobsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "21",
+      "kandidatnummer": "973"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ystad",
+      "valkrets": "Ystad",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "32840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "26",
+      "kandidatnummer": "973"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "20793"
+    }
+  ]
+}

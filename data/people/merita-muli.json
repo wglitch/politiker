@@ -1,0 +1,23 @@
+{
+  "namn": "Merita Muli",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "4",
+      "kandidatnummer": "54187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "4",
+      "kandidatnummer": "54187"
+    }
+  ]
+}

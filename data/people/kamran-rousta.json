@@ -1,0 +1,41 @@
+{
+  "namn": "Kamran Rousta",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "6",
+      "kandidatnummer": "1739"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1739"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1739"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "9",
+      "kandidatnummer": "1739"
+    }
+  ]
+}

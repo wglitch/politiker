@@ -1,0 +1,32 @@
+{
+  "namn": "Rolf Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "15533"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "22030"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laxå",
+      "valkrets": "Laxå",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "14000"
+    }
+  ]
+}

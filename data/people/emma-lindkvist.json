@@ -1,0 +1,32 @@
+{
+  "namn": "Emma Lindkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "37536"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "37536"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "37536"
+    }
+  ]
+}

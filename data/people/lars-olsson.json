@@ -1,0 +1,176 @@
+{
+  "namn": "Lars Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "13296"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "13296"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "13296"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "32248"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "42471"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "42471"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "21829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "21829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "16451"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Uddevallapartiet",
+      "partiförkortning": "UddP",
+      "ordning": "6",
+      "kandidatnummer": "21727"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "23982"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "41612"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mora",
+      "valkrets": "Mora",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "27039"
+    }
+  ]
+}

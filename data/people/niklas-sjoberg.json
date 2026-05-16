@@ -1,0 +1,95 @@
+{
+  "namn": "Niklas Sjöberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "21260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "21260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "21260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "47969"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skurup",
+      "valkrets": "Skurup",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "47969"
+    }
+  ]
+}

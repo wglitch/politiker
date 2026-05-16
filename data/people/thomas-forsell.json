@@ -1,0 +1,23 @@
+{
+  "namn": "Thomas Forsell",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "35",
+      "kandidatnummer": "20218"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "43",
+      "kandidatnummer": "49263"
+    }
+  ]
+}

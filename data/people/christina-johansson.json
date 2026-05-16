@@ -1,0 +1,50 @@
+{
+  "namn": "Christina Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "34996"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åmål",
+      "valkrets": "Åmål",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "45060"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "28601"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hallsberg",
+      "valkrets": "Hallsberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "10796"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norsjö",
+      "valkrets": "Norsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "50472"
+    }
+  ]
+}

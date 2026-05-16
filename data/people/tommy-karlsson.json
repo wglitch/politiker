@@ -1,0 +1,176 @@
+{
+  "namn": "Tommy Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "49",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "32",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "33",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "35",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "12",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "13",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "34",
+      "kandidatnummer": "18896"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oxelösund",
+      "valkrets": "Oxelösund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "34639"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ödeshög",
+      "valkrets": "Ödeshög",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "35049"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Emmaboda",
+      "valkrets": "Emmaboda",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "29201"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "48448"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lysekil",
+      "valkrets": "Lysekil",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "48817"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hallsberg",
+      "valkrets": "Hallsberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "59",
+      "kandidatnummer": "10865"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Degerfors",
+      "valkrets": "Degerfors",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "4960"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Dalademokraterna",
+      "partiförkortning": "Ddem",
+      "ordning": "19",
+      "kandidatnummer": "18896"
+    }
+  ]
+}

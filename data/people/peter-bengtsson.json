@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "30484"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Landskrona",
+      "valkrets": "Landskrona",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "51",
+      "kandidatnummer": "17496"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Lygdman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "6026"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "6026"
+    }
+  ]
+}

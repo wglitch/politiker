@@ -1,0 +1,23 @@
+{
+  "namn": "Kenneth Rosenqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "43",
+      "kandidatnummer": "50042"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "50042"
+    }
+  ]
+}

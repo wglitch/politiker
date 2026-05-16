@@ -1,0 +1,86 @@
+{
+  "namn": "Maria Söderberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "52566"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "52566"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "3438"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Krokom",
+      "valkrets": "Krokom",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "38",
+      "kandidatnummer": "15070"
+    }
+  ]
+}

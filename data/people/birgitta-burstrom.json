@@ -1,0 +1,41 @@
+{
+  "namn": "Birgitta Burström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "6560"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "6560"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "6560"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "6",
+      "kandidatnummer": "6560"
+    }
+  ]
+}

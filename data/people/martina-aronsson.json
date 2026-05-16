@@ -1,0 +1,77 @@
+{
+  "namn": "Martina Aronsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "11711"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "11711"
+    }
+  ]
+}

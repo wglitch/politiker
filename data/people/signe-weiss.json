@@ -1,0 +1,32 @@
+{
+  "namn": "Signe Weiss",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "51128"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "51128"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "51128"
+    }
+  ]
+}

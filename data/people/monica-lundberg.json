@@ -1,0 +1,23 @@
+{
+  "namn": "Monica Lundberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "48034"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "48034"
+    }
+  ]
+}

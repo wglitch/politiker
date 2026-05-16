@@ -1,0 +1,149 @@
+{
+  "namn": "Daniel Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "37825"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "7426"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "7426"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "7426"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "7426"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "37825"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "37825"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "37825"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "1814"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "34860"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mölndal",
+      "valkrets": "Mölndal",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "42781"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "47145"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusnarsberg",
+      "valkrets": "Ljusnarsberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "7426"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "27425"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storuman",
+      "valkrets": "Storuman",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "37825"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "16118"
+    }
+  ]
+}

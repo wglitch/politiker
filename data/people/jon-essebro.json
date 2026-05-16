@@ -1,0 +1,50 @@
+{
+  "namn": "Jon Essebro",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "36239"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "36239"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "36239"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "36239"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lycksele",
+      "valkrets": "Lycksele",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "36239"
+    }
+  ]
+}

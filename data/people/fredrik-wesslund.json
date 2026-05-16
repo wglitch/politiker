@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Wesslund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "2387"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "2387"
+    }
+  ]
+}

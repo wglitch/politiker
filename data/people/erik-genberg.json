@@ -1,0 +1,41 @@
+{
+  "namn": "Erik Genberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "13304"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "13304"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "13304"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lycksele",
+      "valkrets": "Lycksele",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "13304"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Gustaf Oja",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "33720"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "33720"
+    }
+  ]
+}

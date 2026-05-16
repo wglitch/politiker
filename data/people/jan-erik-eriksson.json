@@ -1,0 +1,41 @@
+{
+  "namn": "Jan-Erik Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "42",
+      "kandidatnummer": "51276"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "9243"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "29",
+      "kandidatnummer": "48315"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sunne",
+      "valkrets": "Sunne",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "32895"
+    }
+  ]
+}

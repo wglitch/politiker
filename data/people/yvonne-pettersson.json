@@ -1,0 +1,23 @@
+{
+  "namn": "Yvonne Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlshamn",
+      "valkrets": "Karlshamn",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "46184"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Färgelanda",
+      "valkrets": "Färgelanda",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "23333"
+    }
+  ]
+}

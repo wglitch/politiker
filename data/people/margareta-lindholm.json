@@ -1,0 +1,32 @@
+{
+  "namn": "Margareta Lindholm",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "9838"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "9838"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "50",
+      "kandidatnummer": "9838"
+    }
+  ]
+}

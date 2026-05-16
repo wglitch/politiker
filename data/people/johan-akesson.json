@@ -1,0 +1,86 @@
+{
+  "namn": "Johan Åkesson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Färgelanda",
+      "valkrets": "Färgelanda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "19311"
+    }
+  ]
+}

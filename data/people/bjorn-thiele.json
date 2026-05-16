@@ -1,0 +1,41 @@
+{
+  "namn": "Björn Thiele",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21427"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21427"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21427"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tranås",
+      "valkrets": "Tranås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "21427"
+    }
+  ]
+}

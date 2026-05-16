@@ -1,0 +1,23 @@
+{
+  "namn": "Aron Fredman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "57",
+      "kandidatnummer": "6845"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "57",
+      "kandidatnummer": "6845"
+    }
+  ]
+}

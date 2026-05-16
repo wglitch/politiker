@@ -1,0 +1,23 @@
+{
+  "namn": "Svante Mlakar",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "63",
+      "kandidatnummer": "28618"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "28618"
+    }
+  ]
+}

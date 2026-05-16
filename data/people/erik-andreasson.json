@@ -1,0 +1,68 @@
+{
+  "namn": "Erik Andreasson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "38138"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "38138"
+    }
+  ]
+}

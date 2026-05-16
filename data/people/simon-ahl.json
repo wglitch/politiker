@@ -1,0 +1,23 @@
+{
+  "namn": "Simon Ahl",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "34",
+      "kandidatnummer": "28175"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "34",
+      "kandidatnummer": "28175"
+    }
+  ]
+}

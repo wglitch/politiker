@@ -1,0 +1,23 @@
+{
+  "namn": "Sonja Dahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "15421"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "25368"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Thomas Dahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "31774"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "31774"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "31774"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Hugo Björken",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "51417"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "51417"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "51417"
+    }
+  ]
+}

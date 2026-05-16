@@ -1,0 +1,23 @@
+{
+  "namn": "Kasper Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "7217"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "7217"
+    }
+  ]
+}

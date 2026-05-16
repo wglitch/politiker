@@ -1,0 +1,50 @@
+{
+  "namn": "Liam Jardbring Runström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "45497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "45497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "45497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "45497"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "45497"
+    }
+  ]
+}

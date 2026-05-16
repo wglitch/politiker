@@ -1,0 +1,23 @@
+{
+  "namn": "Torbjörn Tenggren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "21809"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "21809"
+    }
+  ]
+}

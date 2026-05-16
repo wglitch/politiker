@@ -1,0 +1,32 @@
+{
+  "namn": "Mattias Byström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "39352"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "39352"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "39352"
+    }
+  ]
+}

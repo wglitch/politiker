@@ -1,0 +1,32 @@
+{
+  "namn": "Torsten Åslund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "3097"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "13",
+      "kandidatnummer": "3097"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Smedjebacken",
+      "valkrets": "Smedjebacken",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "1",
+      "kandidatnummer": "3097"
+    }
+  ]
+}

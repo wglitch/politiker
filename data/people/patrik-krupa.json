@@ -1,0 +1,50 @@
+{
+  "namn": "Patrik Krupa",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "1463"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "1463"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "1463"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "1463"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Olofström",
+      "valkrets": "Olofström",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "1463"
+    }
+  ]
+}

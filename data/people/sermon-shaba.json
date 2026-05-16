@@ -1,0 +1,23 @@
+{
+  "namn": "Sermon Shaba",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "42351"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "51",
+      "kandidatnummer": "42351"
+    }
+  ]
+}

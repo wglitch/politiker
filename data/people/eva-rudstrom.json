@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Rudström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48000"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48000"
+    }
+  ]
+}

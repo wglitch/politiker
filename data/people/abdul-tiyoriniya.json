@@ -1,0 +1,23 @@
+{
+  "namn": "Abdul Tiyoriniya",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "17",
+      "kandidatnummer": "42722"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "21",
+      "kandidatnummer": "42722"
+    }
+  ]
+}

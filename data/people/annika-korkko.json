@@ -1,0 +1,32 @@
+{
+  "namn": "Annika Körkkö",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "6097"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "6097"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "6097"
+    }
+  ]
+}

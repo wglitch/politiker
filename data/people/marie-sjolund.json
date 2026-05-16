@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Sjölund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "50",
+      "kandidatnummer": "3934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "50",
+      "kandidatnummer": "3934"
+    }
+  ]
+}

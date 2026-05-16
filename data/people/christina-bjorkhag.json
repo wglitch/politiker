@@ -1,0 +1,41 @@
+{
+  "namn": "Christina Björkhag",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "2591"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "2591"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "2591"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "2591"
+    }
+  ]
+}

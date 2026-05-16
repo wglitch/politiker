@@ -1,0 +1,32 @@
+{
+  "namn": "Roja Mahmoudi",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "8397"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "8397"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "8397"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Friederike Cossey",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "27197"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "27197"
+    }
+  ]
+}

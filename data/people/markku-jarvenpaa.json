@@ -1,0 +1,23 @@
+{
+  "namn": "Markku Järvenpää",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "14330"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "14330"
+    }
+  ]
+}

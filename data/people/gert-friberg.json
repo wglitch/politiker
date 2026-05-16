@@ -1,0 +1,86 @@
+{
+  "namn": "Gert Friberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "20966"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "20966"
+    }
+  ]
+}

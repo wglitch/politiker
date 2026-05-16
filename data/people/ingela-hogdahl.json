@@ -1,0 +1,23 @@
+{
+  "namn": "Ingela Högdahl",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "26710"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "26710"
+    }
+  ]
+}

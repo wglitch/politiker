@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Widerberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "45",
+      "kandidatnummer": "15462"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "15462"
+    }
+  ]
+}

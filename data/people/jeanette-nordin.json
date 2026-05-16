@@ -1,0 +1,50 @@
+{
+  "namn": "Jeanette Nordin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "4587"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "4587"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "4587"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "13753"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "56",
+      "kandidatnummer": "4587"
+    }
+  ]
+}

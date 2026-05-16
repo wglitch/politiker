@@ -1,0 +1,23 @@
+{
+  "namn": "Kim Ahlstrand",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "31",
+      "kandidatnummer": "31126"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "31",
+      "kandidatnummer": "31126"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Selma Öström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21539"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21539"
+    }
+  ]
+}

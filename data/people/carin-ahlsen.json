@@ -1,0 +1,32 @@
+{
+  "namn": "Carin Ahlsén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "12586"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "12586"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "12586"
+    }
+  ]
+}

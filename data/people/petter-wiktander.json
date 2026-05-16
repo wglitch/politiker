@@ -1,0 +1,41 @@
+{
+  "namn": "Petter Wiktander",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "16",
+      "kandidatnummer": "37612"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "16",
+      "kandidatnummer": "37612"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "16",
+      "kandidatnummer": "37612"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "12",
+      "kandidatnummer": "37612"
+    }
+  ]
+}

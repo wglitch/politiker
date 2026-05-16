@@ -1,0 +1,50 @@
+{
+  "namn": "Åsa Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "12703"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "70",
+      "kandidatnummer": "3417"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "70",
+      "kandidatnummer": "3417"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "70",
+      "kandidatnummer": "3417"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "12703"
+    }
+  ]
+}

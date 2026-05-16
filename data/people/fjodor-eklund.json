@@ -1,0 +1,68 @@
+{
+  "namn": "Fjodor Eklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "43212"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "43212"
+    }
+  ]
+}

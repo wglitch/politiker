@@ -1,0 +1,23 @@
+{
+  "namn": "Tommy Swärdh",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6743"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "6743"
+    }
+  ]
+}

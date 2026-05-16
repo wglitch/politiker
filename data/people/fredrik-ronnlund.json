@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Rönnlund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "21",
+      "kandidatnummer": "29228"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "21",
+      "kandidatnummer": "29228"
+    }
+  ]
+}

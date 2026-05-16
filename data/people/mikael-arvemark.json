@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Arvemark",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "25416"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "25416"
+    }
+  ]
+}

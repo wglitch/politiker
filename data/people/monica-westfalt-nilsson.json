@@ -1,0 +1,23 @@
+{
+  "namn": "Monica Westfält-Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "34486"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "34486"
+    }
+  ]
+}

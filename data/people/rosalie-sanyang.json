@@ -1,0 +1,23 @@
+{
+  "namn": "Rosalie Sanyang",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "42594"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "42594"
+    }
+  ]
+}

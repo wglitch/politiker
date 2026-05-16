@@ -1,0 +1,95 @@
+{
+  "namn": "Anna-Karin Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "3345"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "3345"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "4617"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "3345"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "4617"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "3345"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "4617"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "5",
+      "kandidatnummer": "13928"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordmaling",
+      "valkrets": "Nordmaling",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "3345"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "44",
+      "kandidatnummer": "4617"
+    }
+  ]
+}

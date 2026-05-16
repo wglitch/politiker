@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Jung",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "47",
+      "kandidatnummer": "7488"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "47",
+      "kandidatnummer": "7488"
+    }
+  ]
+}

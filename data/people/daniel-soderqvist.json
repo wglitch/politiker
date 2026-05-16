@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Söderqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "5294"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härjedalen",
+      "valkrets": "Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "5294"
+    }
+  ]
+}

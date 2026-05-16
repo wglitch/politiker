@@ -1,0 +1,23 @@
+{
+  "namn": "Jennie Östlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "9107"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "9107"
+    }
+  ]
+}

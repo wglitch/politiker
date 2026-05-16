@@ -1,0 +1,23 @@
+{
+  "namn": "Pia Ortiz-Venegas",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "53411"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Salem",
+      "valkrets": "Salem",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "53411"
+    }
+  ]
+}

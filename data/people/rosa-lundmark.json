@@ -1,0 +1,401 @@
+{
+  "namn": "Rosa Lundmark",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms kommun",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "53135"
+    }
+  ]
+}

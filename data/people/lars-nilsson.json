@@ -1,0 +1,158 @@
+{
+  "namn": "Lars Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "18677"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "6103"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "45938"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "45938"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "45938"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "16570"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hultsfred",
+      "valkrets": "Hultsfred",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "16046"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vimmerby",
+      "valkrets": "Vimmerby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "10698"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "31703"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mellerud",
+      "valkrets": "Mellerud",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "15021"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mölndal",
+      "valkrets": "Mölndal",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "31006"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristinehamn",
+      "valkrets": "Kristinehamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "35665"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "36",
+      "kandidatnummer": "18677"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "6103"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "6103"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "45938"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "45938"
+    }
+  ]
+}

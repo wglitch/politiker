@@ -1,0 +1,32 @@
+{
+  "namn": "Eva Engström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "42",
+      "kandidatnummer": "35233"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "4359"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "35233"
+    }
+  ]
+}

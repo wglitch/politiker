@@ -1,0 +1,32 @@
+{
+  "namn": "Cecilia Zimmerman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "2585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "2585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "2585"
+    }
+  ]
+}

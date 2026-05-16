@@ -1,0 +1,23 @@
+{
+  "namn": "Annelee Ljung",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "18412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "18412"
+    }
+  ]
+}

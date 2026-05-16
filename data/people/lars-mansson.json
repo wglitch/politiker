@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Månsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "36",
+      "kandidatnummer": "7538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "30527"
+    }
+  ]
+}

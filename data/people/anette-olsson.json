@@ -1,0 +1,68 @@
+{
+  "namn": "Anette Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "30048"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56674"
+    }
+  ]
+}

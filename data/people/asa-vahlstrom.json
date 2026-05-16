@@ -1,0 +1,23 @@
+{
+  "namn": "Åsa Vahlström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "51",
+      "kandidatnummer": "12006"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "20",
+      "kandidatnummer": "12006"
+    }
+  ]
+}

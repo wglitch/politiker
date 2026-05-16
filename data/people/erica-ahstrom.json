@@ -1,0 +1,41 @@
+{
+  "namn": "Erica Åhström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "5024"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "5024"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "5024"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "5024"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Niclas Svedberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "1741"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "1741"
+    }
+  ]
+}

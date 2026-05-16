@@ -1,0 +1,23 @@
+{
+  "namn": "Carl Johan Insulander",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "34533"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "34533"
+    }
+  ]
+}

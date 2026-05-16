@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Elisson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Demokratiresan",
+      "partiförkortning": "DemR",
+      "ordning": "6",
+      "kandidatnummer": "56519"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kumla",
+      "valkrets": "Kumla",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "18834"
+    }
+  ]
+}

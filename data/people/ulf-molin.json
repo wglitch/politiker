@@ -1,0 +1,77 @@
+{
+  "namn": "Ulf Molin",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "2156"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höganäs",
+      "valkrets": "Höganäs",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "2156"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Gråbo",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "48",
+      "kandidatnummer": "1193"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hedemora",
+      "valkrets": "Hedemora",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "1193"
+    }
+  ]
+}

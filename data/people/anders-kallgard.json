@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Källgård",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "20",
+      "kandidatnummer": "52935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "20",
+      "kandidatnummer": "52935"
+    }
+  ]
+}

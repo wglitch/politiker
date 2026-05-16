@@ -1,0 +1,59 @@
+{
+  "namn": "Patrick Kretschmann",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "3450"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "3450"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "3450"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "3450"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "3450"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lindesberg",
+      "valkrets": "Lindesberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "3450"
+    }
+  ]
+}

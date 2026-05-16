@@ -1,0 +1,32 @@
+{
+  "namn": "Peter Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vingåker",
+      "valkrets": "Vingåker",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "40067"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "5953"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vara",
+      "valkrets": "Vara",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "48865"
+    }
+  ]
+}

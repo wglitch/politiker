@@ -1,0 +1,23 @@
+{
+  "namn": "Napassorn \"Apple\" Thongngam",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "66",
+      "kandidatnummer": "12015"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "29",
+      "kandidatnummer": "12015"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sirilak Phuthom",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "61",
+      "kandidatnummer": "40510"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "59",
+      "kandidatnummer": "40510"
+    }
+  ]
+}

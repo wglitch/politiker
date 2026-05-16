@@ -1,0 +1,23 @@
+{
+  "namn": "Ingrid Tagesdotter",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "28470"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvidsjaur",
+      "valkrets": "Arvidsjaur",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "28470"
+    }
+  ]
+}

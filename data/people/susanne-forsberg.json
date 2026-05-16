@@ -1,0 +1,50 @@
+{
+  "namn": "Susanne Forsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "5962"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "5962"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "5962"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "5962"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nora",
+      "valkrets": "Nora",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "5962"
+    }
+  ]
+}

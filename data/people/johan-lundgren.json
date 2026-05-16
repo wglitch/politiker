@@ -1,0 +1,32 @@
+{
+  "namn": "Johan Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "11333"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "27",
+      "kandidatnummer": "12619"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvidsjaur",
+      "valkrets": "Arvidsjaur",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "21660"
+    }
+  ]
+}

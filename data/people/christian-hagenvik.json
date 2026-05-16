@@ -1,0 +1,32 @@
+{
+  "namn": "Christian Hagenvik",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "32",
+      "kandidatnummer": "51022"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "28",
+      "kandidatnummer": "51022"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "28",
+      "kandidatnummer": "51022"
+    }
+  ]
+}

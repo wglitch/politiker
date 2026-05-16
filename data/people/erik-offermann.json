@@ -1,0 +1,23 @@
+{
+  "namn": "Erik Offermann",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "33718"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalix",
+      "valkrets": "Kalix",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "33718"
+    }
+  ]
+}

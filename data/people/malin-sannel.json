@@ -1,0 +1,23 @@
+{
+  "namn": "Malin Sannel",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "29215"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "29215"
+    }
+  ]
+}

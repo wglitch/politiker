@@ -1,0 +1,50 @@
+{
+  "namn": "James Sandstedt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "48845"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "48845"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "48845"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "48845"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Olofström",
+      "valkrets": "Olofström",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "48845"
+    }
+  ]
+}

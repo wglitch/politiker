@@ -1,0 +1,77 @@
+{
+  "namn": "Erica Wärnberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "2",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56349"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56349"
+    }
+  ]
+}

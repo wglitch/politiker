@@ -1,0 +1,32 @@
+{
+  "namn": "Susanne Möller",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "27924"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "27924"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grästorp",
+      "valkrets": "Grästorp",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "27699"
+    }
+  ]
+}

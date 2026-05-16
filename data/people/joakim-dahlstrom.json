@@ -1,0 +1,113 @@
+{
+  "namn": "Joakim Dahlström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "2597"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "2597"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "2597"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "2597"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "18973"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "18973"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "18973"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "18973"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "18973"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "2597"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "52",
+      "kandidatnummer": "48715"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "36",
+      "kandidatnummer": "18973"
+    }
+  ]
+}

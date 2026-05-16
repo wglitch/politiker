@@ -1,0 +1,23 @@
+{
+  "namn": "Eric Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "69",
+      "kandidatnummer": "6686"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "62",
+      "kandidatnummer": "6686"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Carina Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "14892"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "14892"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laxå",
+      "valkrets": "Laxå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "46040"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderhamn",
+      "valkrets": "Söderhamn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "14892"
+    }
+  ]
+}

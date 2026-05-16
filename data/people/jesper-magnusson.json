@@ -1,0 +1,23 @@
+{
+  "namn": "Jesper Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "39",
+      "kandidatnummer": "35167"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "35167"
+    }
+  ]
+}

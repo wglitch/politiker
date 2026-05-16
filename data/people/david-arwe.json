@@ -1,0 +1,32 @@
+{
+  "namn": "David Arwe",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "35937"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "35937"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ovanåker",
+      "valkrets": "Ovanåker",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "35937"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Daniel Ericgörs",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "25835"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "25835"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "25835"
+    }
+  ]
+}

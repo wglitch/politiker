@@ -1,0 +1,41 @@
+{
+  "namn": "Jeanette Berggren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "13549"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "13549"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "13549"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norsjö",
+      "valkrets": "Norsjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "13549"
+    }
+  ]
+}

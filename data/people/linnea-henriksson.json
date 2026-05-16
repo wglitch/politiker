@@ -1,0 +1,23 @@
+{
+  "namn": "Linnea Henriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "21048"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollnäs",
+      "valkrets": "Bollnäs",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "31",
+      "kandidatnummer": "52145"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Tony Lönn",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "12",
+      "kandidatnummer": "5610"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "12",
+      "kandidatnummer": "5610"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "12",
+      "kandidatnummer": "5610"
+    }
+  ]
+}

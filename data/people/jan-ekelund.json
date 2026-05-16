@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Ekelund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "7293"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "7293"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Sjögren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "5506"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "48725"
+    }
+  ]
+}

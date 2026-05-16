@@ -1,0 +1,23 @@
+{
+  "namn": "Urs Bütikofer",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "54047"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "54047"
+    }
+  ]
+}

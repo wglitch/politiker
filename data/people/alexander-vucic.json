@@ -1,0 +1,41 @@
+{
+  "namn": "Alexander Vucic",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "15",
+      "kandidatnummer": "47419"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "15",
+      "kandidatnummer": "47419"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "15",
+      "kandidatnummer": "47419"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "3",
+      "kandidatnummer": "47419"
+    }
+  ]
+}

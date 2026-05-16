@@ -1,0 +1,41 @@
+{
+  "namn": "Maria Lindqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "36702"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "36702"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "34924"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lindesberg",
+      "valkrets": "Lindesberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "28",
+      "kandidatnummer": "10576"
+    }
+  ]
+}

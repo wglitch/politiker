@@ -1,0 +1,23 @@
+{
+  "namn": "Berith Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "40",
+      "kandidatnummer": "8457"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "8457"
+    }
+  ]
+}

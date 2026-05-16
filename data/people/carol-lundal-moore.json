@@ -1,0 +1,32 @@
+{
+  "namn": "Carol Lundal Moore",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "54859"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "54859"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "54859"
+    }
+  ]
+}

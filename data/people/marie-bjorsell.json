@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Björsell",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "70",
+      "kandidatnummer": "11024"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "31",
+      "kandidatnummer": "11024"
+    }
+  ]
+}

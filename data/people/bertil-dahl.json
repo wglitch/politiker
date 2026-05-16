@@ -1,0 +1,32 @@
+{
+  "namn": "Bertil Dahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "33",
+      "kandidatnummer": "27086"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "17856"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "17856"
+    }
+  ]
+}

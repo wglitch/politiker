@@ -1,0 +1,68 @@
+{
+  "namn": "Andreas Häll",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "24",
+      "kandidatnummer": "25323"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vårgårda",
+      "valkrets": "Vårgårda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "25323"
+    }
+  ]
+}

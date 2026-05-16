@@ -1,0 +1,23 @@
+{
+  "namn": "Oscar Gomez Denis",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "26723"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "28",
+      "kandidatnummer": "26723"
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "namn": "Mark Tingvall",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "26",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "30",
+      "kandidatnummer": "29126"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "17",
+      "kandidatnummer": "29126"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Skoglund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "53668"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvkarleby",
+      "valkrets": "Älvkarleby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "4495"
+    }
+  ]
+}

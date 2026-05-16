@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Albertsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "6262"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malung-Sälen",
+      "valkrets": "Malung-Sälen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "31",
+      "kandidatnummer": "6262"
+    }
+  ]
+}

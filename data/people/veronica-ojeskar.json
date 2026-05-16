@@ -1,0 +1,59 @@
+{
+  "namn": "Veronica Öjeskär",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "26",
+      "kandidatnummer": "54298"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "26",
+      "kandidatnummer": "54298"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "26",
+      "kandidatnummer": "54298"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "26",
+      "kandidatnummer": "54298"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "26",
+      "kandidatnummer": "54298"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "6",
+      "kandidatnummer": "54298"
+    }
+  ]
+}

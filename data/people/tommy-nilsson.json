@@ -1,0 +1,176 @@
+{
+  "namn": "Tommy Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "27620"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "47763"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östra Göinge",
+      "valkrets": "Östra Göinge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "22449"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sjöbo",
+      "valkrets": "Sjöbo",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "27",
+      "kandidatnummer": "52735"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "29860"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "16543"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "21811"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "38674"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "21811"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "38674"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "15",
+      "kandidatnummer": "37547"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "27620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "47763"
+    }
+  ]
+}

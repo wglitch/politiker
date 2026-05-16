@@ -1,0 +1,23 @@
+{
+  "namn": "Gunilla Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ystad",
+      "valkrets": "Ystad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "46",
+      "kandidatnummer": "22394"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "40536"
+    }
+  ]
+}

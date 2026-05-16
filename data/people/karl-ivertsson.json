@@ -1,0 +1,23 @@
+{
+  "namn": "Karl Ivertsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "14084"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "14084"
+    }
+  ]
+}

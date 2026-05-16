@@ -1,0 +1,23 @@
+{
+  "namn": "Emil Åhman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "25913"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "25913"
+    }
+  ]
+}

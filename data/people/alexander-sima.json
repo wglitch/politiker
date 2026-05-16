@@ -1,0 +1,23 @@
+{
+  "namn": "Alexander Sima",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "5254"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Solna",
+      "valkrets": "Solna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "5254"
+    }
+  ]
+}

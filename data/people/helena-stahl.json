@@ -1,0 +1,32 @@
+{
+  "namn": "Helena Ståhl",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "63",
+      "kandidatnummer": "17000"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "17000"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "17000"
+    }
+  ]
+}

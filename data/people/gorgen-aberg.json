@@ -1,0 +1,23 @@
+{
+  "namn": "Görgen Åberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "6634"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arjeplog",
+      "valkrets": "Arjeplog",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "6634"
+    }
+  ]
+}

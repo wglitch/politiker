@@ -1,0 +1,23 @@
+{
+  "namn": "Malou Asplund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "23",
+      "kandidatnummer": "12891"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "2",
+      "kandidatnummer": "12891"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Mikael Gunnarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9714"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9714"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "9714"
+    }
+  ]
+}

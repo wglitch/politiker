@@ -1,0 +1,32 @@
+{
+  "namn": "Yvonne Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hultsfred",
+      "valkrets": "Hultsfred",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "16057"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "42",
+      "kandidatnummer": "39137"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Smedjebacken",
+      "valkrets": "Smedjebacken",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "2",
+      "kandidatnummer": "16198"
+    }
+  ]
+}

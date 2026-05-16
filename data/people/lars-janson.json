@@ -1,0 +1,41 @@
+{
+  "namn": "Lars Janson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "12",
+      "kandidatnummer": "40928"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "12",
+      "kandidatnummer": "40928"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "12",
+      "kandidatnummer": "40928"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "40928"
+    }
+  ]
+}

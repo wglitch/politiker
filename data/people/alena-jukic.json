@@ -1,0 +1,41 @@
+{
+  "namn": "Alena Jukic",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms kommun",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "40",
+      "kandidatnummer": "53330"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "40",
+      "kandidatnummer": "53330"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "53330"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "53330"
+    }
+  ]
+}

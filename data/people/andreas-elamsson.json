@@ -1,0 +1,41 @@
+{
+  "namn": "Andreas Elamsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "3069"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "3069"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "3069"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "3069"
+    }
+  ]
+}

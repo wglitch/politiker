@@ -1,0 +1,23 @@
+{
+  "namn": "Sven Tornberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "37671"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "37671"
+    }
+  ]
+}

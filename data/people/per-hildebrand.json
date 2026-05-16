@@ -1,0 +1,32 @@
+{
+  "namn": "Per Hildebrand",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "3213"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "11",
+      "kandidatnummer": "3213"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "3213"
+    }
+  ]
+}

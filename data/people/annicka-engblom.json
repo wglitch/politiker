@@ -1,0 +1,68 @@
+{
+  "namn": "Annicka Engblom",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "1462"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "1462"
+    }
+  ]
+}

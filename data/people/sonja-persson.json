@@ -1,0 +1,32 @@
+{
+  "namn": "Sonja Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "31803"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "31753"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "15",
+      "kandidatnummer": "56428"
+    }
+  ]
+}

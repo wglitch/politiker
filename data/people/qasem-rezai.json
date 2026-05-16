@@ -1,0 +1,77 @@
+{
+  "namn": "Qasem Rezai",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "31082"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "31082"
+    }
+  ]
+}

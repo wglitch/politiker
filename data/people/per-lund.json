@@ -1,0 +1,23 @@
+{
+  "namn": "Per Lund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "41",
+      "kandidatnummer": "30702"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vara",
+      "valkrets": "Vara",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "48888"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Dahlkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "28781"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "28781"
+    }
+  ]
+}

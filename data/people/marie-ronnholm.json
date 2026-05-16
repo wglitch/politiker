@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Rönnholm",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "38850"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "38850"
+    }
+  ]
+}

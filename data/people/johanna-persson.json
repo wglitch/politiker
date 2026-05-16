@@ -1,0 +1,77 @@
+{
+  "namn": "Johanna Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "4289"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "4511"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "21",
+      "kandidatnummer": "4289"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "4511"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "20961"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "20961"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mora",
+      "valkrets": "Mora",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "4289"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "50",
+      "kandidatnummer": "4511"
+    }
+  ]
+}

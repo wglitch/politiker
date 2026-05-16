@@ -1,0 +1,77 @@
+{
+  "namn": "Rebecca Thell",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "31081"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "31081"
+    }
+  ]
+}

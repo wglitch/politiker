@@ -1,0 +1,23 @@
+{
+  "namn": "Susanna Koivuranta",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "52255"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "52255"
+    }
+  ]
+}

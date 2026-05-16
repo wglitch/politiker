@@ -1,0 +1,32 @@
+{
+  "namn": "Marina Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "18415"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "18415"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Flen",
+      "valkrets": "Flen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "35285"
+    }
+  ]
+}

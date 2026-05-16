@@ -1,0 +1,32 @@
+{
+  "namn": "Anders Kjellström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "15",
+      "kandidatnummer": "55429"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "55429"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Landskrona",
+      "valkrets": "Landskrona",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "36880"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Stina Borjo",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "40",
+      "kandidatnummer": "11803"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Degerfors",
+      "valkrets": "Degerfors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "11803"
+    }
+  ]
+}

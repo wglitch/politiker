@@ -1,0 +1,32 @@
+{
+  "namn": "Gunilla Molin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "9711"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "9711"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Fagersta",
+      "valkrets": "Fagersta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "9711"
+    }
+  ]
+}

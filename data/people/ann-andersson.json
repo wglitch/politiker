@@ -1,0 +1,23 @@
+{
+  "namn": "Ann Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "20972"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "20972"
+    }
+  ]
+}

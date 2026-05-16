@@ -1,0 +1,41 @@
+{
+  "namn": "Roland Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vaggeryd",
+      "valkrets": "Vaggeryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "46394"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "35739"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "35739"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falköping",
+      "valkrets": "Falköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "33545"
+    }
+  ]
+}

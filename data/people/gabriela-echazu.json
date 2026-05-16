@@ -1,0 +1,41 @@
+{
+  "namn": "Gabriela Echazú",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "56496"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "56496"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "56496"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "4",
+      "kandidatnummer": "56496"
+    }
+  ]
+}

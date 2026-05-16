@@ -1,0 +1,23 @@
+{
+  "namn": "Kim Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "15965"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "22",
+      "kandidatnummer": "52844"
+    }
+  ]
+}

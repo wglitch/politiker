@@ -1,0 +1,32 @@
+{
+  "namn": "Ewa Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "30",
+      "kandidatnummer": "45618"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Forshaga",
+      "valkrets": "Forshaga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "19893"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Arvikapartiet",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "1290"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Svedala",
+      "valkrets": "Svedala",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "46860"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "45234"
+    }
+  ]
+}

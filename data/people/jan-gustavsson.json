@@ -1,0 +1,41 @@
+{
+  "namn": "Jan Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "50",
+      "kandidatnummer": "37230"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "50",
+      "kandidatnummer": "37230"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "50",
+      "kandidatnummer": "37230"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härryda",
+      "valkrets": "Härryda",
+      "parti": "SPORT- OCH KOMMUNPARTIET",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "30863"
+    }
+  ]
+}

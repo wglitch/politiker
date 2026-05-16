@@ -1,0 +1,104 @@
+{
+  "namn": "Roger Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "45",
+      "kandidatnummer": "29795"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "6572"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mullsjö",
+      "valkrets": "Mullsjö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "55110"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "33",
+      "kandidatnummer": "11952"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "25075"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dals-Ed",
+      "valkrets": "Dals-Ed",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "23307"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "31",
+      "kandidatnummer": "47024"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Forshaga",
+      "valkrets": "Forshaga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "29795"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kumla",
+      "valkrets": "Kumla",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "18840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Västra Initiativet",
+      "partiförkortning": "VSKB",
+      "ordning": "8",
+      "kandidatnummer": "56013"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "38236"
+    }
+  ]
+}

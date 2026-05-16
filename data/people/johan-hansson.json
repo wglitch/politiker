@@ -1,0 +1,50 @@
+{
+  "namn": "Johan Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åstorp",
+      "valkrets": "Åstorp",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "22430"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "33033"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Munkedal",
+      "valkrets": "Munkedal",
+      "parti": "Ansvar i samverkan",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "51909"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vårgårda",
+      "valkrets": "Vårgårda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "18905"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vara",
+      "valkrets": "Vara",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "33281"
+    }
+  ]
+}

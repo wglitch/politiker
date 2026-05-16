@@ -1,0 +1,23 @@
+{
+  "namn": "Jesper Håkansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "35305"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "35305"
+    }
+  ]
+}

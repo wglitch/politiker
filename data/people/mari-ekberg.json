@@ -1,0 +1,41 @@
+{
+  "namn": "Mari Ekberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "7256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "7256"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "7256"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "7256"
+    }
+  ]
+}

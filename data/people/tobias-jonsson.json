@@ -1,0 +1,32 @@
+{
+  "namn": "Tobias Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "22814"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "20975"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "20975"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Niclas Lundin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "14811"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "14811"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sofia Andersson Dharsani",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "20465"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "20465"
+    }
+  ]
+}

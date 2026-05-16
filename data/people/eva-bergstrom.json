@@ -1,0 +1,41 @@
+{
+  "namn": "Eva Bergström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "19",
+      "kandidatnummer": "29226"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "19",
+      "kandidatnummer": "29226"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ängelholm",
+      "valkrets": "Ängelholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "30513"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "10970"
+    }
+  ]
+}

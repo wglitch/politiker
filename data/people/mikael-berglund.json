@@ -1,0 +1,41 @@
+{
+  "namn": "Mikael Berglund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "39410"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ale",
+      "valkrets": "Ale",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "33115"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "9801"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "9801"
+    }
+  ]
+}

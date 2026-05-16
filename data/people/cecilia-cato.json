@@ -1,0 +1,23 @@
+{
+  "namn": "Cecilia Cato",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "6353"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "6353"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Per-Olof Lundqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "50322"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "50322"
+    }
+  ]
+}

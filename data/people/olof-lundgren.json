@@ -1,0 +1,23 @@
+{
+  "namn": "Olof Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "51752"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "51752"
+    }
+  ]
+}

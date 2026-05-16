@@ -1,0 +1,95 @@
+{
+  "namn": "Henrik Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "15",
+      "kandidatnummer": "50992"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "50992"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "50992"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "50992"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "50992"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "33945"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "33941"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svedala",
+      "valkrets": "Svedala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "22167"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömstad",
+      "valkrets": "Strömstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "36023"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Medborgarpartiet",
+      "partiförkortning": "Vfp",
+      "ordning": "26",
+      "kandidatnummer": "32684"
+    }
+  ]
+}

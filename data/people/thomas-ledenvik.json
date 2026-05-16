@@ -1,0 +1,23 @@
+{
+  "namn": "Thomas Ledenvik",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "26064"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Flen",
+      "valkrets": "Flen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "26064"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sara Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "23752"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "23752"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Roger Östlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5448"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ragunda",
+      "valkrets": "Ragunda",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "5448"
+    }
+  ]
+}

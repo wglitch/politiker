@@ -1,0 +1,23 @@
+{
+  "namn": "Gabriella Eidhagen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "43190"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hofors",
+      "valkrets": "Hofors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "43190"
+    }
+  ]
+}

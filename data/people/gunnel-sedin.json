@@ -1,0 +1,23 @@
+{
+  "namn": "Gunnel Sedin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "51727"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "51727"
+    }
+  ]
+}

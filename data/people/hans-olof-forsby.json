@@ -1,0 +1,23 @@
+{
+  "namn": "Hans-Olof Forsby",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56375"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "1",
+      "kandidatnummer": "56375"
+    }
+  ]
+}

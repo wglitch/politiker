@@ -1,0 +1,23 @@
+{
+  "namn": "Benny Strömberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "44560"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "44560"
+    }
+  ]
+}

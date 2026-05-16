@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Holm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Österåker",
+      "valkrets": "Österåker",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "7740"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "50",
+      "kandidatnummer": "29098"
+    }
+  ]
+}

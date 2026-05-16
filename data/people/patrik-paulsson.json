@@ -1,0 +1,23 @@
+{
+  "namn": "Patrik Paulsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "25605"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "25605"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Fredrik Hellwig",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "44335"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sjöbo",
+      "valkrets": "Sjöbo",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "44335"
+    }
+  ]
+}

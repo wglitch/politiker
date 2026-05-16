@@ -1,0 +1,41 @@
+{
+  "namn": "Daniel Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "15754"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vellinge",
+      "valkrets": "Vellinge",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "3567"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "16675"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "15754"
+    }
+  ]
+}

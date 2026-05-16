@@ -1,0 +1,68 @@
+{
+  "namn": "Friedemann Hildebrand",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "53479"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömstad",
+      "valkrets": "Strömstad",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "53479"
+    }
+  ]
+}

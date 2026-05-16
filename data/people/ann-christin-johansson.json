@@ -1,0 +1,32 @@
+{
+  "namn": "Ann-Christin Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "26958"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hedemora",
+      "valkrets": "Hedemora",
+      "parti": "Kommunlistan",
+      "partiförkortning": "KLH",
+      "ordning": "20",
+      "kandidatnummer": "55655"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "12723"
+    }
+  ]
+}

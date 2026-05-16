@@ -1,0 +1,23 @@
+{
+  "namn": "Lisa Stolpe",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "50839"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "50839"
+    }
+  ]
+}

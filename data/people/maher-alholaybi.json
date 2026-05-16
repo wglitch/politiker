@@ -1,0 +1,32 @@
+{
+  "namn": "Maher Alholaybi",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "39407"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "60",
+      "kandidatnummer": "39407"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "39407"
+    }
+  ]
+}

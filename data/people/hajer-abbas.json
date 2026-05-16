@@ -1,0 +1,23 @@
+{
+  "namn": "Hajer Abbas",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "38692"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "38692"
+    }
+  ]
+}

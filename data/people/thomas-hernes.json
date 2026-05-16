@@ -1,0 +1,23 @@
+{
+  "namn": "Thomas Hernes",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "27074"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "27074"
+    }
+  ]
+}

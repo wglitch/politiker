@@ -1,0 +1,32 @@
+{
+  "namn": "Göran Hammarlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "17",
+      "kandidatnummer": "3226"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "22",
+      "kandidatnummer": "3226"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "3226"
+    }
+  ]
+}

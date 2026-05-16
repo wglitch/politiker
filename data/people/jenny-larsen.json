@@ -1,0 +1,41 @@
+{
+  "namn": "Jenny Larsen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "40766"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "40766"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "40766"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vaggeryd",
+      "valkrets": "Vaggeryd",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "40766"
+    }
+  ]
+}

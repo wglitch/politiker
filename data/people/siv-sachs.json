@@ -1,0 +1,23 @@
+{
+  "namn": "Siv Sachs",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "6747"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "6747"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ewa Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "43498"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "33473"
+    }
+  ]
+}

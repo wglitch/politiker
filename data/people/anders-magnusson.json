@@ -1,0 +1,77 @@
+{
+  "namn": "Anders Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "36820"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "5399"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Valdemarsvik",
+      "valkrets": "Valdemarsvik",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "21317"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "29318"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "36820"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "13762"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "5399"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordmaling",
+      "valkrets": "Nordmaling",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "25766"
+    }
+  ]
+}

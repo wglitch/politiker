@@ -1,0 +1,23 @@
+{
+  "namn": "Smilla Jalasjoki",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Feministerna och Kommunisterna",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "56061"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Feministerna och Kommunisterna",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "56061"
+    }
+  ]
+}

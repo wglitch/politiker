@@ -1,0 +1,23 @@
+{
+  "namn": "Martin Boström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "30727"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Forshaga",
+      "valkrets": "Forshaga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "30727"
+    }
+  ]
+}

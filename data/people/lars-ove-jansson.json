@@ -1,0 +1,23 @@
+{
+  "namn": "Lars-Ove Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "29407"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Dalademokraterna",
+      "partiförkortning": "Ddem",
+      "ordning": "10",
+      "kandidatnummer": "18894"
+    }
+  ]
+}

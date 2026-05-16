@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Bouzerzour",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "53276"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "53276"
+    }
+  ]
+}

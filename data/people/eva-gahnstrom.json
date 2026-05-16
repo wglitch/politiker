@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Gahnström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "43695"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "43695"
+    }
+  ]
+}

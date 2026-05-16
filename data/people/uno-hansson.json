@@ -1,0 +1,86 @@
+{
+  "namn": "Uno Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "28054"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "1325"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "1325"
+    }
+  ]
+}

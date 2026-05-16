@@ -1,0 +1,32 @@
+{
+  "namn": "Bo Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Valdemarsvik",
+      "valkrets": "Valdemarsvik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "2305"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "23371"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Jämtlands Väl Bräcke",
+      "partiförkortning": "JVB",
+      "ordning": "13",
+      "kandidatnummer": "20351"
+    }
+  ]
+}

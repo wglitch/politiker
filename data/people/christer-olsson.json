@@ -1,0 +1,95 @@
+{
+  "namn": "Christer Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "24756"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "24756"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "24756"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "27",
+      "kandidatnummer": "24756"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "32770"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "9078"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "31026"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dals-Ed",
+      "valkrets": "Dals-Ed",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "33636"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nora",
+      "valkrets": "Nora",
+      "parti": "Norapartiet",
+      "partiförkortning": "NOR",
+      "ordning": "3",
+      "kandidatnummer": "56788"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Jämtlands Väl Bräcke",
+      "partiförkortning": "JVB",
+      "ordning": "1",
+      "kandidatnummer": "18377"
+    }
+  ]
+}

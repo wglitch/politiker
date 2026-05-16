@@ -1,0 +1,23 @@
+{
+  "namn": "Natalie Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "2016"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "2016"
+    }
+  ]
+}

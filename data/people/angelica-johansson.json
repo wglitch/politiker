@@ -1,0 +1,32 @@
+{
+  "namn": "Angelica Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "60",
+      "kandidatnummer": "16682"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Kommunens Väl",
+      "partiförkortning": "Komv",
+      "ordning": "3",
+      "kandidatnummer": "25654"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "42",
+      "kandidatnummer": "16682"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabet Da Cruz",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "9",
+      "kandidatnummer": "48005"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "9",
+      "kandidatnummer": "48005"
+    }
+  ]
+}

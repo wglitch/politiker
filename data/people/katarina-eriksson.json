@@ -1,0 +1,23 @@
+{
+  "namn": "Katarina Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "24",
+      "kandidatnummer": "40905"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Götene",
+      "valkrets": "Götene",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "22206"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Pea Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "6283"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mora",
+      "valkrets": "Mora",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "6283"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Steen",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Framtid Öland",
+      "partiförkortning": "FÖL",
+      "ordning": "5",
+      "kandidatnummer": "31842"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "6",
+      "kandidatnummer": "52973"
+    }
+  ]
+}

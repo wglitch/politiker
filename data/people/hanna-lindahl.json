@@ -1,0 +1,23 @@
+{
+  "namn": "Hanna Lindahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "1885"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "1885"
+    }
+  ]
+}

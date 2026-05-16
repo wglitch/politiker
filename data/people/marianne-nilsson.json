@@ -1,0 +1,32 @@
+{
+  "namn": "Marianne Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "40",
+      "kandidatnummer": "50039"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "34",
+      "kandidatnummer": "39678"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "50039"
+    }
+  ]
+}

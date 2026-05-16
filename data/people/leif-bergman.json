@@ -1,0 +1,32 @@
+{
+  "namn": "Leif Bergman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "44",
+      "kandidatnummer": "17262"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "34773"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "17262"
+    }
+  ]
+}

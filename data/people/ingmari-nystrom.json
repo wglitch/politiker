@@ -1,0 +1,23 @@
+{
+  "namn": "Ingmari Nyström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "19",
+      "kandidatnummer": "46139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "46139"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Tina Malm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "13042"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "13042"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "13042"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tomelilla",
+      "valkrets": "Tomelilla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "20847"
+    }
+  ]
+}

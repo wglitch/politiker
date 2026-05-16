@@ -1,0 +1,23 @@
+{
+  "namn": "Kjell-Åke Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "2276"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "36989"
+    }
+  ]
+}

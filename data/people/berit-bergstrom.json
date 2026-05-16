@@ -1,0 +1,23 @@
+{
+  "namn": "Berit Bergström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "21121"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "21121"
+    }
+  ]
+}

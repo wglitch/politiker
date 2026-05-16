@@ -1,0 +1,23 @@
+{
+  "namn": "Berit Fredriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "6177"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "6177"
+    }
+  ]
+}

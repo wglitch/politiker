@@ -1,0 +1,23 @@
+{
+  "namn": "Lena Eckerbom Wendel",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "19699"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "19699"
+    }
+  ]
+}

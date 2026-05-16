@@ -1,0 +1,50 @@
+{
+  "namn": "Tomas Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "2632"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tierp",
+      "valkrets": "Tierp",
+      "parti": "Tierpslistan",
+      "partiförkortning": "TL",
+      "ordning": "15",
+      "kandidatnummer": "36789"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "2632"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "18990"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gagnef",
+      "valkrets": "Gagnef",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "27256"
+    }
+  ]
+}

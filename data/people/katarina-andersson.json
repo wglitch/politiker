@@ -1,0 +1,32 @@
+{
+  "namn": "Katarina Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "1170"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västervik",
+      "valkrets": "Västervik",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "20882"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Avesta",
+      "valkrets": "Avesta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "1170"
+    }
+  ]
+}

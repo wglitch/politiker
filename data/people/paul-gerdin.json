@@ -1,0 +1,23 @@
+{
+  "namn": "Paul Gerdin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "2391"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "31",
+      "kandidatnummer": "2391"
+    }
+  ]
+}

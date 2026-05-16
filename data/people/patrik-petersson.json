@@ -1,0 +1,23 @@
+{
+  "namn": "Patrik Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "9988"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ale",
+      "valkrets": "Ale",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "19",
+      "kandidatnummer": "14179"
+    }
+  ]
+}

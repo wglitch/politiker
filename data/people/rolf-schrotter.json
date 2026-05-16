@@ -1,0 +1,23 @@
+{
+  "namn": "Rolf Schrötter",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "11176"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "11176"
+    }
+  ]
+}

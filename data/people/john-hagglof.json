@@ -1,0 +1,50 @@
+{
+  "namn": "John Hägglöf",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9646"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9646"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9646"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9646"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lekeberg",
+      "valkrets": "Lekeberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "9646"
+    }
+  ]
+}

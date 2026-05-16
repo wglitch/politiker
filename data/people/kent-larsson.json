@@ -1,0 +1,104 @@
+{
+  "namn": "Kent Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "6590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vaxholm",
+      "valkrets": "Vaxholm",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "28912"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grästorp",
+      "valkrets": "Grästorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "32081"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "6590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "6590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Framtid S Övertorneå",
+      "partiförkortning": "FrSÖ",
+      "ordning": "2",
+      "kandidatnummer": "47127"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Janne Herranen",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "19253"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "19253"
+    }
+  ]
+}

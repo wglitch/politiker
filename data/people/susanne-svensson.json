@@ -1,0 +1,23 @@
+{
+  "namn": "Susanne Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ovanåker",
+      "valkrets": "Ovanåker",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "40842"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "nordanstigspartiet.se",
+      "partiförkortning": "nop",
+      "ordning": "8",
+      "kandidatnummer": "46348"
+    }
+  ]
+}

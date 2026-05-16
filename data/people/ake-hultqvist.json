@@ -1,0 +1,23 @@
+{
+  "namn": "Åke Hultqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "2",
+      "kandidatnummer": "54532"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "2",
+      "kandidatnummer": "54532"
+    }
+  ]
+}

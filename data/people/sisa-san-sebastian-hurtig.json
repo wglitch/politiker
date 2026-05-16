@@ -1,0 +1,32 @@
+{
+  "namn": "Sisa San Sebastian Hurtig",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "41",
+      "kandidatnummer": "29487"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "39",
+      "kandidatnummer": "29487"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "39",
+      "kandidatnummer": "29487"
+    }
+  ]
+}

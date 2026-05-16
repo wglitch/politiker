@@ -1,0 +1,50 @@
+{
+  "namn": "Marie Salomonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "50802"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "50802"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "50802"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "19",
+      "kandidatnummer": "50802"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "19",
+      "kandidatnummer": "50802"
+    }
+  ]
+}

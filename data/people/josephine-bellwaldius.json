@@ -1,0 +1,23 @@
+{
+  "namn": "Josephine Bellwaldius",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "20980"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "20980"
+    }
+  ]
+}

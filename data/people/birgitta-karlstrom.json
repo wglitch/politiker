@@ -1,0 +1,23 @@
+{
+  "namn": "Birgitta Karlström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "2401"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "26",
+      "kandidatnummer": "2401"
+    }
+  ]
+}

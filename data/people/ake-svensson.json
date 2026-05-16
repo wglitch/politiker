@@ -1,0 +1,59 @@
+{
+  "namn": "Åke Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "41",
+      "kandidatnummer": "10229"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "10229"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "10229"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "10229"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "10229"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hjo",
+      "valkrets": "Hjo",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "26284"
+    }
+  ]
+}

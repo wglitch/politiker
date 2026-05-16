@@ -1,0 +1,23 @@
+{
+  "namn": "Jakob Mellander",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "6",
+      "kandidatnummer": "56346"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Kristna Värdepartiet",
+      "partiförkortning": "KVp",
+      "ordning": "3",
+      "kandidatnummer": "56346"
+    }
+  ]
+}

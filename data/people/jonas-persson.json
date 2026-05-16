@@ -1,0 +1,41 @@
+{
+  "namn": "Jonas Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "3758"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "3758"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "15870"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "1",
+      "kandidatnummer": "52420"
+    }
+  ]
+}

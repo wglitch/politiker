@@ -1,0 +1,104 @@
+{
+  "namn": "Johan Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "4171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "43489"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "16538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Utvecklingspartiet",
+      "partiförkortning": "UtvP",
+      "ordning": "23",
+      "kandidatnummer": "56859"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "23951"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "50101"
+    }
+  ]
+}

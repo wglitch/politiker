@@ -1,0 +1,23 @@
+{
+  "namn": "Britt-Marie Viklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "33706"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "33706"
+    }
+  ]
+}

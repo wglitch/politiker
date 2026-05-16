@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Asp",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "15",
+      "kandidatnummer": "42657"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Leksand",
+      "valkrets": "Leksand",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "42657"
+    }
+  ]
+}

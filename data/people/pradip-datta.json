@@ -1,0 +1,32 @@
+{
+  "namn": "Pradip Datta",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "51",
+      "kandidatnummer": "56111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "51",
+      "kandidatnummer": "56111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "51",
+      "kandidatnummer": "56111"
+    }
+  ]
+}

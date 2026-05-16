@@ -1,0 +1,32 @@
+{
+  "namn": "Sandra Engstad",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "25831"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "19",
+      "kandidatnummer": "25831"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Leksand",
+      "valkrets": "Leksand",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "25831"
+    }
+  ]
+}

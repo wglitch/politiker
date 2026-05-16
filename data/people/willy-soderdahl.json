@@ -1,0 +1,23 @@
+{
+  "namn": "Willy Söderdahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "36072"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sölvesborg",
+      "valkrets": "Sölvesborg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "36072"
+    }
+  ]
+}

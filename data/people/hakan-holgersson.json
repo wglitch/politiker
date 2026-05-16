@@ -1,0 +1,23 @@
+{
+  "namn": "Håkan Holgersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "48588"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bjurholm",
+      "valkrets": "Bjurholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "26334"
+    }
+  ]
+}

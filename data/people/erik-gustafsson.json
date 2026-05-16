@@ -1,0 +1,41 @@
+{
+  "namn": "Erik Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "1175"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "14",
+      "kandidatnummer": "37832"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "34754"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malung-Sälen",
+      "valkrets": "Malung-Sälen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "1175"
+    }
+  ]
+}

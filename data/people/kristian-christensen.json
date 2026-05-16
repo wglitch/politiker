@@ -1,0 +1,23 @@
+{
+  "namn": "Kristian Christensen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "32",
+      "kandidatnummer": "6312"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "45",
+      "kandidatnummer": "6312"
+    }
+  ]
+}

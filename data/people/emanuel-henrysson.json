@@ -1,0 +1,41 @@
+{
+  "namn": "Emanuel Henrysson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "55705"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "55705"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "55705"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "8",
+      "kandidatnummer": "55705"
+    }
+  ]
+}

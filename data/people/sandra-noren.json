@@ -1,0 +1,23 @@
+{
+  "namn": "Sandra Norén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "50318"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "50318"
+    }
+  ]
+}

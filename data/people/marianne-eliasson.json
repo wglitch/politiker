@@ -1,0 +1,32 @@
+{
+  "namn": "Marianne Eliasson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "44",
+      "kandidatnummer": "22538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "22538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "22538"
+    }
+  ]
+}

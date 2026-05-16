@@ -1,0 +1,50 @@
+{
+  "namn": "Marie Morell",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "31270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "31270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "31270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "31270"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "31270"
+    }
+  ]
+}

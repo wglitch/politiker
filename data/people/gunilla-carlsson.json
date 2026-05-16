@@ -1,0 +1,86 @@
+{
+  "namn": "Gunilla Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "17",
+      "kandidatnummer": "54102"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "17",
+      "kandidatnummer": "54102"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "17",
+      "kandidatnummer": "54102"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "17",
+      "kandidatnummer": "54102"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "17",
+      "kandidatnummer": "54102"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "22454"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "47",
+      "kandidatnummer": "12824"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "9546"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lidköping",
+      "valkrets": "Lidköping",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "7",
+      "kandidatnummer": "54102"
+    }
+  ]
+}

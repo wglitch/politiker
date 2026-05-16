@@ -1,0 +1,23 @@
+{
+  "namn": "Anna-Lena Hållmats Bergvik",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "6265"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Rättvik",
+      "valkrets": "Rättvik",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "6265"
+    }
+  ]
+}

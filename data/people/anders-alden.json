@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Aldén",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "37",
+      "kandidatnummer": "35230"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "35230"
+    }
+  ]
+}

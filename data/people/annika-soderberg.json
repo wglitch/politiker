@@ -1,0 +1,32 @@
+{
+  "namn": "Annika Söderberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Tierp",
+      "valkrets": "Tierp",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "29175"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "27833"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "13759"
+    }
+  ]
+}

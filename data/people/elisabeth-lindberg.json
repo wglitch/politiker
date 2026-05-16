@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabeth Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "6632"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "6632"
+    }
+  ]
+}

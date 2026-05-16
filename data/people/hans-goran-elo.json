@@ -1,0 +1,23 @@
+{
+  "namn": "Hans-Göran Elo",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "7478"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "7478"
+    }
+  ]
+}

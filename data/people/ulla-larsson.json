@@ -1,0 +1,32 @@
+{
+  "namn": "Ulla Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "38030"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "25621"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "25621"
+    }
+  ]
+}

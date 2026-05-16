@@ -1,0 +1,23 @@
+{
+  "namn": "Axel Bodin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "48681"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnesta",
+      "valkrets": "Gnesta",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "48681"
+    }
+  ]
+}

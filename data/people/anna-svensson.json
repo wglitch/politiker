@@ -1,0 +1,41 @@
+{
+  "namn": "Anna Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "36435"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gullspång",
+      "valkrets": "Gullspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "35964"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "37",
+      "kandidatnummer": "39681"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "52293"
+    }
+  ]
+}

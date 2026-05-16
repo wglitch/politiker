@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Myhr",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "1936"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härjedalen",
+      "valkrets": "Härjedalen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "1936"
+    }
+  ]
+}

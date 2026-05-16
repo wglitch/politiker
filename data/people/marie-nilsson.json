@@ -1,0 +1,50 @@
+{
+  "namn": "Marie Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "33",
+      "kandidatnummer": "44007"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "15466"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lomma",
+      "valkrets": "Lomma",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "41862"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "47293"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "33474"
+    }
+  ]
+}

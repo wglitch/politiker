@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Rousu",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "6250"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Rättvik",
+      "valkrets": "Rättvik",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "6250"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Lundqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vara",
+      "valkrets": "Vara",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "55283"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "33994"
+    }
+  ]
+}

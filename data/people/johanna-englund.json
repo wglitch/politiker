@@ -1,0 +1,23 @@
+{
+  "namn": "Johanna Englund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "5188"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "5188"
+    }
+  ]
+}

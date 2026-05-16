@@ -1,0 +1,23 @@
+{
+  "namn": "Kerstin Alexén",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "22",
+      "kandidatnummer": "26350"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "26350"
+    }
+  ]
+}

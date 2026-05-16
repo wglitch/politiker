@@ -1,0 +1,23 @@
+{
+  "namn": "Olof Fritzén",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "28",
+      "kandidatnummer": "2624"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "2624"
+    }
+  ]
+}

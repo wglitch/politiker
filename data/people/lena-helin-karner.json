@@ -1,0 +1,23 @@
+{
+  "namn": "Lena Helin-Kärner",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "53351"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "53351"
+    }
+  ]
+}

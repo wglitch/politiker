@@ -1,0 +1,23 @@
+{
+  "namn": "Denise Neal",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "21201"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ystad",
+      "valkrets": "Ystad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "21201"
+    }
+  ]
+}

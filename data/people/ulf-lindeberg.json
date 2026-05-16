@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Lindeberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "30",
+      "kandidatnummer": "45677"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "45677"
+    }
+  ]
+}

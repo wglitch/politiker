@@ -1,0 +1,32 @@
+{
+  "namn": "Peter Bäckström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "34",
+      "kandidatnummer": "43934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "34",
+      "kandidatnummer": "43934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "34",
+      "kandidatnummer": "43934"
+    }
+  ]
+}

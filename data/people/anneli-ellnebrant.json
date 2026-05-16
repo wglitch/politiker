@@ -1,0 +1,23 @@
+{
+  "namn": "Anneli Ellnebrant",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "2852"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "2852"
+    }
+  ]
+}

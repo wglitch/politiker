@@ -1,0 +1,59 @@
+{
+  "namn": "Patricia Karlson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "16780"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "16780"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "16780"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "16780"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "16780"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "20",
+      "kandidatnummer": "16780"
+    }
+  ]
+}

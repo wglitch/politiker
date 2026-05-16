@@ -1,0 +1,23 @@
+{
+  "namn": "Erik Hedberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "45585"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "45585"
+    }
+  ]
+}

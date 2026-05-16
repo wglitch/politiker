@@ -1,0 +1,23 @@
+{
+  "namn": "Lena Sohlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "51",
+      "kandidatnummer": "54495"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Sans o Balans",
+      "partiförkortning": "SoB",
+      "ordning": "6",
+      "kandidatnummer": "54495"
+    }
+  ]
+}

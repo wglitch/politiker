@@ -1,0 +1,23 @@
+{
+  "namn": "Hans Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Arvikapartiet",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "46708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsör",
+      "valkrets": "Kungsör",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "9913"
+    }
+  ]
+}

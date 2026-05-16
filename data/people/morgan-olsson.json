@@ -1,0 +1,32 @@
+{
+  "namn": "Morgan Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "4510"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "25062"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömsund",
+      "valkrets": "Strömsund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "4510"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ida Skogström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västernorrlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "51123"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härnösand",
+      "valkrets": "Härnösand",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "51123"
+    }
+  ]
+}

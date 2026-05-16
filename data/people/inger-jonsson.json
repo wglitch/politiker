@@ -1,0 +1,23 @@
+{
+  "namn": "Inger Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sjöbo",
+      "valkrets": "Sjöbo",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "16388"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Töreboda",
+      "valkrets": "Töreboda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "33318"
+    }
+  ]
+}

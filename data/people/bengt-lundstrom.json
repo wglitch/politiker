@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Lundström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Oxelösund",
+      "valkrets": "Oxelösund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "34720"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "5598"
+    }
+  ]
+}

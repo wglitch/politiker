@@ -1,0 +1,32 @@
+{
+  "namn": "Björn Gullander",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "14486"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "14486"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "14",
+      "kandidatnummer": "14486"
+    }
+  ]
+}

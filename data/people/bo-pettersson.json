@@ -1,0 +1,41 @@
+{
+  "namn": "Bo Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "40901"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "30",
+      "kandidatnummer": "3004"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristinehamn",
+      "valkrets": "Kristinehamn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "31602"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Askersund",
+      "valkrets": "Askersund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "39093"
+    }
+  ]
+}

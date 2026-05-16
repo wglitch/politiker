@@ -1,0 +1,23 @@
+{
+  "namn": "Inger Fängström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "17592"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "17592"
+    }
+  ]
+}

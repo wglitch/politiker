@@ -1,0 +1,41 @@
+{
+  "namn": "Janne Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "48559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "48559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Solidaritet Linköping",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "48559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderhamn",
+      "valkrets": "Söderhamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "39959"
+    }
+  ]
+}

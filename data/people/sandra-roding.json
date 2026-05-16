@@ -1,0 +1,23 @@
+{
+  "namn": "Sandra Röding",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "16",
+      "kandidatnummer": "12885"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "14",
+      "kandidatnummer": "12885"
+    }
+  ]
+}

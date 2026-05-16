@@ -1,0 +1,23 @@
+{
+  "namn": "Arne Hägg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "4455"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "3334"
+    }
+  ]
+}

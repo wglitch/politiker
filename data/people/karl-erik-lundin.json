@@ -1,0 +1,32 @@
+{
+  "namn": "Karl-Erik Lundin",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "21",
+      "kandidatnummer": "11132"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "11132"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ragunda",
+      "valkrets": "Ragunda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "11132"
+    }
+  ]
+}

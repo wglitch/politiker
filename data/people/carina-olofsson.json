@@ -1,0 +1,23 @@
+{
+  "namn": "Carina Olofsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "22802"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "22802"
+    }
+  ]
+}

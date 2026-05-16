@@ -1,0 +1,23 @@
+{
+  "namn": "Johanna Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Ett bättre Eskilstuna",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "53941"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "38547"
+    }
+  ]
+}

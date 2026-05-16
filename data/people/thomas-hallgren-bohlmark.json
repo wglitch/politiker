@@ -1,0 +1,23 @@
+{
+  "namn": "Thomas Hallgren Böhlmark",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "20",
+      "kandidatnummer": "6759"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "6",
+      "kandidatnummer": "6759"
+    }
+  ]
+}

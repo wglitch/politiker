@@ -1,0 +1,68 @@
+{
+  "namn": "Ola Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "68",
+      "kandidatnummer": "16895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "31",
+      "kandidatnummer": "40018"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "40018"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mellerud",
+      "valkrets": "Mellerud",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "31",
+      "kandidatnummer": "15025"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "23945"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "52916"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "52916"
+    }
+  ]
+}

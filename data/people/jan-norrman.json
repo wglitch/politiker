@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Norrman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "5",
+      "kandidatnummer": "48306"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "20",
+      "kandidatnummer": "48306"
+    }
+  ]
+}

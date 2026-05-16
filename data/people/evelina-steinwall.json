@@ -1,0 +1,23 @@
+{
+  "namn": "Evelina Steinwall",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "2539"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "2539"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ann-Louise Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "12",
+      "kandidatnummer": "1040"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "6",
+      "kandidatnummer": "1040"
+    }
+  ]
+}

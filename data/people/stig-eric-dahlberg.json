@@ -1,0 +1,41 @@
+{
+  "namn": "Stig-Eric Dahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "4569"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "4569"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "4569"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storuman",
+      "valkrets": "Storuman",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "4569"
+    }
+  ]
+}

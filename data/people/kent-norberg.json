@@ -1,0 +1,23 @@
+{
+  "namn": "Kent Norberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "35718"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "35718"
+    }
+  ]
+}

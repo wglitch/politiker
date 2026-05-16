@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Granlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "1177"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "1177"
+    }
+  ]
+}

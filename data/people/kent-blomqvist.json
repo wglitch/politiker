@@ -1,0 +1,23 @@
+{
+  "namn": "Kent Blomqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "6182"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "6182"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Gun Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Salem",
+      "valkrets": "Salem",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "5205"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eda",
+      "valkrets": "Eda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "18570"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "38843"
+    }
+  ]
+}

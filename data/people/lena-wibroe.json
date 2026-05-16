@@ -1,0 +1,32 @@
+{
+  "namn": "Lena Wibroe",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "2530"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "2530"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "36",
+      "kandidatnummer": "2530"
+    }
+  ]
+}

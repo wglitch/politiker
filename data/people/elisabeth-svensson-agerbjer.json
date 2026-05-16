@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabeth Svensson Agerbjer",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "10205"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "10205"
+    }
+  ]
+}

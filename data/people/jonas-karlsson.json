@@ -1,0 +1,149 @@
+{
+  "namn": "Jonas Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "53",
+      "kandidatnummer": "5193"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "38",
+      "kandidatnummer": "5193"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "38",
+      "kandidatnummer": "5193"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "38",
+      "kandidatnummer": "5193"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "1250"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "4355"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "25949"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "39",
+      "kandidatnummer": "28857"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "22",
+      "kandidatnummer": "20205"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Landskrona",
+      "valkrets": "Landskrona",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "63",
+      "kandidatnummer": "36927"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falköping",
+      "valkrets": "Falköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "26290"
+    }
+  ]
+}

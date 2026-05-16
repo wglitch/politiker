@@ -1,0 +1,23 @@
+{
+  "namn": "Niklas Wykman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "5233"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Solna",
+      "valkrets": "Solna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "5233"
+    }
+  ]
+}

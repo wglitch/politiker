@@ -1,0 +1,23 @@
+{
+  "namn": "Torbjörn Nyholm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vårgårda",
+      "valkrets": "Vårgårda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "25320"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ockelbo",
+      "valkrets": "Ockelbo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "17814"
+    }
+  ]
+}

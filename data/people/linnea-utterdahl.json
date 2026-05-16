@@ -1,0 +1,23 @@
+{
+  "namn": "Linnéa Utterdahl",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sjukvårdspartiet i Värmland",
+      "partiförkortning": "SjvV",
+      "ordning": "44",
+      "kandidatnummer": "13187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Sjukvårdspartiet i Värmland",
+      "partiförkortning": "SjvV",
+      "ordning": "35",
+      "kandidatnummer": "13187"
+    }
+  ]
+}

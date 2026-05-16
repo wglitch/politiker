@@ -1,0 +1,23 @@
+{
+  "namn": "Per Olof Hjälmefjord",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "3032"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "3032"
+    }
+  ]
+}

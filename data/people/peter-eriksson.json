@@ -1,0 +1,365 @@
+{
+  "namn": "Peter Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "16793"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "34023"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5676"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5676"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5676"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5676"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "5676"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "11",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "61",
+      "kandidatnummer": "6678"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "37129"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vårgårda",
+      "valkrets": "Vårgårda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "18913"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "19234"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trollhättan",
+      "valkrets": "Trollhättan Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "19234"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "9194"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "6678"
+    }
+  ]
+}

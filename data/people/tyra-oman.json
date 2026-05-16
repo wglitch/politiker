@@ -1,0 +1,23 @@
+{
+  "namn": "Tyra Öman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "35273"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Flen",
+      "valkrets": "Flen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "35273"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Håkan Ekman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "3055"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "36",
+      "kandidatnummer": "3055"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "3055"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Färgelanda",
+      "valkrets": "Färgelanda",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "23336"
+    }
+  ]
+}

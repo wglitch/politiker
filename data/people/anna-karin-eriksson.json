@@ -1,0 +1,32 @@
+{
+  "namn": "Anna-Karin Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Uppsala ansvarspartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "57275"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "48364"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "48364"
+    }
+  ]
+}

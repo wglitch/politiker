@@ -1,0 +1,32 @@
+{
+  "namn": "Elia Guselius",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "25833"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "25833"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "25833"
+    }
+  ]
+}

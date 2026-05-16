@@ -1,0 +1,32 @@
+{
+  "namn": "Eva Hölke",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "3713"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "3713"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norberg",
+      "valkrets": "Norberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "3713"
+    }
+  ]
+}

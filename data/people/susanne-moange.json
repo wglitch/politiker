@@ -1,0 +1,32 @@
+{
+  "namn": "Susanne Moänge",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "2032"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "2032"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "2032"
+    }
+  ]
+}

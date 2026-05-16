@@ -1,0 +1,23 @@
+{
+  "namn": "Jimmy Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gotlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "34478"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "34478"
+    }
+  ]
+}

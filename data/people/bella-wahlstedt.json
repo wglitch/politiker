@@ -1,0 +1,23 @@
+{
+  "namn": "Bella Wåhlstedt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "64",
+      "kandidatnummer": "16685"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "37",
+      "kandidatnummer": "16685"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Olov Mattsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "23912"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderhamn",
+      "valkrets": "Söderhamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "39975"
+    }
+  ]
+}

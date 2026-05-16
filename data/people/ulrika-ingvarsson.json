@@ -1,0 +1,59 @@
+{
+  "namn": "Ulrika Ingvarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "27",
+      "kandidatnummer": "3445"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "55",
+      "kandidatnummer": "3445"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "55",
+      "kandidatnummer": "3445"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "55",
+      "kandidatnummer": "3445"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "55",
+      "kandidatnummer": "3445"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lekeberg",
+      "valkrets": "Lekeberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "3445"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Anders Gunnarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Båstad",
+      "valkrets": "Båstad",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "17888"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "38680"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "38680"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "35",
+      "kandidatnummer": "6072"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "35",
+      "kandidatnummer": "6072"
+    }
+  ]
+}

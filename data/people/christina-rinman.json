@@ -1,0 +1,23 @@
+{
+  "namn": "Christina Rinman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "7479"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "7479"
+    }
+  ]
+}

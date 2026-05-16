@@ -1,0 +1,32 @@
+{
+  "namn": "Lena Schuberth",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "32",
+      "kandidatnummer": "50876"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "32",
+      "kandidatnummer": "50876"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "32",
+      "kandidatnummer": "50876"
+    }
+  ]
+}

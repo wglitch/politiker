@@ -1,0 +1,32 @@
+{
+  "namn": "Anders Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "44",
+      "kandidatnummer": "5645"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "44",
+      "kandidatnummer": "5645"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "44",
+      "kandidatnummer": "5645"
+    }
+  ]
+}

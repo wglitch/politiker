@@ -1,0 +1,23 @@
+{
+  "namn": "Erica Wendt",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "35",
+      "kandidatnummer": "4878"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "4878"
+    }
+  ]
+}

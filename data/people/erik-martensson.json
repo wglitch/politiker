@@ -1,0 +1,23 @@
+{
+  "namn": "Erik Mårtensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "14342"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höör",
+      "valkrets": "Höör",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "51534"
+    }
+  ]
+}

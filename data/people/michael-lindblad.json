@@ -1,0 +1,32 @@
+{
+  "namn": "Michael Lindblad",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "54",
+      "kandidatnummer": "2279"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "50001"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "2279"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Christer Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "3135"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "44400"
+    }
+  ]
+}

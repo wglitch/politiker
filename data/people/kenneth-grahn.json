@@ -1,0 +1,50 @@
+{
+  "namn": "Kenneth Grahn",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "63",
+      "kandidatnummer": "3412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "63",
+      "kandidatnummer": "3412"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "63",
+      "kandidatnummer": "3412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "3412"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "3412"
+    }
+  ]
+}

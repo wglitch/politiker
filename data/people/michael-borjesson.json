@@ -1,0 +1,32 @@
+{
+  "namn": "Michael Börjesson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "37445"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "37445"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "37445"
+    }
+  ]
+}

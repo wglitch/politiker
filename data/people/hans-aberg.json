@@ -1,0 +1,32 @@
+{
+  "namn": "Hans Åberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "25",
+      "kandidatnummer": "43999"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Upplands-Bro",
+      "valkrets": "Upplands-Bro",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "33734"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Västjämtlands Väl",
+      "partiförkortning": "VV",
+      "ordning": "9",
+      "kandidatnummer": "56071"
+    }
+  ]
+}

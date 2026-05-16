@@ -1,0 +1,149 @@
+{
+  "namn": "Peter Lundberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "34019"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "34019"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "53166"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "34019"
+    }
+  ]
+}

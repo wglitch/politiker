@@ -1,0 +1,32 @@
+{
+  "namn": "Catrin Wemmer",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "36387"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "36387"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skinnskatteberg",
+      "valkrets": "Skinnskatteberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "36387"
+    }
+  ]
+}

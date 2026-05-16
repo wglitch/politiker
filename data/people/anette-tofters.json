@@ -1,0 +1,32 @@
+{
+  "namn": "Anette Tofters",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "43782"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "25",
+      "kandidatnummer": "43782"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "43782"
+    }
+  ]
+}

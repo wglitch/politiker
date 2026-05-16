@@ -1,0 +1,41 @@
+{
+  "namn": "Leif Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Håbo",
+      "valkrets": "Håbo",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "6472"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "42458"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "42458"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alingsås",
+      "valkrets": "Alingsås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "45286"
+    }
+  ]
+}

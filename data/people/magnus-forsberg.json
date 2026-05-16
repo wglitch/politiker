@@ -1,0 +1,32 @@
+{
+  "namn": "Magnus Forsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "19153"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "8",
+      "kandidatnummer": "19153"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Robertsfors",
+      "valkrets": "Robertsfors",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "5",
+      "kandidatnummer": "32980"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sam Assadi",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "13344"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "13344"
+    }
+  ]
+}

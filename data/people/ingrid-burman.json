@@ -1,0 +1,41 @@
+{
+  "namn": "Ingrid Burman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "27",
+      "kandidatnummer": "55783"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "46",
+      "kandidatnummer": "55783"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "46",
+      "kandidatnummer": "55783"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "46",
+      "kandidatnummer": "55783"
+    }
+  ]
+}

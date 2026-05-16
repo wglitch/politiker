@@ -1,0 +1,32 @@
+{
+  "namn": "Anna Rosenkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "46528"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "31",
+      "kandidatnummer": "29479"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "31",
+      "kandidatnummer": "29479"
+    }
+  ]
+}

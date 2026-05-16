@@ -1,0 +1,23 @@
+{
+  "namn": "Patrik Brolin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sjukvårdspartiet Gävleborg",
+      "partiförkortning": "SJPG",
+      "ordning": "11",
+      "kandidatnummer": "50727"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "9",
+      "kandidatnummer": "50727"
+    }
+  ]
+}

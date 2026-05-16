@@ -1,0 +1,41 @@
+{
+  "namn": "Lars-Inge Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "35",
+      "kandidatnummer": "55740"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "35",
+      "kandidatnummer": "55740"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "35",
+      "kandidatnummer": "55740"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "43",
+      "kandidatnummer": "55740"
+    }
+  ]
+}

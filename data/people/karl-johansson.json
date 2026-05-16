@@ -1,0 +1,23 @@
+{
+  "namn": "Karl Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Österåker",
+      "valkrets": "Österåker",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "7168"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnesta",
+      "valkrets": "Gnesta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "44618"
+    }
+  ]
+}

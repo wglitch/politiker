@@ -1,0 +1,59 @@
+{
+  "namn": "Anders Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "69",
+      "kandidatnummer": "16656"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "16656"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Järfälla",
+      "valkrets": "Järfälla",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "19660"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "18435"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "42",
+      "kandidatnummer": "18435"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mora",
+      "valkrets": "Mora",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "16656"
+    }
+  ]
+}

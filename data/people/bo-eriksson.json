@@ -1,0 +1,59 @@
+{
+  "namn": "Bo Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "11141"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "11141"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Medborgarpartiet i Gislaved (MiG)",
+      "partiförkortning": "MiG",
+      "ordning": "2",
+      "kandidatnummer": "54709"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "15381"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "32801"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härjedalen",
+      "valkrets": "Härjedalen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "11141"
+    }
+  ]
+}

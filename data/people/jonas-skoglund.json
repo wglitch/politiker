@@ -1,0 +1,32 @@
+{
+  "namn": "Jonas Skoglund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "2102"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "34",
+      "kandidatnummer": "2102"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vansbro",
+      "valkrets": "Vansbro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "2102"
+    }
+  ]
+}

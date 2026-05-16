@@ -1,0 +1,23 @@
+{
+  "namn": "Karin Jensen",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "52333"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Munkfors",
+      "valkrets": "Munkfors",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "27164"
+    }
+  ]
+}

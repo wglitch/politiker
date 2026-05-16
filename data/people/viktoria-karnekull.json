@@ -1,0 +1,23 @@
+{
+  "namn": "Viktoria Kärnekull",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "37508"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "6",
+      "kandidatnummer": "37508"
+    }
+  ]
+}

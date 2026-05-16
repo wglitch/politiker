@@ -1,0 +1,32 @@
+{
+  "namn": "Elin Ross",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "15496"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "17851"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "17851"
+    }
+  ]
+}

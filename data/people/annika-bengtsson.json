@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Danderyd",
+      "valkrets": "Danderyd",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "28121"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "41476"
+    }
+  ]
+}

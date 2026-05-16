@@ -1,0 +1,68 @@
+{
+  "namn": "David Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "41",
+      "kandidatnummer": "1929"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "14654"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "14654"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "14654"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "44",
+      "kandidatnummer": "1929"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "35",
+      "kandidatnummer": "14654"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "1929"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Peter Eklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "3",
+      "kandidatnummer": "47407"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "3",
+      "kandidatnummer": "47407"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "3",
+      "kandidatnummer": "47407"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "14",
+      "kandidatnummer": "47407"
+    }
+  ]
+}

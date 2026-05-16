@@ -1,0 +1,23 @@
+{
+  "namn": "Jan-Peter Lehmann",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "25",
+      "kandidatnummer": "51310"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "14",
+      "kandidatnummer": "51310"
+    }
+  ]
+}

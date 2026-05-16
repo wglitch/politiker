@@ -1,0 +1,23 @@
+{
+  "namn": "Östen Lejon",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "50",
+      "kandidatnummer": "12386"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "6",
+      "kandidatnummer": "12386"
+    }
+  ]
+}

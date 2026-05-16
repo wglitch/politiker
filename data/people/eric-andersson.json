@@ -1,0 +1,32 @@
+{
+  "namn": "Eric Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "14",
+      "kandidatnummer": "56472"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "14",
+      "kandidatnummer": "56472"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "14",
+      "kandidatnummer": "56472"
+    }
+  ]
+}

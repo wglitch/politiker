@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Kövesi",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "14821"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "14821"
+    }
+  ]
+}

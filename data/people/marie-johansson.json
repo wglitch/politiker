@@ -1,0 +1,149 @@
+{
+  "namn": "Marie Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "5280"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "29728"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "39626"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "39626"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Olofström",
+      "valkrets": "Olofström",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "37326"
+    }
+  ]
+}

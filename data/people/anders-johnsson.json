@@ -1,0 +1,86 @@
+{
+  "namn": "Anders Johnsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "41910"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "10367"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "24",
+      "kandidatnummer": "34676"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "41910"
+    }
+  ]
+}

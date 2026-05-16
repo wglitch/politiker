@@ -1,0 +1,23 @@
+{
+  "namn": "Sten Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sunne",
+      "valkrets": "Sunne",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "23726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sala",
+      "valkrets": "Sala",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "41448"
+    }
+  ]
+}

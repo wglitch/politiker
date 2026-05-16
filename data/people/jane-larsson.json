@@ -1,0 +1,23 @@
+{
+  "namn": "Jane Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "48045"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristinehamn",
+      "valkrets": "Kristinehamn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "18014"
+    }
+  ]
+}

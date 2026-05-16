@@ -1,0 +1,122 @@
+{
+  "namn": "Stefan Holm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norberg",
+      "valkrets": "Norberg",
+      "parti": "Demokraterna i Norberg",
+      "partiförkortning": "DiN",
+      "ordning": "9",
+      "kandidatnummer": "46421"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Staffan Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falköping",
+      "valkrets": "Falköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "49558"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "24",
+      "kandidatnummer": "38227"
+    }
+  ]
+}

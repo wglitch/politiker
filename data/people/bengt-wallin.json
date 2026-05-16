@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Wallin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "22857"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åmål",
+      "valkrets": "Åmål",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "27114"
+    }
+  ]
+}

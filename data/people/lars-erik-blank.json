@@ -1,0 +1,23 @@
+{
+  "namn": "Lars-Erik Blank",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "49",
+      "kandidatnummer": "19500"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "38",
+      "kandidatnummer": "19500"
+    }
+  ]
+}

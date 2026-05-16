@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Laxå",
+      "valkrets": "Laxå",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "14002"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "50100"
+    }
+  ]
+}

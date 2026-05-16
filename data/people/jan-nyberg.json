@@ -1,0 +1,41 @@
+{
+  "namn": "Jan Nyberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "16",
+      "kandidatnummer": "53253"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "39",
+      "kandidatnummer": "11187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "39",
+      "kandidatnummer": "11187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "53253"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Johannes Salo",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "13356"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "13356"
+    }
+  ]
+}

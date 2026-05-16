@@ -1,0 +1,23 @@
+{
+  "namn": "Anette Sätherberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "6",
+      "kandidatnummer": "54849"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sunne",
+      "valkrets": "Sunne",
+      "parti": "Hela Sunne",
+      "partiförkortning": "HS",
+      "ordning": "1",
+      "kandidatnummer": "54849"
+    }
+  ]
+}

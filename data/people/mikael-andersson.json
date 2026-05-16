@@ -1,0 +1,185 @@
+{
+  "namn": "Mikael Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "1934"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "16341"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "21221"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "1934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "8143"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "41060"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "25105"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "1934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "16341"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "16341"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "16341"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "21221"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "51470"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "35112"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Stenungsundspartiet",
+      "partiförkortning": "St",
+      "ordning": "18",
+      "kandidatnummer": "43136"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Demokratiresan",
+      "partiförkortning": "DemR",
+      "ordning": "1",
+      "kandidatnummer": "56515"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vänersborg",
+      "valkrets": "Vänersborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "31",
+      "kandidatnummer": "23606"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hallstahammar",
+      "valkrets": "Hallstahammar",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "7398"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orsa",
+      "valkrets": "Orsa",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "46055"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "19624"
+    }
+  ]
+}

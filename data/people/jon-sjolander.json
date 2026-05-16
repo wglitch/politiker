@@ -1,0 +1,23 @@
+{
+  "namn": "Jon Sjölander",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "3625"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västervik",
+      "valkrets": "Västervik",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "3625"
+    }
+  ]
+}

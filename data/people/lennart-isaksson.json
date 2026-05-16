@@ -1,0 +1,23 @@
+{
+  "namn": "Lennart Isaksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "35749"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "35749"
+    }
+  ]
+}

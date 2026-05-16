@@ -1,0 +1,23 @@
+{
+  "namn": "Per Almberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "21228"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "21228"
+    }
+  ]
+}

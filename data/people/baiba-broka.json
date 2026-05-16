@@ -1,0 +1,23 @@
+{
+  "namn": "Baiba Broka",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "43",
+      "kandidatnummer": "56829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "56829"
+    }
+  ]
+}

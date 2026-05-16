@@ -1,0 +1,23 @@
+{
+  "namn": "Conny Grönberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "57097"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "57097"
+    }
+  ]
+}

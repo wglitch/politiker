@@ -1,0 +1,23 @@
+{
+  "namn": "Adam Reuterskiöld",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "5242"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ekerö",
+      "valkrets": "Ekerö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "5242"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Robin Zetterberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "11841"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "11841"
+    }
+  ]
+}

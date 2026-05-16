@@ -1,0 +1,23 @@
+{
+  "namn": "Mauritz Nordkvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "14",
+      "kandidatnummer": "38342"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Härjedalen",
+      "valkrets": "Härjedalen",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "38342"
+    }
+  ]
+}

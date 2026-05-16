@@ -1,0 +1,32 @@
+{
+  "namn": "Carola Bolmstedt",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "37",
+      "kandidatnummer": "8461"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "44",
+      "kandidatnummer": "8461"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "8461"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Björn Lekedal",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "50046"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "50046"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "50046"
+    }
+  ]
+}

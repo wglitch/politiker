@@ -1,0 +1,23 @@
+{
+  "namn": "Håkan Blonde",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "3918"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "3918"
+    }
+  ]
+}

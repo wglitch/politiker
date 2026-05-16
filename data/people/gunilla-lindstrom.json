@@ -1,0 +1,23 @@
+{
+  "namn": "Gunilla Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "22037"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsör",
+      "valkrets": "Kungsör",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "12364"
+    }
+  ]
+}

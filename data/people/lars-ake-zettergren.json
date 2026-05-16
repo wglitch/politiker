@@ -1,0 +1,59 @@
+{
+  "namn": "Lars-Åke Zettergren",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "29",
+      "kandidatnummer": "11668"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "11668"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "11668"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "11668"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "11668"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Askersund",
+      "valkrets": "Askersund",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "11668"
+    }
+  ]
+}

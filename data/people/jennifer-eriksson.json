@@ -1,0 +1,41 @@
+{
+  "namn": "Jennifer Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "55996"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "55996"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "55996"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvkarleby",
+      "valkrets": "Älvkarleby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "55996"
+    }
+  ]
+}

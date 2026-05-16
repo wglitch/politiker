@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt Melin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Färgelanda",
+      "valkrets": "Färgelanda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "19312"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arjeplog",
+      "valkrets": "Arjeplog",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "16641"
+    }
+  ]
+}

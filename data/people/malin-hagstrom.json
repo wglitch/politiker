@@ -1,0 +1,23 @@
+{
+  "namn": "Malin Hagström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "29784"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grums",
+      "valkrets": "Grums",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "29784"
+    }
+  ]
+}

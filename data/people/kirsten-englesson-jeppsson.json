@@ -1,0 +1,23 @@
+{
+  "namn": "Kirsten Englesson Jeppsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "15611"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "15611"
+    }
+  ]
+}

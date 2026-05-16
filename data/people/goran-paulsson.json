@@ -1,0 +1,32 @@
+{
+  "namn": "Göran Paulsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "50",
+      "kandidatnummer": "15436"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "34",
+      "kandidatnummer": "23117"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "15436"
+    }
+  ]
+}

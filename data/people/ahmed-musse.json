@@ -1,0 +1,23 @@
+{
+  "namn": "Ahmed Musse",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "15120"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "15120"
+    }
+  ]
+}

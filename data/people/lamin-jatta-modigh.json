@@ -1,0 +1,23 @@
+{
+  "namn": "Lamin Jatta Modigh",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "5",
+      "kandidatnummer": "50812"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "5",
+      "kandidatnummer": "50812"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sayf Noel",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "50",
+      "kandidatnummer": "2637"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lessebo",
+      "valkrets": "Lessebo",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "2637"
+    }
+  ]
+}

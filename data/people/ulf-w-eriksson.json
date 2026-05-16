@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf W Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "27076"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "27076"
+    }
+  ]
+}

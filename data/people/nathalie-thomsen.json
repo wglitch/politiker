@@ -1,0 +1,23 @@
+{
+  "namn": "Nathalie Thomsen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "29492"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gagnef",
+      "valkrets": "Gagnef",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "29492"
+    }
+  ]
+}

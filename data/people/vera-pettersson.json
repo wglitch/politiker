@@ -1,0 +1,23 @@
+{
+  "namn": "Vera Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "9531"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "15",
+      "kandidatnummer": "9531"
+    }
+  ]
+}

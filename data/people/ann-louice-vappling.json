@@ -1,0 +1,23 @@
+{
+  "namn": "Ann-Louice Väppling",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "6647"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Överkalix",
+      "valkrets": "Överkalix",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "6647"
+    }
+  ]
+}

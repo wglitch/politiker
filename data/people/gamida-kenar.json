@@ -1,0 +1,23 @@
+{
+  "namn": "Gamida Kenar",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "4",
+      "kandidatnummer": "48408"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "4",
+      "kandidatnummer": "48408"
+    }
+  ]
+}

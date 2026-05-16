@@ -1,0 +1,23 @@
+{
+  "namn": "Marina Isaksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "30810"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Filipstad",
+      "valkrets": "Filipstad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "30810"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Carl-Olof Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "19",
+      "kandidatnummer": "51475"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ånge",
+      "valkrets": "Ånge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "51475"
+    }
+  ]
+}

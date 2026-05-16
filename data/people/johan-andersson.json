@@ -1,0 +1,203 @@
+{
+  "namn": "Johan Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "6724"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "46652"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lidingö",
+      "valkrets": "Lidingö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "46",
+      "kandidatnummer": "7806"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "6724"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "25113"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "15852"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "22798"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Löddebygden",
+      "partiförkortning": "LB",
+      "ordning": "13",
+      "kandidatnummer": "39700"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "30524"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "23984"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "18",
+      "kandidatnummer": "41428"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "21",
+      "kandidatnummer": "35869"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bräcke",
+      "valkrets": "Bräcke",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "22",
+      "kandidatnummer": "50139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Berg",
+      "valkrets": "Berg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "50112"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gällivare",
+      "valkrets": "Gällivare",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "36982"
+    }
+  ]
+}

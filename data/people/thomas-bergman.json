@@ -1,0 +1,32 @@
+{
+  "namn": "Thomas Bergman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "45796"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "51822"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalix",
+      "valkrets": "Kalix",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "45796"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Borg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "51",
+      "kandidatnummer": "44025"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Timråpartiet",
+      "partiförkortning": "TimP",
+      "ordning": "9",
+      "kandidatnummer": "44025"
+    }
+  ]
+}

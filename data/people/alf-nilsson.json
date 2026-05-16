@@ -1,0 +1,23 @@
+{
+  "namn": "Alf Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Klimatinitiativ Simrishamn",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "11415"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hallsberg",
+      "valkrets": "Hallsberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "16213"
+    }
+  ]
+}

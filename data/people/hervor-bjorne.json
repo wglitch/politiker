@@ -1,0 +1,23 @@
+{
+  "namn": "Hervor Björne",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48036"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "48036"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Catarina Claesson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "3025"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "3025"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "1",
+      "kandidatnummer": "3025"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Helena Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "39392"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Munkedal",
+      "valkrets": "Munkedal",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "22458"
+    }
+  ]
+}

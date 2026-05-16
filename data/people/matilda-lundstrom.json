@@ -1,0 +1,23 @@
+{
+  "namn": "Matilda Lundström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "16061"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "16061"
+    }
+  ]
+}

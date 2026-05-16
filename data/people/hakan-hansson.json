@@ -1,0 +1,41 @@
+{
+  "namn": "Håkan Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Skurup",
+      "valkrets": "Skurup",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "42119"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "19",
+      "kandidatnummer": "30173"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "19",
+      "kandidatnummer": "30173"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "10",
+      "kandidatnummer": "22641"
+    }
+  ]
+}

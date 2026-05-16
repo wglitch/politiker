@@ -1,0 +1,23 @@
+{
+  "namn": "Charlotte Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Götene",
+      "valkrets": "Götene",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "29655"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malå",
+      "valkrets": "Malå",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "25968"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Henrik Hillerdal",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "10",
+      "kandidatnummer": "53072"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "10",
+      "kandidatnummer": "53072"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "10",
+      "kandidatnummer": "53072"
+    }
+  ]
+}

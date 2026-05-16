@@ -1,0 +1,140 @@
+{
+  "namn": "Lars Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "40526"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "48099"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "48099"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "22",
+      "kandidatnummer": "48099"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "33",
+      "kandidatnummer": "1799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alvesta",
+      "valkrets": "Alvesta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "26163"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "27",
+      "kandidatnummer": "8906"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "35138"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Utvecklingspartiet",
+      "partiförkortning": "UtvP",
+      "ordning": "15",
+      "kandidatnummer": "56851"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "13110"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norberg",
+      "valkrets": "Norberg",
+      "parti": "Demokraterna i Norberg",
+      "partiförkortning": "DiN",
+      "ordning": "10",
+      "kandidatnummer": "46422"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "39942"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "40526"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Krokom",
+      "valkrets": "Krokom",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "1799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömsund",
+      "valkrets": "Strömsund",
+      "parti": "Rättvis Demokrati",
+      "partiförkortning": "rd",
+      "ordning": "3",
+      "kandidatnummer": "54350"
+    }
+  ]
+}

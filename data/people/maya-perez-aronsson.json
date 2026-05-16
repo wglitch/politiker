@@ -1,0 +1,41 @@
+{
+  "namn": "Maya Pérez Aronsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "56500"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "56500"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "56500"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "56500"
+    }
+  ]
+}

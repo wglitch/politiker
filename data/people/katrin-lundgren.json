@@ -1,0 +1,23 @@
+{
+  "namn": "Katrin Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "11840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "11840"
+    }
+  ]
+}

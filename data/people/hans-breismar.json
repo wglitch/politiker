@@ -1,0 +1,23 @@
+{
+  "namn": "Hans Breismar",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "40364"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "40364"
+    }
+  ]
+}

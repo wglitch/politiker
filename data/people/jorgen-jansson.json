@@ -1,0 +1,23 @@
+{
+  "namn": "Jörgen Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Norrtälje",
+      "valkrets": "Norrtälje",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "8119"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gullspång",
+      "valkrets": "Gullspång",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "31134"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Håkan Axelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "7684"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "33079"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "7684"
+    }
+  ]
+}

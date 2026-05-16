@@ -1,0 +1,32 @@
+{
+  "namn": "Isabelle Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "1877"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "1877"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "1877"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Viktor Breström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "43",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "23",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "4954"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "4954"
+    }
+  ]
+}

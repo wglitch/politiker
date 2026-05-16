@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Axelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lysekil",
+      "valkrets": "Lysekil",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "26592"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kumla",
+      "valkrets": "Kumla",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "30772"
+    }
+  ]
+}

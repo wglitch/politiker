@@ -1,0 +1,23 @@
+{
+  "namn": "Cecilia Natander",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "21237"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "21237"
+    }
+  ]
+}

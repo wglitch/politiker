@@ -1,0 +1,50 @@
+{
+  "namn": "Alansari, Intisar",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Socialistpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "9379"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Socialistpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "9379"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Socialistpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "9379"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Socialistpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "9379"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lindesberg",
+      "valkrets": "Lindesberg",
+      "parti": "Socialistpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "9379"
+    }
+  ]
+}

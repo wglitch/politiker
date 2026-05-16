@@ -1,0 +1,23 @@
+{
+  "namn": "Evin Demir",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "33710"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalix",
+      "valkrets": "Kalix",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "33710"
+    }
+  ]
+}

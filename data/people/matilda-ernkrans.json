@@ -1,0 +1,23 @@
+{
+  "namn": "Matilda Ernkrans",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "9249"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hallsberg",
+      "valkrets": "Hallsberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "9249"
+    }
+  ]
+}

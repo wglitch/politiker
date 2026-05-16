@@ -1,0 +1,23 @@
+{
+  "namn": "Tobias Karlström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "36708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "36708"
+    }
+  ]
+}

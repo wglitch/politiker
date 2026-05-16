@@ -1,0 +1,59 @@
+{
+  "namn": "Thomas Hässelskog",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Blekinge län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "26826"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "26826"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "26826"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "26826"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "26826"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ronneby",
+      "valkrets": "Ronneby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "26826"
+    }
+  ]
+}

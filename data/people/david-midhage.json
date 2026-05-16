@@ -1,0 +1,41 @@
+{
+  "namn": "David Midhage",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "40924"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "40924"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "40924"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "1",
+      "kandidatnummer": "40924"
+    }
+  ]
+}

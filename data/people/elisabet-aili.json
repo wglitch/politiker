@@ -1,0 +1,32 @@
+{
+  "namn": "Elisabet Aili",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "19",
+      "kandidatnummer": "40958"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "40958"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "40958"
+    }
+  ]
+}

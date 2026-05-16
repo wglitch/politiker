@@ -1,0 +1,23 @@
+{
+  "namn": "Andreas Eidevåg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "6",
+      "kandidatnummer": "42091"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lessebo",
+      "valkrets": "Lessebo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "42091"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Helene Holmström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "57",
+      "kandidatnummer": "12011"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "25",
+      "kandidatnummer": "12011"
+    }
+  ]
+}

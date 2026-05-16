@@ -1,0 +1,23 @@
+{
+  "namn": "Pontus Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Västervik",
+      "valkrets": "Västervik",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "34",
+      "kandidatnummer": "18252"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "26530"
+    }
+  ]
+}

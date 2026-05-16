@@ -1,0 +1,32 @@
+{
+  "namn": "Sadat, Adel",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Visionpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "57126"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Visionpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "57126"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Visionpartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "57126"
+    }
+  ]
+}

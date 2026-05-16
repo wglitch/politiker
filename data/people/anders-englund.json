@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Englund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "34761"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Forshaga",
+      "valkrets": "Forshaga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "18643"
+    }
+  ]
+}

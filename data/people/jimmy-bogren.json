@@ -1,0 +1,23 @@
+{
+  "namn": "Jimmy Bogren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "35",
+      "kandidatnummer": "40472"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "40472"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Kristina Backlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "29",
+      "kandidatnummer": "4295"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "34",
+      "kandidatnummer": "4295"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hedemora",
+      "valkrets": "Hedemora",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "2",
+      "kandidatnummer": "4295"
+    }
+  ]
+}

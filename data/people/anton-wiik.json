@@ -1,0 +1,32 @@
+{
+  "namn": "Anton Wiik",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "28433"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "34",
+      "kandidatnummer": "28433"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Luleå",
+      "valkrets": "Luleå",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "28433"
+    }
+  ]
+}

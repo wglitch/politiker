@@ -1,0 +1,23 @@
+{
+  "namn": "Camilla Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Olofström",
+      "valkrets": "Olofström",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "15671"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lycksele",
+      "valkrets": "Lycksele",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "25275"
+    }
+  ]
+}

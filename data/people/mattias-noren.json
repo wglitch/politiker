@@ -1,0 +1,32 @@
+{
+  "namn": "Mattias Norén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "50328"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "50328"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Aktiv samling - Bodenalternativet",
+      "partiförkortning": "ASB",
+      "ordning": "9",
+      "kandidatnummer": "47381"
+    }
+  ]
+}

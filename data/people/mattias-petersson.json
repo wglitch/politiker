@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ödeshög",
+      "valkrets": "Ödeshög",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "32414"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Oskarshamn",
+      "valkrets": "Oskarshamn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "20215"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Åteg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "30929"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vingåker",
+      "valkrets": "Vingåker",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "30929"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Lennart Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "1708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Vård för Pengarna",
+      "partiförkortning": "VåfP",
+      "ordning": "9",
+      "kandidatnummer": "38612"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "18382"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "19090"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "1708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mölndal",
+      "valkrets": "Mölndal",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "38712"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvika",
+      "valkrets": "Arvika",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "40939"
+    }
+  ]
+}

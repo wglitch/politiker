@@ -1,0 +1,23 @@
+{
+  "namn": "Matilda Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "55",
+      "kandidatnummer": "17567"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "17567"
+    }
+  ]
+}

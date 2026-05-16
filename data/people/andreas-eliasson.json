@@ -1,0 +1,23 @@
+{
+  "namn": "Andreas Eliasson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "3",
+      "kandidatnummer": "45851"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vilhelmina",
+      "valkrets": "Vilhelmina",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "18321"
+    }
+  ]
+}

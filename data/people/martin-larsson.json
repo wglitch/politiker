@@ -1,0 +1,23 @@
+{
+  "namn": "Martin Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vingåker",
+      "valkrets": "Vingåker",
+      "parti": "Vingåkerspartiet - ViP",
+      "partiförkortning": "ViP",
+      "ordning": "8",
+      "kandidatnummer": "37359"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "41652"
+    }
+  ]
+}

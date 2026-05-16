@@ -1,0 +1,32 @@
+{
+  "namn": "Sofia Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "41689"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "41689"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Vanligt Folk i Köpings kommun",
+      "partiförkortning": "VFiK",
+      "ordning": "6",
+      "kandidatnummer": "55118"
+    }
+  ]
+}

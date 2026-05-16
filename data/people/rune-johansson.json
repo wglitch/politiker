@@ -1,0 +1,59 @@
+{
+  "namn": "Rune Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "44",
+      "kandidatnummer": "23875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "23875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "23875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Herrljunga",
+      "valkrets": "Herrljunga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "26238"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åmål",
+      "valkrets": "Åmål",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "50771"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "25466"
+    }
+  ]
+}

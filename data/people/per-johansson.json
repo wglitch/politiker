@@ -1,0 +1,140 @@
+{
+  "namn": "Per Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "15",
+      "kandidatnummer": "14726"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "62",
+      "kandidatnummer": "19433"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "55708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "55708"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "55708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "7827"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "14726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "11",
+      "kandidatnummer": "55708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "14350"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Kommunens Väl",
+      "partiförkortning": "Komv",
+      "ordning": "5",
+      "kandidatnummer": "25656"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tibro",
+      "valkrets": "Tibro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "24492"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "49084"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hällefors",
+      "valkrets": "Hällefors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "20733"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "23173"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dorotea",
+      "valkrets": "Dorotea",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "18189"
+    }
+  ]
+}

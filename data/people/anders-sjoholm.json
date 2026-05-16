@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Sjöholm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vingåker",
+      "valkrets": "Vingåker",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "40053"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "8",
+      "kandidatnummer": "17722"
+    }
+  ]
+}

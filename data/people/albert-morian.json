@@ -1,0 +1,23 @@
+{
+  "namn": "Albert Morian",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "51753"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "51753"
+    }
+  ]
+}

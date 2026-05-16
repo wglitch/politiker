@@ -1,0 +1,32 @@
+{
+  "namn": "Dennis Östergren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "62",
+      "kandidatnummer": "43917"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "62",
+      "kandidatnummer": "43917"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "62",
+      "kandidatnummer": "43917"
+    }
+  ]
+}

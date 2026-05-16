@@ -1,0 +1,41 @@
+{
+  "namn": "Tommy Glans",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "55710"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "55710"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vision Framåtanda",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "55710"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "13",
+      "kandidatnummer": "55710"
+    }
+  ]
+}

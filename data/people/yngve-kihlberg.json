@@ -1,0 +1,23 @@
+{
+  "namn": "Yngve Kihlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "46",
+      "kandidatnummer": "11295"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "11295"
+    }
+  ]
+}

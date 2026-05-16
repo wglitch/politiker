@@ -1,0 +1,23 @@
+{
+  "namn": "Yoomi Renström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "49",
+      "kandidatnummer": "15829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ovanåker",
+      "valkrets": "Ovanåker",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "15829"
+    }
+  ]
+}

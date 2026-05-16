@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Fredriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Väsbys Bästa",
+      "partiförkortning": "VB",
+      "ordning": "11",
+      "kandidatnummer": "42898"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kumla",
+      "valkrets": "Kumla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "41218"
+    }
+  ]
+}

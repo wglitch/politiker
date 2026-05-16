@@ -1,0 +1,23 @@
+{
+  "namn": "Sara Setterlind",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "8450"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eda",
+      "valkrets": "Eda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "8450"
+    }
+  ]
+}

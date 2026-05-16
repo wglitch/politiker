@@ -1,0 +1,23 @@
+{
+  "namn": "John Holmgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "29478"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "29478"
+    }
+  ]
+}

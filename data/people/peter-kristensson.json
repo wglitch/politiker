@@ -1,0 +1,68 @@
+{
+  "namn": "Peter Kristensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "4393"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orust",
+      "valkrets": "Orust",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "4393"
+    }
+  ]
+}

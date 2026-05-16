@@ -1,0 +1,59 @@
+{
+  "namn": "Anders Rosén",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "2064"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "61",
+      "kandidatnummer": "16648"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "16648"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ekerö",
+      "valkrets": "Ekerö",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "18",
+      "kandidatnummer": "27414"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malung-Sälen",
+      "valkrets": "Malung-Sälen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16648"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Rättvik",
+      "valkrets": "Rättvik",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "2064"
+    }
+  ]
+}

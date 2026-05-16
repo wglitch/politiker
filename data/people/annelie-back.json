@@ -1,0 +1,23 @@
+{
+  "namn": "Annelie Bäck",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "14",
+      "kandidatnummer": "28460"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "13",
+      "kandidatnummer": "28460"
+    }
+  ]
+}

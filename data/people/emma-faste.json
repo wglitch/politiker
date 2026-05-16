@@ -1,0 +1,23 @@
+{
+  "namn": "Emma Fäste",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "22985"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "22985"
+    }
+  ]
+}

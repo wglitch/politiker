@@ -1,0 +1,23 @@
+{
+  "namn": "Susanne Dahlström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "45",
+      "kandidatnummer": "41789"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lomma",
+      "valkrets": "Lomma",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "18844"
+    }
+  ]
+}

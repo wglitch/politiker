@@ -1,0 +1,32 @@
+{
+  "namn": "Olov Östlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "20",
+      "kandidatnummer": "35325"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "20",
+      "kandidatnummer": "35325"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderhamn",
+      "valkrets": "Söderhamn",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "35325"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Jonathan Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "9987"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "26727"
+    }
+  ]
+}

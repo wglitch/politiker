@@ -1,0 +1,77 @@
+{
+  "namn": "Pia Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "64",
+      "kandidatnummer": "31295"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Flen",
+      "valkrets": "Flen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "31295"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Habo",
+      "valkrets": "Habo",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "45385"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "54322"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sölvesborg",
+      "valkrets": "Sölvesborg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "34",
+      "kandidatnummer": "38964"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vellinge",
+      "valkrets": "Vellinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "44712"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "13",
+      "kandidatnummer": "43606"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "13",
+      "kandidatnummer": "43606"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Anita Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "14549"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "14549"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "14549"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnosjö",
+      "valkrets": "Gnosjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "45790"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "32",
+      "kandidatnummer": "14549"
+    }
+  ]
+}

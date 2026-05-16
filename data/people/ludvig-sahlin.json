@@ -1,0 +1,41 @@
+{
+  "namn": "Ludvig Sahlin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "5026"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "5026"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "5026"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "43",
+      "kandidatnummer": "5026"
+    }
+  ]
+}

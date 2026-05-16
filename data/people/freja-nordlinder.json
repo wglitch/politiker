@@ -1,0 +1,23 @@
+{
+  "namn": "Freja Nordlinder",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "3",
+      "kandidatnummer": "47999"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "3",
+      "kandidatnummer": "47999"
+    }
+  ]
+}

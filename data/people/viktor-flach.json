@@ -1,0 +1,59 @@
+{
+  "namn": "Viktor Flach",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "15",
+      "kandidatnummer": "55620"
+    }
+  ]
+}

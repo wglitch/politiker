@@ -1,0 +1,23 @@
+{
+  "namn": "Bo Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "10371"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "36197"
+    }
+  ]
+}

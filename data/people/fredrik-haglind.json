@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Haglind",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "25904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "5",
+      "kandidatnummer": "25904"
+    }
+  ]
+}

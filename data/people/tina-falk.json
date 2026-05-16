@@ -1,0 +1,23 @@
+{
+  "namn": "Tina Falk",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "41868"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lomma",
+      "valkrets": "Lomma",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "41868"
+    }
+  ]
+}

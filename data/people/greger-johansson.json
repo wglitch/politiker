@@ -1,0 +1,95 @@
+{
+  "namn": "Greger Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "40902"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "54",
+      "kandidatnummer": "4690"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "3260"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "3260"
+    }
+  ]
+}

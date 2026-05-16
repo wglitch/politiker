@@ -1,0 +1,50 @@
+{
+  "namn": "Jonny Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "41",
+      "kandidatnummer": "8559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "41",
+      "kandidatnummer": "8559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "22270"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "22270"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tidaholm",
+      "valkrets": "Tidaholm",
+      "parti": "Vi Tidaholm",
+      "partiförkortning": "VT",
+      "ordning": "9",
+      "kandidatnummer": "55082"
+    }
+  ]
+}

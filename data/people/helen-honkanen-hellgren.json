@@ -1,0 +1,68 @@
+{
+  "namn": "Helen Honkanen Hellgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "23051"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Emmaboda",
+      "valkrets": "Emmaboda",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "23051"
+    }
+  ]
+}

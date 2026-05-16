@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Strandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Älmhult",
+      "valkrets": "Älmhult",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "9518"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "48",
+      "kandidatnummer": "51282"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Jonas Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "23994"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nynäshamn",
+      "valkrets": "Nynäshamn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "53408"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "15225"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Munkedal",
+      "valkrets": "Munkedal",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "49748"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vara",
+      "valkrets": "Vara",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "48877"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "45241"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kil",
+      "valkrets": "Kil",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "23994"
+    }
+  ]
+}

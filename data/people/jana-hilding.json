@@ -1,0 +1,32 @@
+{
+  "namn": "Jana Hilding",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "25",
+      "kandidatnummer": "4292"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "25",
+      "kandidatnummer": "4292"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vansbro",
+      "valkrets": "Vansbro",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "4292"
+    }
+  ]
+}

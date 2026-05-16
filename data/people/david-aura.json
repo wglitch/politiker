@@ -1,0 +1,23 @@
+{
+  "namn": "David Aura",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "4527"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hedemora",
+      "valkrets": "Hedemora",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "4527"
+    }
+  ]
+}

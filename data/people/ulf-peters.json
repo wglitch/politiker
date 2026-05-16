@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Peters",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "22693"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Landskrona",
+      "valkrets": "Landskrona",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "22693"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Per Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kinda",
+      "valkrets": "Kinda",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "20652"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "72",
+      "kandidatnummer": "17165"
+    }
+  ]
+}

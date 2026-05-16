@@ -1,0 +1,23 @@
+{
+  "namn": "Sune Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Herrljunga",
+      "valkrets": "Herrljunga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "26245"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "25",
+      "kandidatnummer": "49201"
+    }
+  ]
+}

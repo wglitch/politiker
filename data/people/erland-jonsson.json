@@ -1,0 +1,23 @@
+{
+  "namn": "Erland Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vännäs",
+      "valkrets": "Vännäs",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "49624"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vilhelmina",
+      "valkrets": "Vilhelmina",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "18335"
+    }
+  ]
+}

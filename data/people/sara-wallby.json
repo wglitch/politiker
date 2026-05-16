@@ -1,0 +1,32 @@
+{
+  "namn": "Sara Wallby",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "15",
+      "kandidatnummer": "52900"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "15",
+      "kandidatnummer": "52900"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "15",
+      "kandidatnummer": "52900"
+    }
+  ]
+}

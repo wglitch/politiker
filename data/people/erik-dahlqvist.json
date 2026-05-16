@@ -1,0 +1,23 @@
+{
+  "namn": "ERIK DAHLQVIST",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "13",
+      "kandidatnummer": "52165"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "13",
+      "kandidatnummer": "52165"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Hanna Evelyndotter",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "21",
+      "kandidatnummer": "20280"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "19",
+      "kandidatnummer": "20280"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alvesta",
+      "valkrets": "Alvesta",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "20280"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Gustav Andréasson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "2731"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "2731"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "18",
+      "kandidatnummer": "2731"
+    }
+  ]
+}

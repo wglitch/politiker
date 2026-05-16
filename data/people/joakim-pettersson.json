@@ -1,0 +1,23 @@
+{
+  "namn": "Joakim Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "19171"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "47",
+      "kandidatnummer": "14763"
+    }
+  ]
+}

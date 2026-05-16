@@ -1,0 +1,23 @@
+{
+  "namn": "Abdoulaye Bah",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "50829"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "30",
+      "kandidatnummer": "50829"
+    }
+  ]
+}

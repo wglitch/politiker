@@ -1,0 +1,23 @@
+{
+  "namn": "Jeanette Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mölndal",
+      "valkrets": "Mölndal",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "35",
+      "kandidatnummer": "47076"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "47661"
+    }
+  ]
+}

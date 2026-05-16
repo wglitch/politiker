@@ -1,0 +1,23 @@
+{
+  "namn": "Leif Sandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "42",
+      "kandidatnummer": "7703"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tomelilla",
+      "valkrets": "Tomelilla",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "16486"
+    }
+  ]
+}

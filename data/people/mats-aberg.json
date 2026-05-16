@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Åberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ljungby",
+      "valkrets": "Ljungby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "9530"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "45195"
+    }
+  ]
+}

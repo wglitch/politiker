@@ -1,0 +1,23 @@
+{
+  "namn": "Sanna Inga Poromaa",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "15347"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kiruna",
+      "valkrets": "Kiruna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "15347"
+    }
+  ]
+}

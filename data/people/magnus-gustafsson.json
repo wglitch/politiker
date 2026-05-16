@@ -1,0 +1,77 @@
+{
+  "namn": "Magnus Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "22",
+      "kandidatnummer": "54035"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "2221"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppvidinge",
+      "valkrets": "Uppvidinge",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "16559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "8922"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "8775"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "8775"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ronneby",
+      "valkrets": "Ronneby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "54908"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kiruna",
+      "valkrets": "Kiruna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "52957"
+    }
+  ]
+}

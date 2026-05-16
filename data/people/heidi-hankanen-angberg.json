@@ -1,0 +1,23 @@
+{
+  "namn": "Heidi Hankanen Ängberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "6955"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alingsås",
+      "valkrets": "Alingsås",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "6955"
+    }
+  ]
+}

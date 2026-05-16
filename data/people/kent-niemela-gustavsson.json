@@ -1,0 +1,23 @@
+{
+  "namn": "Kent Niemelä Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "25",
+      "kandidatnummer": "831"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vingåker",
+      "valkrets": "Vingåker",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "831"
+    }
+  ]
+}

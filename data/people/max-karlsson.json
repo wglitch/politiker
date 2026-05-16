@@ -1,0 +1,23 @@
+{
+  "namn": "Max Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "42",
+      "kandidatnummer": "14659"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "53757"
+    }
+  ]
+}

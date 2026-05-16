@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Fodor",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "53",
+      "kandidatnummer": "40724"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "40724"
+    }
+  ]
+}

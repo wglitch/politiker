@@ -1,0 +1,32 @@
+{
+  "namn": "Tommy Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "41112"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Alternativet",
+      "partiförkortning": "Alt",
+      "ordning": "6",
+      "kandidatnummer": "50559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "14934"
+    }
+  ]
+}

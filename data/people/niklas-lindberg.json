@@ -1,0 +1,23 @@
+{
+  "namn": "Niklas Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "4723"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Aneby",
+      "valkrets": "Aneby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "4723"
+    }
+  ]
+}

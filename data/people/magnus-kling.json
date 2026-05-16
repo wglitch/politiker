@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Kling",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Götene",
+      "valkrets": "Götene",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "5",
+      "kandidatnummer": "26848"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Götene",
+      "valkrets": "Götene",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "29657"
+    }
+  ]
+}

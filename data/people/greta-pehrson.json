@@ -1,0 +1,23 @@
+{
+  "namn": "Greta Pehrson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "35",
+      "kandidatnummer": "52388"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "35",
+      "kandidatnummer": "52388"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Jonas Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "59",
+      "kandidatnummer": "24285"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östra Göinge",
+      "valkrets": "Östra Göinge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "52672"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "24285"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Tomas Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "41368"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "41368"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "41368"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tierp",
+      "valkrets": "Tierp",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "41368"
+    }
+  ]
+}

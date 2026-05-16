@@ -1,0 +1,59 @@
+{
+  "namn": "Jörgen Rundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "29344"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "29344"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "29344"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "29344"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "29344"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "53",
+      "kandidatnummer": "29344"
+    }
+  ]
+}

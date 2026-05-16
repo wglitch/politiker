@@ -1,0 +1,23 @@
+{
+  "namn": "Rigel Arvidsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "42409"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "42409"
+    }
+  ]
+}

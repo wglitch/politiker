@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Åström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "27326"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "32",
+      "kandidatnummer": "5013"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Cornelius",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "8",
+      "kandidatnummer": "37510"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "8",
+      "kandidatnummer": "37510"
+    }
+  ]
+}

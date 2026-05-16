@@ -1,0 +1,23 @@
+{
+  "namn": "Ove Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mullsjö",
+      "valkrets": "Mullsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "33750"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "50313"
+    }
+  ]
+}

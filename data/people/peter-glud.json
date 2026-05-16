@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Glud",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "38",
+      "kandidatnummer": "14826"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "38",
+      "kandidatnummer": "14826"
+    }
+  ]
+}

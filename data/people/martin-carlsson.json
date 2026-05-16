@@ -1,0 +1,23 @@
+{
+  "namn": "Martin Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sollentuna",
+      "valkrets": "Sollentuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "5771"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tierp",
+      "valkrets": "Tierp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "8",
+      "kandidatnummer": "11222"
+    }
+  ]
+}

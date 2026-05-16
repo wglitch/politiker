@@ -1,0 +1,32 @@
+{
+  "namn": "Maria Blom",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "23",
+      "kandidatnummer": "54854"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "23",
+      "kandidatnummer": "54854"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vilhelmina",
+      "valkrets": "Vilhelmina",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "10",
+      "kandidatnummer": "38122"
+    }
+  ]
+}

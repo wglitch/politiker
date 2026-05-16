@@ -1,0 +1,23 @@
+{
+  "namn": "Rolf Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "30577"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "45222"
+    }
+  ]
+}

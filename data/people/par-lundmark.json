@@ -1,0 +1,23 @@
+{
+  "namn": "Pär Lundmark",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "32",
+      "kandidatnummer": "27693"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grästorp",
+      "valkrets": "Grästorp",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "3",
+      "kandidatnummer": "27693"
+    }
+  ]
+}

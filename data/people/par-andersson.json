@@ -1,0 +1,32 @@
+{
+  "namn": "Pär Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vadstena",
+      "valkrets": "Vadstena",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "48759"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bjuv",
+      "valkrets": "Bjuv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "7101"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlsborg",
+      "valkrets": "Karlsborg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "24349"
+    }
+  ]
+}

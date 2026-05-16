@@ -1,0 +1,32 @@
+{
+  "namn": "Ilona Szatmari Waldau",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "55785"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "55785"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "55785"
+    }
+  ]
+}

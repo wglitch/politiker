@@ -1,0 +1,32 @@
+{
+  "namn": "Andreas Jakobsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "57",
+      "kandidatnummer": "5401"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "23109"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ale",
+      "valkrets": "Ale",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "14180"
+    }
+  ]
+}

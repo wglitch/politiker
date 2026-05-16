@@ -1,0 +1,32 @@
+{
+  "namn": "Erika Aarneus",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "19068"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "19068"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "15",
+      "kandidatnummer": "19068"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Petra Rodéhn-Sampson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "9",
+      "kandidatnummer": "54281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "9",
+      "kandidatnummer": "54281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "9",
+      "kandidatnummer": "54281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "9",
+      "kandidatnummer": "54281"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "9",
+      "kandidatnummer": "54281"
+    }
+  ]
+}

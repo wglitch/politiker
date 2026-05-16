@@ -1,0 +1,23 @@
+{
+  "namn": "Denise Rydblom",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "36",
+      "kandidatnummer": "31143"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lomma",
+      "valkrets": "Lomma",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "31143"
+    }
+  ]
+}

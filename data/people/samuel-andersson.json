@@ -1,0 +1,50 @@
+{
+  "namn": "Samuel Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Härryda",
+      "valkrets": "Härryda",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "5",
+      "kandidatnummer": "51121"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "11",
+      "kandidatnummer": "39657"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "8",
+      "kandidatnummer": "51121"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "11182"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "11182"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Lars-Erik Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Höganäs",
+      "valkrets": "Höganäs",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "20271"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Skövdepartiet",
+      "partiförkortning": "SköP",
+      "ordning": "27",
+      "kandidatnummer": "22528"
+    }
+  ]
+}

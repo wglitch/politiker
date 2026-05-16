@@ -1,0 +1,86 @@
+{
+  "namn": "Monica Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "33",
+      "kandidatnummer": "52923"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "36",
+      "kandidatnummer": "52923"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "52923"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "15129"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lessebo",
+      "valkrets": "Lessebo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "43755"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sjöbo",
+      "valkrets": "Sjöbo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "22054"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Säffle Reformparti",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "52683"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "15",
+      "kandidatnummer": "52923"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "15",
+      "kandidatnummer": "52923"
+    }
+  ]
+}

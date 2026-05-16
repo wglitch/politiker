@@ -1,0 +1,50 @@
+{
+  "namn": "Lars Berg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "4867"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "39772"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "4867"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dorotea",
+      "valkrets": "Dorotea",
+      "parti": "Dorotea Kommunlista",
+      "partiförkortning": "DKL",
+      "ordning": "11",
+      "kandidatnummer": "50523"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Aktiv samling - Bodenalternativet",
+      "partiförkortning": "ASB",
+      "ordning": "21",
+      "kandidatnummer": "47393"
+    }
+  ]
+}

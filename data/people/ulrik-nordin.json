@@ -1,0 +1,23 @@
+{
+  "namn": "Ulrik Nordin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "33",
+      "kandidatnummer": "15538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "15538"
+    }
+  ]
+}

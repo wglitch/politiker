@@ -1,0 +1,23 @@
+{
+  "namn": "Mathilda Palm",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "13",
+      "kandidatnummer": "15877"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Båstad",
+      "valkrets": "Båstad",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "5",
+      "kandidatnummer": "15877"
+    }
+  ]
+}

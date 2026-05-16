@@ -1,0 +1,32 @@
+{
+  "namn": "Klas Hedlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "13726"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "30",
+      "kandidatnummer": "13726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "13726"
+    }
+  ]
+}

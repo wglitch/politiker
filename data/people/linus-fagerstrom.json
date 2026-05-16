@@ -1,0 +1,23 @@
+{
+  "namn": "Linus Fagerström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "52",
+      "kandidatnummer": "40218"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strängnäs",
+      "valkrets": "Strängnäs",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "59",
+      "kandidatnummer": "40218"
+    }
+  ]
+}

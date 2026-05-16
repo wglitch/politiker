@@ -1,0 +1,32 @@
+{
+  "namn": "Enis Shabani",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "18102"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "18102"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "18102"
+    }
+  ]
+}

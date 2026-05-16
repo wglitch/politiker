@@ -1,0 +1,23 @@
+{
+  "namn": "Lotta Jepsen Sjölander",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "4540"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gagnef",
+      "valkrets": "Gagnef",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "17",
+      "kandidatnummer": "4540"
+    }
+  ]
+}

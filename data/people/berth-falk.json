@@ -1,0 +1,23 @@
+{
+  "namn": "Berth Falk",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Örebro län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "9272"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lekeberg",
+      "valkrets": "Lekeberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "9272"
+    }
+  ]
+}

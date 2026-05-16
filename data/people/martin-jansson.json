@@ -1,0 +1,32 @@
+{
+  "namn": "Martin Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Järfälla",
+      "valkrets": "Järfälla",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "53303"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "27836"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "32",
+      "kandidatnummer": "52669"
+    }
+  ]
+}

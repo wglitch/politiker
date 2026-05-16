@@ -1,0 +1,23 @@
+{
+  "namn": "Anita Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "53",
+      "kandidatnummer": "35812"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sandviken",
+      "valkrets": "Sandviken",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "6",
+      "kandidatnummer": "54592"
+    }
+  ]
+}

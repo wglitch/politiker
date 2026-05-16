@@ -1,0 +1,32 @@
+{
+  "namn": "Conny Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "10357"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "22669"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Filipstad",
+      "valkrets": "Filipstad",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "36132"
+    }
+  ]
+}

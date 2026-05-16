@@ -1,0 +1,23 @@
+{
+  "namn": "Lena Kunéll",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "51837"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dals-Ed",
+      "valkrets": "Dals-Ed",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "51837"
+    }
+  ]
+}

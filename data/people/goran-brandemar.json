@@ -1,0 +1,23 @@
+{
+  "namn": "Göran Brändemar",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "57",
+      "kandidatnummer": "42330"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "57",
+      "kandidatnummer": "42330"
+    }
+  ]
+}

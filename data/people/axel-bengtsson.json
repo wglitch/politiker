@@ -1,0 +1,23 @@
+{
+  "namn": "Axel Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "1",
+      "kandidatnummer": "30103"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "1",
+      "kandidatnummer": "30103"
+    }
+  ]
+}

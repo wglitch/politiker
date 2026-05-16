@@ -1,0 +1,41 @@
+{
+  "namn": "Erik Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands-Bro",
+      "valkrets": "Upplands-Bro",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "53033"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Emmaboda",
+      "valkrets": "Emmaboda",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "29202"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "37",
+      "kandidatnummer": "53006"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "23",
+      "kandidatnummer": "16106"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Kevin Sundin",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "41814"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ystad",
+      "valkrets": "Ystad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "41814"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Arne Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "27",
+      "kandidatnummer": "2409"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sala",
+      "valkrets": "Sala",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "9160"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "2409"
+    }
+  ]
+}

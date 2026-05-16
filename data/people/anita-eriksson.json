@@ -1,0 +1,32 @@
+{
+  "namn": "Anita Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "53",
+      "kandidatnummer": "34253"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örkelljunga",
+      "valkrets": "Örkelljunga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "16425"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tibro",
+      "valkrets": "Tibro",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "30",
+      "kandidatnummer": "49041"
+    }
+  ]
+}

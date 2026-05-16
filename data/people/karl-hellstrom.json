@@ -1,0 +1,23 @@
+{
+  "namn": "Karl Hellström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "60",
+      "kandidatnummer": "40352"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "40352"
+    }
+  ]
+}

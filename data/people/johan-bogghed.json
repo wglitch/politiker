@@ -1,0 +1,23 @@
+{
+  "namn": "Johan Bogghed",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "8",
+      "kandidatnummer": "37289"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvdalen",
+      "valkrets": "Älvdalen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "1",
+      "kandidatnummer": "37289"
+    }
+  ]
+}

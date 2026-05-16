@@ -1,0 +1,23 @@
+{
+  "namn": "Sofi Cyréus",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "22",
+      "kandidatnummer": "32525"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "5",
+      "kandidatnummer": "32525"
+    }
+  ]
+}

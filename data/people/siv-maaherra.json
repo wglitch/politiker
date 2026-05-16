@@ -1,0 +1,23 @@
+{
+  "namn": "Siv Maaherra",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "42",
+      "kandidatnummer": "12396"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "11",
+      "kandidatnummer": "12396"
+    }
+  ]
+}

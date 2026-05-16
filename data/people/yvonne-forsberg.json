@@ -1,0 +1,131 @@
+{
+  "namn": "Yvonne Forsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "50",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "8535"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "8535"
+    }
+  ]
+}

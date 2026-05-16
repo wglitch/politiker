@@ -1,0 +1,32 @@
+{
+  "namn": "Fredrik Ericsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "66",
+      "kandidatnummer": "24289"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vimmerby",
+      "valkrets": "Vimmerby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "10696"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "26",
+      "kandidatnummer": "24289"
+    }
+  ]
+}

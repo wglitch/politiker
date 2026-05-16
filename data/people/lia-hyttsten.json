@@ -1,0 +1,23 @@
+{
+  "namn": "Lia Hyttsten",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jämtlands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "20357"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "20357"
+    }
+  ]
+}

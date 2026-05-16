@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Lindgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Surahammar",
+      "valkrets": "Surahammar",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "14452"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "24176"
+    }
+  ]
+}

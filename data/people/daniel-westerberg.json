@@ -1,0 +1,23 @@
+{
+  "namn": "DANIEL WESTERBERG",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Östra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "18",
+      "kandidatnummer": "52170"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västmanland",
+      "valkrets": "Västra valkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "18",
+      "kandidatnummer": "52170"
+    }
+  ]
+}

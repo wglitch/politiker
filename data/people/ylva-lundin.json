@@ -1,0 +1,23 @@
+{
+  "namn": "Ylva Lundin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "26098"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "26483"
+    }
+  ]
+}

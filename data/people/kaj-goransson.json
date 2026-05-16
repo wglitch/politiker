@@ -1,0 +1,68 @@
+{
+  "namn": "Kaj Göransson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 1 Västervik",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 2 Hultsfred Vimmerby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 3 Högsby Mönsterås Oskarshamn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 4  Emmaboda Nybro Torsås",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 5 Kalmar",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar 6 Borgholm Mörbylånga",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "2987"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nybro",
+      "valkrets": "Nybro",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "15",
+      "kandidatnummer": "2987"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Barbro Sahlin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "16378"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "16378"
+    }
+  ]
+}

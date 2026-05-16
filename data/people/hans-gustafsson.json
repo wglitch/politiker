@@ -1,0 +1,50 @@
+{
+  "namn": "Hans Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Högsby",
+      "valkrets": "Högsby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "29248"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "11",
+      "kandidatnummer": "45489"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "39344"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "39344"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "39344"
+    }
+  ]
+}

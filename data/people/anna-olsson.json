@@ -1,0 +1,32 @@
+{
+  "namn": "Anna Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Söderköpingsinitiativet",
+      "partiförkortning": "",
+      "ordning": "38",
+      "kandidatnummer": "54512"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Osby",
+      "valkrets": "Osby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "36",
+      "kandidatnummer": "22001"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsör",
+      "valkrets": "Kungsör",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "24225"
+    }
+  ]
+}

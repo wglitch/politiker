@@ -1,0 +1,32 @@
+{
+  "namn": "David Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "37449"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "37449"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "22",
+      "kandidatnummer": "37449"
+    }
+  ]
+}

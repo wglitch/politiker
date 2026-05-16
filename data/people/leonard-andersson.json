@@ -1,0 +1,23 @@
+{
+  "namn": "Leonard Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Feministerna och Kommunisterna",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "56059"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Feministerna och Kommunisterna",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "56059"
+    }
+  ]
+}

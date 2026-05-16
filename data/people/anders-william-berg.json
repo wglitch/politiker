@@ -1,0 +1,59 @@
+{
+  "namn": "Anders-William Berg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mölndal",
+      "valkrets": "Mölndal",
+      "parti": "Mölndalslistan",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "45405"
+    }
+  ]
+}

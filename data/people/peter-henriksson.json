@@ -1,0 +1,41 @@
+{
+  "namn": "Peter Henriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "47",
+      "kandidatnummer": "37227"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "47",
+      "kandidatnummer": "37227"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "47",
+      "kandidatnummer": "37227"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svedala",
+      "valkrets": "Svedala",
+      "parti": "Älska Svedala",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "33599"
+    }
+  ]
+}

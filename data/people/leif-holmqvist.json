@@ -1,0 +1,23 @@
+{
+  "namn": "Leif Holmqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mullsjö",
+      "valkrets": "Mullsjö",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "12475"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "34771"
+    }
+  ]
+}

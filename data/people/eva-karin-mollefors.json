@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Karin Möllefors",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "11",
+      "kandidatnummer": "19503"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "41",
+      "kandidatnummer": "19503"
+    }
+  ]
+}

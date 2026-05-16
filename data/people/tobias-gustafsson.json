@@ -1,0 +1,41 @@
+{
+  "namn": "Tobias Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "40463"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "40463"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "19025"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "31364"
+    }
+  ]
+}

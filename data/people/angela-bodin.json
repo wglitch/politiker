@@ -1,0 +1,32 @@
+{
+  "namn": "Angela Bodin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "38",
+      "kandidatnummer": "53082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "15",
+      "kandidatnummer": "53082"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "42",
+      "kandidatnummer": "53082"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Lennart Löfqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "35",
+      "kandidatnummer": "6363"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppvidinge",
+      "valkrets": "Uppvidinge",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "6363"
+    }
+  ]
+}

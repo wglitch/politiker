@@ -1,0 +1,68 @@
+{
+  "namn": "Alexander Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Uppsala län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "25",
+      "kandidatnummer": "55781"
+    },
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "38",
+      "kandidatnummer": "4881"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "55781"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "55781"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "55781"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tierp",
+      "valkrets": "Tierp",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "55781"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tidaholm",
+      "valkrets": "Tidaholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "4881"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Martina Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "7685"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lilla Edet",
+      "valkrets": "Lilla Edet",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "19",
+      "kandidatnummer": "30990"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storfors",
+      "valkrets": "Storfors",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "7685"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Bengt-Göran Fransson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "47",
+      "kandidatnummer": "19517"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnosjö",
+      "valkrets": "Gnosjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "19517"
+    }
+  ]
+}

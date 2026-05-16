@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Fjellborg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "46",
+      "kandidatnummer": "6664"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kiruna",
+      "valkrets": "Kiruna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "6664"
+    }
+  ]
+}

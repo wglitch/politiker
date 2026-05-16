@@ -1,0 +1,95 @@
+{
+  "namn": "Håkan Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "29",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "30",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "32",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "10",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "11",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "31",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "48493"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "24389"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Dalademokraterna",
+      "partiförkortning": "Ddem",
+      "ordning": "8",
+      "kandidatnummer": "18887"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vilhelmina",
+      "valkrets": "Vilhelmina",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "20274"
+    }
+  ]
+}

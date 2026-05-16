@@ -1,0 +1,23 @@
+{
+  "namn": "Margareta Lindgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "46792"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Avesta",
+      "valkrets": "Avesta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "13",
+      "kandidatnummer": "44590"
+    }
+  ]
+}

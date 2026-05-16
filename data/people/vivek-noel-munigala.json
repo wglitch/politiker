@@ -1,0 +1,23 @@
+{
+  "namn": "Vivek Noel Munigala",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "5264"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "5264"
+    }
+  ]
+}

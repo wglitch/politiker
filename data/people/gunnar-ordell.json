@@ -1,0 +1,23 @@
+{
+  "namn": "Gunnar Ordell",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "43",
+      "kandidatnummer": "7704"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "7704"
+    }
+  ]
+}

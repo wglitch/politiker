@@ -1,0 +1,23 @@
+{
+  "namn": "Lennart Sjöberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "45293"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sorsele",
+      "valkrets": "Sorsele",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "25698"
+    }
+  ]
+}

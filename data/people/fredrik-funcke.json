@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Funcke",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "65",
+      "kandidatnummer": "14917"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "51",
+      "kandidatnummer": "14917"
+    }
+  ]
+}

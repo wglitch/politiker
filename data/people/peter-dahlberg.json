@@ -1,0 +1,32 @@
+{
+  "namn": "Peter Dahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "40",
+      "kandidatnummer": "34240"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "7219"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "23",
+      "kandidatnummer": "7219"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Irene Bogren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "15809"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ockelbo",
+      "valkrets": "Ockelbo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "15809"
+    }
+  ]
+}

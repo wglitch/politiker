@@ -1,0 +1,23 @@
+{
+  "namn": "Eva Falk",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Härryda",
+      "valkrets": "Härryda",
+      "parti": "SPORT- OCH KOMMUNPARTIET",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "30871"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Fagersta",
+      "valkrets": "Fagersta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "43413"
+    }
+  ]
+}

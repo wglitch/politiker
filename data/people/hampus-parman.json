@@ -1,0 +1,59 @@
+{
+  "namn": "Hampus Parman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "2",
+      "kandidatnummer": "42799"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Patricia Escalante",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "56465"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "56465"
+    }
+  ]
+}

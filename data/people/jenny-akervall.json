@@ -1,0 +1,23 @@
+{
+  "namn": "Jenny Åkervall",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "13349"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Danderyd",
+      "valkrets": "Danderyd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "13349"
+    }
+  ]
+}

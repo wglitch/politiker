@@ -1,0 +1,41 @@
+{
+  "namn": "Cecilia Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Västervik",
+      "valkrets": "Västervik",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "23774"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "36",
+      "kandidatnummer": "22816"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skinnskatteberg",
+      "valkrets": "Skinnskatteberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "4258"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordmaling",
+      "valkrets": "Nordmaling",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "3",
+      "kandidatnummer": "25765"
+    }
+  ]
+}

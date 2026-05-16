@@ -1,0 +1,23 @@
+{
+  "namn": "Joakim Wallander",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "59",
+      "kandidatnummer": "52840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "52840"
+    }
+  ]
+}

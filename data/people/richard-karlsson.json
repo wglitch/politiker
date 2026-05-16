@@ -1,0 +1,23 @@
+{
+  "namn": "Richard Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "25501"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boxholm",
+      "valkrets": "Boxholm",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "40910"
+    }
+  ]
+}

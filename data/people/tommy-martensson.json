@@ -1,0 +1,23 @@
+{
+  "namn": "Tommy Mårtensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ronneby",
+      "valkrets": "Ronneby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "26",
+      "kandidatnummer": "5995"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ulricehamn",
+      "valkrets": "Ulricehamn",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "21407"
+    }
+  ]
+}

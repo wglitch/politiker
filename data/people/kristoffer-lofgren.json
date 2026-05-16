@@ -1,0 +1,23 @@
+{
+  "namn": "Kristoffer Löfgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "43173"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollnäs",
+      "valkrets": "Bollnäs",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "43173"
+    }
+  ]
+}

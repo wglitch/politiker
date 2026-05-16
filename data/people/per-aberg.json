@@ -1,0 +1,23 @@
+{
+  "namn": "Per Åberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "42415"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tomelilla",
+      "valkrets": "Tomelilla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "20852"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Wikström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "46116"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "6339"
+    }
+  ]
+}

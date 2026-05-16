@@ -1,0 +1,50 @@
+{
+  "namn": "Ingela Korhonen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "52911"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "52911"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "52911"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "52911"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "52911"
+    }
+  ]
+}

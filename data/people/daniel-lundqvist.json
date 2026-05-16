@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Lundqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Markaryd",
+      "valkrets": "Markaryd",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "1818"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "59",
+      "kandidatnummer": "48673"
+    }
+  ]
+}

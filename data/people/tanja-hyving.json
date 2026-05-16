@@ -1,0 +1,23 @@
+{
+  "namn": "Tanja Hyving",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Fagersta",
+      "valkrets": "Fagersta",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "6557"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "6557"
+    }
+  ]
+}

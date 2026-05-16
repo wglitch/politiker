@@ -1,0 +1,23 @@
+{
+  "namn": "Sara Månsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eslöv",
+      "valkrets": "Eslöv",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "30536"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ånge",
+      "valkrets": "Ånge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "15992"
+    }
+  ]
+}

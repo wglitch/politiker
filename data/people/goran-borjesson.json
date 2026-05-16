@@ -1,0 +1,23 @@
+{
+  "namn": "Göran Börjesson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Stenungsundspartiet",
+      "partiförkortning": "St",
+      "ordning": "31",
+      "kandidatnummer": "43149"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "29376"
+    }
+  ]
+}

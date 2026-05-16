@@ -1,0 +1,32 @@
+{
+  "namn": "Jonny Lindblom",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Gävleborgs län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "17",
+      "kandidatnummer": "36100"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "21",
+      "kandidatnummer": "36100"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ockelbo",
+      "valkrets": "Ockelbo",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "36100"
+    }
+  ]
+}

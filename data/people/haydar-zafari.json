@@ -1,0 +1,23 @@
+{
+  "namn": "Haydar Zafari",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "1",
+      "kandidatnummer": "54206"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "1",
+      "kandidatnummer": "54206"
+    }
+  ]
+}

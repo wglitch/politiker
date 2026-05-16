@@ -1,0 +1,23 @@
+{
+  "namn": "Richard Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Söderköpingsinitiativet",
+      "partiförkortning": "",
+      "ordning": "30",
+      "kandidatnummer": "35395"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vetlanda",
+      "valkrets": "Vetlanda",
+      "parti": "Vetlanda framåtanda",
+      "partiförkortning": "VF",
+      "ordning": "36",
+      "kandidatnummer": "55733"
+    }
+  ]
+}

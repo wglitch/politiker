@@ -1,0 +1,23 @@
+{
+  "namn": "Sebastian Wester",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "42358"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ängelholm",
+      "valkrets": "Ängelholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "42358"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Göranson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "21",
+      "kandidatnummer": "14534"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "46",
+      "kandidatnummer": "14534"
+    }
+  ]
+}

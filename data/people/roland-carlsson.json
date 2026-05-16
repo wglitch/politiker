@@ -1,0 +1,23 @@
+{
+  "namn": "Roland Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "3646"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "3646"
+    }
+  ]
+}

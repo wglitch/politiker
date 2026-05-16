@@ -1,0 +1,23 @@
+{
+  "namn": "Hellvi Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "7",
+      "kandidatnummer": "54012"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "7",
+      "kandidatnummer": "54012"
+    }
+  ]
+}

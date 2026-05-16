@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Tornérhielm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "26",
+      "kandidatnummer": "28223"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "26",
+      "kandidatnummer": "28223"
+    }
+  ]
+}

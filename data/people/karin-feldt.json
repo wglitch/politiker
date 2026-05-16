@@ -1,0 +1,32 @@
+{
+  "namn": "Karin Feldt",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "15613"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "15613"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "15613"
+    }
+  ]
+}

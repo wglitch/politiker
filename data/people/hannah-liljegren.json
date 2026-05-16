@@ -1,0 +1,23 @@
+{
+  "namn": "Hannah Liljegren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "24231"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eda",
+      "valkrets": "Eda",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "24231"
+    }
+  ]
+}

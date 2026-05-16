@@ -1,0 +1,23 @@
+{
+  "namn": "Gustav Sjöblom",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "13793"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hofors",
+      "valkrets": "Hofors",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "55664"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Lennart Lundberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "54857"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "54857"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "54857"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Knivsta.Nu",
+      "partiförkortning": "KNU",
+      "ordning": "18",
+      "kandidatnummer": "54857"
+    }
+  ]
+}

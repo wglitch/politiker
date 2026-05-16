@@ -1,0 +1,23 @@
+{
+  "namn": "Katarina Eneros",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "29",
+      "kandidatnummer": "34093"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "34093"
+    }
+  ]
+}

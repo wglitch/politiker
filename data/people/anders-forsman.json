@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Forsman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "35343"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "25459"
+    }
+  ]
+}

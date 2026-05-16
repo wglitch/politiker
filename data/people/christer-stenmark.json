@@ -1,0 +1,23 @@
+{
+  "namn": "Christer Stenmark",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "24",
+      "kandidatnummer": "54816"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "10",
+      "kandidatnummer": "54816"
+    }
+  ]
+}

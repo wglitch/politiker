@@ -1,0 +1,32 @@
+{
+  "namn": "Lennart Malmerfors",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "39364"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "39364"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "39364"
+    }
+  ]
+}

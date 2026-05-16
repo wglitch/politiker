@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Lindgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "14988"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "30041"
+    }
+  ]
+}

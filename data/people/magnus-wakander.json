@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Wakander",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "7476"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "7476"
+    }
+  ]
+}

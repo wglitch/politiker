@@ -1,0 +1,23 @@
+{
+  "namn": "Nicklas Lundström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "37",
+      "kandidatnummer": "2454"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "2454"
+    }
+  ]
+}

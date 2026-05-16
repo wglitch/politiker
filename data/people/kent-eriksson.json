@@ -1,0 +1,32 @@
+{
+  "namn": "Kent Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "7935"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvdalen",
+      "valkrets": "Älvdalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "37953"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "47508"
+    }
+  ]
+}

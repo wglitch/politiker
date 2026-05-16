@@ -1,0 +1,23 @@
+{
+  "namn": "Johan Björk",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "7918"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "46",
+      "kandidatnummer": "26555"
+    }
+  ]
+}

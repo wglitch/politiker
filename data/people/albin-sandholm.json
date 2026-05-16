@@ -1,0 +1,23 @@
+{
+  "namn": "Albin Sandholm",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "46",
+      "kandidatnummer": "54826"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "20",
+      "kandidatnummer": "54826"
+    }
+  ]
+}

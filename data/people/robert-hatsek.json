@@ -1,0 +1,23 @@
+{
+  "namn": "Robert Hatsek",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "41592"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "41592"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Henrik Thorsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jämtland",
+      "valkrets": "Jämtland/Härjedalen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "10",
+      "kandidatnummer": "45981"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "4",
+      "kandidatnummer": "45981"
+    }
+  ]
+}

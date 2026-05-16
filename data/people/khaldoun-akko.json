@@ -1,0 +1,23 @@
+{
+  "namn": "Khaldoun Akko",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "66",
+      "kandidatnummer": "34115"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Filipstad",
+      "valkrets": "Filipstad",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "34115"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Niklas Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gotland",
+      "valkrets": "Gotland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "26",
+      "kandidatnummer": "44113"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "28",
+      "kandidatnummer": "33489"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "39186"
+    }
+  ]
+}

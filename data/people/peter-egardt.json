@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Egardt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "6276"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvdalen",
+      "valkrets": "Älvdalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "6276"
+    }
+  ]
+}

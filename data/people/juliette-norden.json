@@ -1,0 +1,23 @@
+{
+  "namn": "Juliette Nordén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "25",
+      "kandidatnummer": "29473"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "25",
+      "kandidatnummer": "29473"
+    }
+  ]
+}

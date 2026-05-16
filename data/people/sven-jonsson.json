@@ -1,0 +1,23 @@
+{
+  "namn": "Sven Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "48463"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svedala",
+      "valkrets": "Svedala",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "19829"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ingvar Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mjölby",
+      "valkrets": "Mjölby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "22456"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tomelilla",
+      "valkrets": "Tomelilla",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "16494"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Gamal Hamid",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "50796"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "50796"
+    }
+  ]
+}

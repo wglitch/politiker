@@ -1,0 +1,59 @@
+{
+  "namn": "Elena Karlström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Stockholms Vänsterallians",
+      "partiförkortning": "StV",
+      "ordning": "4",
+      "kandidatnummer": "46144"
+    }
+  ]
+}

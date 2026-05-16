@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Röjd",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sjukvårdspartiet Gävleborg",
+      "partiförkortning": "SJPG",
+      "ordning": "1",
+      "kandidatnummer": "50717"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "3",
+      "kandidatnummer": "50717"
+    }
+  ]
+}

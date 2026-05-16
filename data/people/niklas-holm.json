@@ -1,0 +1,23 @@
+{
+  "namn": "Niklas Holm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "tjugofyrasju",
+      "partiförkortning": "Tfs",
+      "ordning": "1",
+      "kandidatnummer": "24451"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "tjugofyrasju",
+      "partiförkortning": "Tfs",
+      "ordning": "1",
+      "kandidatnummer": "24451"
+    }
+  ]
+}

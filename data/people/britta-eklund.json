@@ -1,0 +1,23 @@
+{
+  "namn": "Britta Eklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "17",
+      "kandidatnummer": "12886"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "10",
+      "kandidatnummer": "12886"
+    }
+  ]
+}

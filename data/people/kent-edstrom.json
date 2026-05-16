@@ -1,0 +1,23 @@
+{
+  "namn": "Kent Edström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Herrljunga",
+      "valkrets": "Herrljunga",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "18750"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bjurholm",
+      "valkrets": "Bjurholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "26348"
+    }
+  ]
+}

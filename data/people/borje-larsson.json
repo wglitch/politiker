@@ -1,0 +1,32 @@
+{
+  "namn": "Börje Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "36751"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nykvarn",
+      "valkrets": "Nykvarn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "48608"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "13",
+      "kandidatnummer": "56426"
+    }
+  ]
+}

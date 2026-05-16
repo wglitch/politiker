@@ -1,0 +1,32 @@
+{
+  "namn": "Ulrika Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Norsjö",
+      "valkrets": "Norsjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "33962"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storuman",
+      "valkrets": "Storuman",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "39060"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arjeplog",
+      "valkrets": "Arjeplog",
+      "parti": "Folkinitiativet Arjeplog",
+      "partiförkortning": "FoAr",
+      "ordning": "9",
+      "kandidatnummer": "54743"
+    }
+  ]
+}

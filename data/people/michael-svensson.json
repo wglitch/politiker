@@ -1,0 +1,32 @@
+{
+  "namn": "Michael Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nykvarn",
+      "valkrets": "Nykvarn",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "8603"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "43078"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Perstorp",
+      "valkrets": "Perstorp",
+      "parti": "Vi i Perstorp",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "28064"
+    }
+  ]
+}

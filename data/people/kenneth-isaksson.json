@@ -1,0 +1,41 @@
+{
+  "namn": "Kenneth Isaksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "65",
+      "kandidatnummer": "3414"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "65",
+      "kandidatnummer": "3414"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "65",
+      "kandidatnummer": "3414"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Robertsfors",
+      "valkrets": "Robertsfors",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "3414"
+    }
+  ]
+}

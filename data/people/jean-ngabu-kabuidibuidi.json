@@ -1,0 +1,122 @@
+{
+  "namn": "Jean Ngabu Kabuidibuidi",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydväst",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Sydost",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Ost",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordost",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nord",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Stockholm",
+      "valkrets": "Nordväst",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "NY REFORM",
+      "partiförkortning": "NR",
+      "ordning": "3",
+      "kandidatnummer": "57152"
+    }
+  ]
+}

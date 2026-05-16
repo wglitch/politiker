@@ -1,0 +1,32 @@
+{
+  "namn": "Viktor Langetz",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "54867"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "54867"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "18",
+      "kandidatnummer": "54867"
+    }
+  ]
+}

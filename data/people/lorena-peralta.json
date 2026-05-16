@@ -1,0 +1,23 @@
+{
+  "namn": "Lorena Peralta",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Östergötlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "20",
+      "kandidatnummer": "2437"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "29",
+      "kandidatnummer": "2437"
+    }
+  ]
+}

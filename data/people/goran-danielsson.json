@@ -1,0 +1,23 @@
+{
+  "namn": "Göran Danielsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "4360"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "27152"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Nina Strandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Väsbys Bästa",
+      "partiförkortning": "VB",
+      "ordning": "9",
+      "kandidatnummer": "42897"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "21059"
+    }
+  ]
+}

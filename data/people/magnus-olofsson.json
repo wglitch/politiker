@@ -1,0 +1,32 @@
+{
+  "namn": "Magnus Olofsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "12203"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Västjämtlands Väl",
+      "partiförkortning": "VV",
+      "ordning": "6",
+      "kandidatnummer": "56068"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "63",
+      "kandidatnummer": "48674"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Christer Sjögren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "18",
+      "kandidatnummer": "20186"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Partille",
+      "valkrets": "Partille",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "14",
+      "kandidatnummer": "30640"
+    }
+  ]
+}

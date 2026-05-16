@@ -1,0 +1,23 @@
+{
+  "namn": "Åke Sandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Boxholm",
+      "valkrets": "Boxholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "29010"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gagnef",
+      "valkrets": "Gagnef",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "27251"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Kahlin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "48299"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Laholm",
+      "valkrets": "Laholm",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "13",
+      "kandidatnummer": "48299"
+    }
+  ]
+}

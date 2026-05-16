@@ -1,0 +1,23 @@
+{
+  "namn": "Jacqueline Bouvin Agstam",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "26914"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storfors",
+      "valkrets": "Storfors",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "2",
+      "kandidatnummer": "26914"
+    }
+  ]
+}

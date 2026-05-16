@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Stefansdotter",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "15143"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "32",
+      "kandidatnummer": "15143"
+    }
+  ]
+}

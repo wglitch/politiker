@@ -1,0 +1,23 @@
+{
+  "namn": "Madelen Grahn",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Södermanlands län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "23939"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "23939"
+    }
+  ]
+}

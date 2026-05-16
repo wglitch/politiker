@@ -1,0 +1,23 @@
+{
+  "namn": "Siv Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gnesta",
+      "valkrets": "Gnesta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "44610"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "18",
+      "kandidatnummer": "45227"
+    }
+  ]
+}

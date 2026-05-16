@@ -1,0 +1,23 @@
+{
+  "namn": "Ulrika Jacobs",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "7674"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grums",
+      "valkrets": "Grums",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "7674"
+    }
+  ]
+}

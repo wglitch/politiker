@@ -1,0 +1,23 @@
+{
+  "namn": "Michael Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "5",
+      "kandidatnummer": "34212"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svenljunga",
+      "valkrets": "Svenljunga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "19",
+      "kandidatnummer": "33267"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Hawarne, Hussam",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "AI partiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "45053"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "AI partiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "45053"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "AI partiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "45053"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "AI partiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "45053"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "AI partiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "45053"
+    }
+  ]
+}

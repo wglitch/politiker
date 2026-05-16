@@ -1,0 +1,50 @@
+{
+  "namn": "Joakim Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Åtvidabergs Framtid",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "56879"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "13",
+      "kandidatnummer": "46288"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "24",
+      "kandidatnummer": "23499"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "18",
+      "kandidatnummer": "53378"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östersund",
+      "valkrets": "Östersund",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "7",
+      "kandidatnummer": "31780"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Forsberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "16",
+      "kandidatnummer": "18133"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bengtsfors",
+      "valkrets": "Bengtsfors",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "1",
+      "kandidatnummer": "18133"
+    }
+  ]
+}

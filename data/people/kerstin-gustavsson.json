@@ -1,0 +1,23 @@
+{
+  "namn": "Kerstin Gustavsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falköping",
+      "valkrets": "Falköping",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "55038"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "43",
+      "kandidatnummer": "18230"
+    }
+  ]
+}

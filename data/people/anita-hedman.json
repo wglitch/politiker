@@ -1,0 +1,32 @@
+{
+  "namn": "Anita Hedman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "43",
+      "kandidatnummer": "7381"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "43",
+      "kandidatnummer": "7381"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "43",
+      "kandidatnummer": "7381"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Yvonne Rosén",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "10",
+      "kandidatnummer": "30105"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "10",
+      "kandidatnummer": "30105"
+    }
+  ]
+}

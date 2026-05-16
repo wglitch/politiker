@@ -1,0 +1,23 @@
+{
+  "namn": "Karl Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms kommun",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "12",
+      "kandidatnummer": "33927"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "34952"
+    }
+  ]
+}

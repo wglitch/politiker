@@ -1,0 +1,32 @@
+{
+  "namn": "Lars-Erik Winroth",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kronobergs län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "68",
+      "kandidatnummer": "16825"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "12",
+      "kandidatnummer": "16825"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lessebo",
+      "valkrets": "Lessebo",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "16825"
+    }
+  ]
+}

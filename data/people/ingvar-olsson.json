@@ -1,0 +1,23 @@
+{
+  "namn": "Ingvar Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "3",
+      "kandidatnummer": "48454"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hofors",
+      "valkrets": "Hofors",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "14",
+      "kandidatnummer": "43843"
+    }
+  ]
+}

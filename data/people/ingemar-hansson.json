@@ -1,0 +1,32 @@
+{
+  "namn": "Ingemar Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "38033"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Simrishamn",
+      "valkrets": "Simrishamn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "9",
+      "kandidatnummer": "15922"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsby",
+      "valkrets": "Torsby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "18478"
+    }
+  ]
+}

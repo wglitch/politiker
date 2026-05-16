@@ -1,0 +1,23 @@
+{
+  "namn": "Ingela Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "55",
+      "kandidatnummer": "35814"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tyresö",
+      "valkrets": "Tyresö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "11320"
+    }
+  ]
+}

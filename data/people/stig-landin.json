@@ -1,0 +1,23 @@
+{
+  "namn": "Stig Landin",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "23",
+      "kandidatnummer": "28467"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kiruna",
+      "valkrets": "Kiruna",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "28467"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Sören Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "9",
+      "kandidatnummer": "53815"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Robertsfors",
+      "valkrets": "Robertsfors",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "43366"
+    }
+  ]
+}

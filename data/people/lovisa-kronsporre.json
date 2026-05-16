@@ -1,0 +1,23 @@
+{
+  "namn": "Lovisa Kronsporre",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "2168"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Danderyd",
+      "valkrets": "Danderyd",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "11",
+      "kandidatnummer": "2168"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Linus Röjmyr",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "8",
+      "kandidatnummer": "48040"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "8",
+      "kandidatnummer": "48040"
+    }
+  ]
+}

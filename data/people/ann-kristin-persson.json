@@ -1,0 +1,23 @@
+{
+  "namn": "Ann-Kristin Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Heby",
+      "valkrets": "Heby",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "29671"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svedala",
+      "valkrets": "Svedala",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "19830"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Roland Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Torsby",
+      "valkrets": "Torsby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "18473"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "41",
+      "kandidatnummer": "19652"
+    }
+  ]
+}

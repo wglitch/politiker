@@ -1,0 +1,32 @@
+{
+  "namn": "Lars Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "29",
+      "kandidatnummer": "14989"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vellinge",
+      "valkrets": "Vellinge",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "48",
+      "kandidatnummer": "44726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höör",
+      "valkrets": "Höör",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "51540"
+    }
+  ]
+}

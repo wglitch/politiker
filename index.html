@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kandidatsök</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+      background: #f7f7f7;
+      color: #111;
+    }
+
+    h1 {
+      margin-bottom: 4px;
+    }
+
+    .muted {
+      color: #666;
+      margin-top: 0;
+    }
+
+    input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 14px;
+      font-size: 18px;
+      border: 1px solid #bbb;
+      border-radius: 10px;
+      margin: 18px 0;
+    }
+
+    .result {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 8px;
+      cursor: pointer;
+    }
+
+    .result:hover {
+      background: #f0f0f0;
+    }
+
+    .person {
+      margin-top: 24px;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 18px;
+    }
+
+    .candidacy {
+      border-top: 1px solid #eee;
+      padding: 12px 0;
+    }
+
+    .candidacy:first-of-type {
+      border-top: 0;
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 13px;
+      background: #eee;
+      border-radius: 999px;
+      padding: 3px 8px;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kandidatsök</h1>
+  <p class="muted">Sök på namn och se vilka val personen ställer upp i eller har ställt upp i.</p>
+
+  <input id="searchInput" type="search" placeholder="Skriv namn…" autocomplete="off" />
+
+  <div id="status" class="muted">Laddar namnindex…</div>
+  <div id="results"></div>
+  <div id="person"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

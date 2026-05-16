@@ -1,0 +1,23 @@
+{
+  "namn": "Doris Messner",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "2",
+      "kandidatnummer": "17999"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kiruna",
+      "valkrets": "Kiruna",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "4",
+      "kandidatnummer": "17999"
+    }
+  ]
+}

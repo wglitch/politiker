@@ -1,0 +1,122 @@
+{
+  "namn": "Bengt Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "25",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "18",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "10",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "27",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "33",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "27",
+      "kandidatnummer": "24819"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trosa",
+      "valkrets": "Trosa",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "40146"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kävlinge",
+      "valkrets": "Kävlinge",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "52100"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Osby",
+      "valkrets": "Osby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "42394"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Öckerö",
+      "valkrets": "Öckerö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "39774"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tranemo",
+      "valkrets": "Tranemo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "24138"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sala",
+      "valkrets": "Sala",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "17",
+      "kandidatnummer": "16193"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mora",
+      "valkrets": "Mora",
+      "parti": "Morapartiet",
+      "partiförkortning": "MOP",
+      "ordning": "9",
+      "kandidatnummer": "24819"
+    }
+  ]
+}

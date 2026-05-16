@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Lindmark",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "9551"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vännäs",
+      "valkrets": "Vännäs",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "6",
+      "kandidatnummer": "25728"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Inger Renström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "6222"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "6222"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Åke Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Danderyd",
+      "valkrets": "Danderyd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "18496"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Alvesta",
+      "valkrets": "Alvesta",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "8",
+      "kandidatnummer": "38647"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vansbro",
+      "valkrets": "Vansbro",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "18",
+      "kandidatnummer": "27383"
+    }
+  ]
+}

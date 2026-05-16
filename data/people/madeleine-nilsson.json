@@ -1,0 +1,23 @@
+{
+  "namn": "Madeleine Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "12617"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Smedjebacken",
+      "valkrets": "Smedjebacken",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "20941"
+    }
+  ]
+}

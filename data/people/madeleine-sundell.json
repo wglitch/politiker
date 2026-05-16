@@ -1,0 +1,23 @@
+{
+  "namn": "Madeleine Sundell",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "31",
+      "kandidatnummer": "2079"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollentuna",
+      "valkrets": "Sollentuna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "7",
+      "kandidatnummer": "2079"
+    }
+  ]
+}

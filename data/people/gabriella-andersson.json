@@ -1,0 +1,41 @@
+{
+  "namn": "Gabriella Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Höganäs",
+      "valkrets": "Höganäs",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "21622"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Östra 1",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "19077"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Södra 2",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "19077"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borås",
+      "valkrets": "Borås Västra 3",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "26",
+      "kandidatnummer": "19077"
+    }
+  ]
+}

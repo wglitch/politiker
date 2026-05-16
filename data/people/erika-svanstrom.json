@@ -1,0 +1,23 @@
+{
+  "namn": "Erika Svanström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "28127"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Danderyd",
+      "valkrets": "Danderyd",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "16",
+      "kandidatnummer": "28127"
+    }
+  ]
+}

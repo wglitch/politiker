@@ -1,0 +1,68 @@
+{
+  "namn": "Jan Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "2",
+      "kandidatnummer": "56585"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56585"
+    }
+  ]
+}

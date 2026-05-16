@@ -1,0 +1,23 @@
+{
+  "namn": "Göte Jakobsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Säffle",
+      "valkrets": "Säffle",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "17956"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Överkalix",
+      "valkrets": "Överkalix",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "54381"
+    }
+  ]
+}

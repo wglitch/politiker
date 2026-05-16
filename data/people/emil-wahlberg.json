@@ -1,0 +1,32 @@
+{
+  "namn": "Emil Wahlberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Norrbottens län",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "23",
+      "kandidatnummer": "34027"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "38",
+      "kandidatnummer": "34027"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Pajala",
+      "valkrets": "Pajala",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "34027"
+    }
+  ]
+}

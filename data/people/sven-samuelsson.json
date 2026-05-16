@@ -1,0 +1,32 @@
+{
+  "namn": "Sven Samuelsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "49",
+      "kandidatnummer": "15245"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vaggeryd",
+      "valkrets": "Vaggeryd",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "15245"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Askersund",
+      "valkrets": "Askersund",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "48",
+      "kandidatnummer": "39102"
+    }
+  ]
+}

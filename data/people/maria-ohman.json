@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Öhman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Framtid S Övertorneå",
+      "partiförkortning": "FrSÖ",
+      "ordning": "5",
+      "kandidatnummer": "47130"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "50927"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Johnson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "SUNDBYBERGSPARTIET",
+      "partiförkortning": "",
+      "ordning": "15",
+      "kandidatnummer": "48086"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hudiksvall",
+      "valkrets": "Hudiksvall",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "3",
+      "kandidatnummer": "39807"
+    }
+  ]
+}

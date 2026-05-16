@@ -1,0 +1,23 @@
+{
+  "namn": "Jonatan Stiglund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "9",
+      "kandidatnummer": "33703"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "33703"
+    }
+  ]
+}

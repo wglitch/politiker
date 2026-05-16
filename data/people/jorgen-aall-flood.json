@@ -1,0 +1,23 @@
+{
+  "namn": "Jörgen Aall-Flood",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs  Första, Västra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "25",
+      "kandidatnummer": "30107"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Trelleborg",
+      "valkrets": "Trelleborgs Andra, Östra",
+      "parti": "Vårt Söderslätt",
+      "partiförkortning": "VS",
+      "ordning": "25",
+      "kandidatnummer": "30107"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Hans Nava-Barrefors",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "36870"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höör",
+      "valkrets": "Höör",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "2",
+      "kandidatnummer": "36870"
+    }
+  ]
+}

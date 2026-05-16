@@ -1,0 +1,23 @@
+{
+  "namn": "Martin Berggren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Håbo",
+      "valkrets": "Håbo",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "11",
+      "kandidatnummer": "48781"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Finspång",
+      "valkrets": "Finspång",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "37470"
+    }
+  ]
+}

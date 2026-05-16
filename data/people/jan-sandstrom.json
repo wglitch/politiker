@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Sandström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "23",
+      "kandidatnummer": "54821"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "15",
+      "kandidatnummer": "54821"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Anita Boman Daniels",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "22",
+      "kandidatnummer": "24271"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orsa",
+      "valkrets": "Orsa",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "24271"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ann-Sofie Henriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "29",
+      "kandidatnummer": "18005"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Pajala",
+      "valkrets": "Pajala",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "2",
+      "kandidatnummer": "18005"
+    }
+  ]
+}

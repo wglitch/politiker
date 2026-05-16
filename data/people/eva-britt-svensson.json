@@ -1,0 +1,23 @@
+{
+  "namn": "Eva-Britt Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "14",
+      "kandidatnummer": "14535"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "47",
+      "kandidatnummer": "14535"
+    }
+  ]
+}

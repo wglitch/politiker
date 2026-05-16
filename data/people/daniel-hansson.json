@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Vår Framtid",
+      "partiförkortning": "VF",
+      "ordning": "19",
+      "kandidatnummer": "56267"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "37",
+      "kandidatnummer": "13776"
+    }
+  ]
+}

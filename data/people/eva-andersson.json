@@ -1,0 +1,59 @@
+{
+  "namn": "Eva Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nyköping",
+      "valkrets": "Nyköping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "16",
+      "kandidatnummer": "51622"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "7",
+      "kandidatnummer": "51517"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "9",
+      "kandidatnummer": "54197"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lerum",
+      "valkrets": "Lerum",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "25915"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nordanstig",
+      "valkrets": "Nordanstig",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "4",
+      "kandidatnummer": "17361"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Krokom",
+      "valkrets": "Krokom",
+      "parti": "Jämtlands Väl Krokom",
+      "partiförkortning": "JVK",
+      "ordning": "2",
+      "kandidatnummer": "31465"
+    }
+  ]
+}

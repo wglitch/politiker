@@ -1,0 +1,23 @@
+{
+  "namn": "Magdalena Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "12",
+      "kandidatnummer": "19032"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hjo",
+      "valkrets": "Hjo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "49379"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Willy Viitala",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "29",
+      "kandidatnummer": "5258"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Botkyrka",
+      "valkrets": "Botkyrka",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "5258"
+    }
+  ]
+}

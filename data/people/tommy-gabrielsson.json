@@ -1,0 +1,23 @@
+{
+  "namn": "Tommy Gabrielsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundbyberg",
+      "valkrets": "Sundbyberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "37",
+      "kandidatnummer": "53557"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Aktiv samling - Bodenalternativet",
+      "partiförkortning": "ASB",
+      "ordning": "23",
+      "kandidatnummer": "47395"
+    }
+  ]
+}

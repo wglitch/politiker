@@ -1,0 +1,23 @@
+{
+  "namn": "Patrik Buddgård",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "1917"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lidingö",
+      "valkrets": "Lidingö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "1917"
+    }
+  ]
+}

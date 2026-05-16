@@ -1,0 +1,23 @@
+{
+  "namn": "Stig Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Oxelösund",
+      "valkrets": "Oxelösund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "48711"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boxholm",
+      "valkrets": "Boxholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "14950"
+    }
+  ]
+}

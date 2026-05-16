@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Gunnarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "28726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svenljunga",
+      "valkrets": "Svenljunga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "10477"
+    }
+  ]
+}

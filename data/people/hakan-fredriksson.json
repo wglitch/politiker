@@ -1,0 +1,41 @@
+{
+  "namn": "Håkan Fredriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "32",
+      "kandidatnummer": "47436"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "32",
+      "kandidatnummer": "47436"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "32",
+      "kandidatnummer": "47436"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "29",
+      "kandidatnummer": "47436"
+    }
+  ]
+}

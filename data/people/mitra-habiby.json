@@ -1,0 +1,32 @@
+{
+  "namn": "Mitra Habiby",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "34",
+      "kandidatnummer": "5635"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "34",
+      "kandidatnummer": "5635"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "34",
+      "kandidatnummer": "5635"
+    }
+  ]
+}

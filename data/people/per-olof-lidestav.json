@@ -1,0 +1,23 @@
+{
+  "namn": "Per Olof Lidestav",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "31",
+      "kandidatnummer": "36260"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bjurholm",
+      "valkrets": "Bjurholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "36260"
+    }
+  ]
+}

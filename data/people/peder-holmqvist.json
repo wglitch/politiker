@@ -1,0 +1,23 @@
+{
+  "namn": "Peder Holmqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Dalarnas län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "4555"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malung-Sälen",
+      "valkrets": "Malung-Sälen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "7",
+      "kandidatnummer": "4555"
+    }
+  ]
+}

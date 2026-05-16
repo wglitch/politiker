@@ -1,0 +1,23 @@
+{
+  "namn": "David Wernow",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "52",
+      "kandidatnummer": "2639"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "59",
+      "kandidatnummer": "2639"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "namn": "Stefan Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "42650"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Habo",
+      "valkrets": "Habo",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "19446"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "42559"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hylte",
+      "valkrets": "Hylte",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "27",
+      "kandidatnummer": "35110"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollebygd",
+      "valkrets": "Bollebygd",
+      "parti": "Folkets Röst",
+      "partiförkortning": "FR",
+      "ordning": "4",
+      "kandidatnummer": "53096"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lilla Edet",
+      "valkrets": "Lilla Edet",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "4",
+      "kandidatnummer": "39275"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malå",
+      "valkrets": "Malå",
+      "parti": "Malålistan",
+      "partiförkortning": "ML",
+      "ordning": "14",
+      "kandidatnummer": "55509"
+    }
+  ]
+}

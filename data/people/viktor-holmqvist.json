@@ -1,0 +1,23 @@
+{
+  "namn": "Viktor Holmqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "23311"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dals-Ed",
+      "valkrets": "Dals-Ed",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "23311"
+    }
+  ]
+}

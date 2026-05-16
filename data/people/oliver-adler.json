@@ -1,0 +1,59 @@
+{
+  "namn": "Oliver Adler",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "5",
+      "kandidatnummer": "56608"
+    }
+  ]
+}

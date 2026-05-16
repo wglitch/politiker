@@ -1,0 +1,23 @@
+{
+  "namn": "Birgitta Holmström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ekerö",
+      "valkrets": "Ekerö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "15",
+      "kandidatnummer": "7988"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ale",
+      "valkrets": "Ale",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "67",
+      "kandidatnummer": "50462"
+    }
+  ]
+}

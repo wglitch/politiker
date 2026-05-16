@@ -1,0 +1,23 @@
+{
+  "namn": "Mathias Hellström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nykvarn",
+      "valkrets": "Nykvarn",
+      "parti": "Nykvarnspartiet",
+      "partiförkortning": "NP",
+      "ordning": "24",
+      "kandidatnummer": "56149"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "49846"
+    }
+  ]
+}

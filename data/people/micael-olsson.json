@@ -1,0 +1,23 @@
+{
+  "namn": "Micael Olsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "18",
+      "kandidatnummer": "18207"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Åre",
+      "valkrets": "Åre",
+      "parti": "Västjämtlands Väl",
+      "partiförkortning": "VV",
+      "ordning": "34",
+      "kandidatnummer": "56092"
+    }
+  ]
+}

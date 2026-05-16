@@ -1,0 +1,23 @@
+{
+  "namn": "Ronny Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Bromölla",
+      "valkrets": "Bromölla",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "5",
+      "kandidatnummer": "19794"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvdalen",
+      "valkrets": "Älvdalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "37955"
+    }
+  ]
+}

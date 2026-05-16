@@ -1,0 +1,23 @@
+{
+  "namn": "Jessica Hellman",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "71",
+      "kandidatnummer": "5161"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mörbylånga",
+      "valkrets": "Mörbylånga",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "2",
+      "kandidatnummer": "5161"
+    }
+  ]
+}

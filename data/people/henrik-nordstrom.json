@@ -1,0 +1,23 @@
+{
+  "namn": "Henrik Nordström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åstorp",
+      "valkrets": "Åstorp",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "26",
+      "kandidatnummer": "22426"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "27753"
+    }
+  ]
+}

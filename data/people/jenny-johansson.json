@@ -1,0 +1,23 @@
+{
+  "namn": "Jenny Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "38",
+      "kandidatnummer": "8937"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollebygd",
+      "valkrets": "Bollebygd",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "23847"
+    }
+  ]
+}

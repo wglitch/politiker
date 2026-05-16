@@ -1,0 +1,23 @@
+{
+  "namn": "Liam Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "11",
+      "kandidatnummer": "48043"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "11",
+      "kandidatnummer": "48043"
+    }
+  ]
+}

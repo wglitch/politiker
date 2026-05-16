@@ -1,0 +1,32 @@
+{
+  "namn": "Urban Hansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "65",
+      "kandidatnummer": "5665"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "65",
+      "kandidatnummer": "5665"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Linköpingslistan",
+      "partiförkortning": "LL",
+      "ordning": "65",
+      "kandidatnummer": "5665"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Johnny Hägglund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "53",
+      "kandidatnummer": "44027"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Timråpartiet",
+      "partiförkortning": "TimP",
+      "ordning": "11",
+      "kandidatnummer": "44027"
+    }
+  ]
+}

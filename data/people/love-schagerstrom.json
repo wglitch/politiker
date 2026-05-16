@@ -1,0 +1,41 @@
+{
+  "namn": "Love Schagerström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "52238"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "52238"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "52238"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "52238"
+    }
+  ]
+}

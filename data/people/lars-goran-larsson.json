@@ -1,0 +1,32 @@
+{
+  "namn": "Lars-Göran Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "19922"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bengtsfors",
+      "valkrets": "Bengtsfors",
+      "parti": "Sunt Förnuft Bengtsfors",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "46379"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "12",
+      "kandidatnummer": "32808"
+    }
+  ]
+}

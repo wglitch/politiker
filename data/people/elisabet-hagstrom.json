@@ -1,0 +1,23 @@
+{
+  "namn": "Elisabet Hagström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "44",
+      "kandidatnummer": "44018"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ydre",
+      "valkrets": "Ydre",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "3",
+      "kandidatnummer": "12572"
+    }
+  ]
+}

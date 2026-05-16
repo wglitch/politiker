@@ -1,0 +1,23 @@
+{
+  "namn": "Hans Lindqvist",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "36756"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Storfors",
+      "valkrets": "Storfors",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "21382"
+    }
+  ]
+}

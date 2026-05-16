@@ -1,0 +1,23 @@
+{
+  "namn": "Ulrika Gärds Åkeson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "6258"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vansbro",
+      "valkrets": "Vansbro",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "6258"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Bjurman",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "6274"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orsa",
+      "valkrets": "Orsa",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "1",
+      "kandidatnummer": "6274"
+    }
+  ]
+}

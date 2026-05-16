@@ -1,0 +1,32 @@
+{
+  "namn": "Ingrid Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands-Bro",
+      "valkrets": "Upplands-Bro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "12",
+      "kandidatnummer": "23214"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Svenljunga",
+      "valkrets": "Svenljunga",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "2",
+      "kandidatnummer": "14741"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kramfors",
+      "valkrets": "Kramfors",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "28",
+      "kandidatnummer": "44762"
+    }
+  ]
+}

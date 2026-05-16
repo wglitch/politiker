@@ -1,0 +1,23 @@
+{
+  "namn": "Louise Thunström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "23476"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "23476"
+    }
+  ]
+}

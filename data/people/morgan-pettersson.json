@@ -1,0 +1,23 @@
+{
+  "namn": "Morgan Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "1",
+      "kandidatnummer": "48064"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "1",
+      "kandidatnummer": "48064"
+    }
+  ]
+}

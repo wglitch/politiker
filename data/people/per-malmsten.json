@@ -1,0 +1,23 @@
+{
+  "namn": "Per Malmsten",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nynäshamn",
+      "valkrets": "Nynäshamn",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "35",
+      "kandidatnummer": "8057"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "31561"
+    }
+  ]
+}

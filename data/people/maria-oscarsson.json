@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Oscarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "29711"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höör",
+      "valkrets": "Höör",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "29711"
+    }
+  ]
+}

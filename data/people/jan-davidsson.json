@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Davidsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "19133"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arjeplog",
+      "valkrets": "Arjeplog",
+      "parti": "Folkinitiativet Arjeplog",
+      "partiförkortning": "FoAr",
+      "ordning": "4",
+      "kandidatnummer": "54738"
+    }
+  ]
+}

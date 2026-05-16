@@ -1,0 +1,23 @@
+{
+  "namn": "Andreas Kårheim",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "49",
+      "kandidatnummer": "28361"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "28",
+      "kandidatnummer": "28361"
+    }
+  ]
+}

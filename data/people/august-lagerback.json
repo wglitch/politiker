@@ -1,0 +1,59 @@
+{
+  "namn": "August Lagerbäck",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Linköping",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Norrköping",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Kinda Åtvid Valdemarsvik Söderköping",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Ödeshög Ydre Boxholm Mjölby Vadstena",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Östergötland",
+      "valkrets": "Motala Finspång",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Östgötapartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "54150"
+    }
+  ]
+}

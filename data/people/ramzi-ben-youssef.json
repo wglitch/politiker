@@ -1,0 +1,23 @@
+{
+  "namn": "Ramzi Ben Youssef",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "31",
+      "kandidatnummer": "53356"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "31",
+      "kandidatnummer": "53356"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Mattias Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Orsa",
+      "valkrets": "Orsa",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "5",
+      "kandidatnummer": "23199"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bjurholm",
+      "valkrets": "Bjurholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "30894"
+    }
+  ]
+}

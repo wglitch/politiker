@@ -1,0 +1,23 @@
+{
+  "namn": "Bernt Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vansbro",
+      "valkrets": "Vansbro",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "25",
+      "kandidatnummer": "50066"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borlänge",
+      "valkrets": "Borlänge",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "8",
+      "kandidatnummer": "39034"
+    }
+  ]
+}

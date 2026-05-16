@@ -1,0 +1,23 @@
+{
+  "namn": "Amed Robin Zagrosan",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "42",
+      "kandidatnummer": "32238"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "42",
+      "kandidatnummer": "32238"
+    }
+  ]
+}

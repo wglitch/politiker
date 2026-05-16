@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Svanberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands-Bro",
+      "valkrets": "Upplands-Bro",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "33738"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Göteborg",
+      "valkrets": "Göteborg",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "21",
+      "kandidatnummer": "54313"
+    }
+  ]
+}

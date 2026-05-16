@@ -1,0 +1,23 @@
+{
+  "namn": "Per-Olof Hermansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Klippan",
+      "valkrets": "Klippan",
+      "parti": "Vår Framtid",
+      "partiförkortning": "VF",
+      "ordning": "27",
+      "kandidatnummer": "56336"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "43",
+      "kandidatnummer": "39687"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ann Abrahamsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Oxelösund",
+      "valkrets": "Oxelösund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "2",
+      "kandidatnummer": "48705"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "21",
+      "kandidatnummer": "12227"
+    }
+  ]
+}

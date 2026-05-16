@@ -1,0 +1,41 @@
+{
+  "namn": "Sven-Erik Ragnarsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "52942"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "27",
+      "kandidatnummer": "52942"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "25",
+      "kandidatnummer": "52942"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sollefteå",
+      "valkrets": "Sollefteå",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "2",
+      "kandidatnummer": "52942"
+    }
+  ]
+}

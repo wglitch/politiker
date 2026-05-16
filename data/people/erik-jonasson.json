@@ -1,0 +1,68 @@
+{
+  "namn": "Erik Jonasson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlskronakretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Ronnebykretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Karlshamnskretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Blekinge",
+      "valkrets": "Listerkretsen",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "44139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "44139"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Katarina Norlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns västra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "12",
+      "kandidatnummer": "50791"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns norra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "12",
+      "kandidatnummer": "50791"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västerbotten",
+      "valkrets": "Västerbottens läns södra",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "12",
+      "kandidatnummer": "50791"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "50791"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "50791"
+    }
+  ]
+}

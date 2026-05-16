@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Brandt",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sjukvårdspartiet Gävleborg",
+      "partiförkortning": "SJPG",
+      "ordning": "10",
+      "kandidatnummer": "50726"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Salem",
+      "valkrets": "Salem",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "36712"
+    }
+  ]
+}

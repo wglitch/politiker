@@ -1,0 +1,23 @@
+{
+  "namn": "Anna Stålkrantz",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Jönköpings län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "14",
+      "kandidatnummer": "3122"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mullsjö",
+      "valkrets": "Mullsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "3122"
+    }
+  ]
+}

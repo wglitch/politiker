@@ -1,0 +1,23 @@
+{
+  "namn": "Malena Engström Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "31",
+      "kandidatnummer": "51848"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "31",
+      "kandidatnummer": "51848"
+    }
+  ]
+}

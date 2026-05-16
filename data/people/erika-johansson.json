@@ -1,0 +1,32 @@
+{
+  "namn": "Erika Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Lokalpartiet BoA",
+      "partiförkortning": "BoA",
+      "ordning": "12",
+      "kandidatnummer": "39204"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "8",
+      "kandidatnummer": "36940"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Piteå",
+      "valkrets": "Piteå",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "47620"
+    }
+  ]
+}

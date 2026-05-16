@@ -1,0 +1,23 @@
+{
+  "namn": "Jonas Fransson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "43",
+      "kandidatnummer": "38268"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsås",
+      "valkrets": "Torsås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "3",
+      "kandidatnummer": "28693"
+    }
+  ]
+}

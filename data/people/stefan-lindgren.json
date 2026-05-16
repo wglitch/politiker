@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Lindgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Värmdö",
+      "valkrets": "Värmdö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "53657"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tranemo",
+      "valkrets": "Tranemo",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "4",
+      "kandidatnummer": "26866"
+    }
+  ]
+}

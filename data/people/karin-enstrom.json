@@ -1,0 +1,23 @@
+{
+  "namn": "Karin Enström",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "5234"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vaxholm",
+      "valkrets": "Vaxholm",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "3",
+      "kandidatnummer": "5234"
+    }
+  ]
+}

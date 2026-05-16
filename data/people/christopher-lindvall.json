@@ -1,0 +1,23 @@
+{
+  "namn": "Christopher Lindvall",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Stockholms län",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "13336"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Järfälla",
+      "valkrets": "Järfälla",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "13336"
+    }
+  ]
+}

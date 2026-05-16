@@ -1,0 +1,23 @@
+{
+  "namn": "Karin Schmidt",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Båstad",
+      "valkrets": "Båstad",
+      "parti": "Bjärepartiet",
+      "partiförkortning": "BJP",
+      "ordning": "12",
+      "kandidatnummer": "54613"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skara",
+      "valkrets": "Skara",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "4",
+      "kandidatnummer": "23080"
+    }
+  ]
+}

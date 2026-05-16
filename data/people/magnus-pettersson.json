@@ -1,0 +1,32 @@
+{
+  "namn": "Magnus Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hultsfred",
+      "valkrets": "Hultsfred",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "29",
+      "kandidatnummer": "23469"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Smedjebacken",
+      "valkrets": "Smedjebacken",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "41",
+      "kandidatnummer": "20934"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "4",
+      "kandidatnummer": "12384"
+    }
+  ]
+}

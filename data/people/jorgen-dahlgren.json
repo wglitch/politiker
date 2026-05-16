@@ -1,0 +1,23 @@
+{
+  "namn": "Jörgen Dahlgren",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Södermanland",
+      "valkrets": "Region Södermanland",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "32",
+      "kandidatnummer": "43734"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gnesta",
+      "valkrets": "Gnesta",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "1",
+      "kandidatnummer": "43734"
+    }
+  ]
+}

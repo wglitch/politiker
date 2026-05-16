@@ -1,0 +1,23 @@
+{
+  "namn": "Niclas Bergström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Östhammar",
+      "valkrets": "Östhammar",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "2",
+      "kandidatnummer": "13898"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Fagersta",
+      "valkrets": "Fagersta",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "8",
+      "kandidatnummer": "56190"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Carina Davidsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "36",
+      "kandidatnummer": "46263"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "13",
+      "kandidatnummer": "26210"
+    }
+  ]
+}

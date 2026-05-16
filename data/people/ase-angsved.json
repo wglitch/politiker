@@ -1,0 +1,23 @@
+{
+  "namn": "Åse Ängsved",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "15",
+      "kandidatnummer": "2498"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Avesta",
+      "valkrets": "Avesta",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "1",
+      "kandidatnummer": "2498"
+    }
+  ]
+}

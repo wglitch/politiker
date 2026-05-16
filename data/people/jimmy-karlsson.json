@@ -1,0 +1,32 @@
+{
+  "namn": "Jimmy Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Götene",
+      "valkrets": "Götene",
+      "parti": "Götenes framtid",
+      "partiförkortning": "GÖF",
+      "ordning": "18",
+      "kandidatnummer": "57016"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Fagersta",
+      "valkrets": "Fagersta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "4",
+      "kandidatnummer": "10015"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Leksand",
+      "valkrets": "Leksand",
+      "parti": "Bygdepartiet",
+      "partiförkortning": "ByP",
+      "ordning": "3",
+      "kandidatnummer": "52357"
+    }
+  ]
+}

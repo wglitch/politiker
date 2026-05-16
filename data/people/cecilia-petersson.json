@@ -1,0 +1,23 @@
+{
+  "namn": "Cecilia Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ydre",
+      "valkrets": "Ydre",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "2",
+      "kandidatnummer": "33764"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mullsjö",
+      "valkrets": "Mullsjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "20156"
+    }
+  ]
+}

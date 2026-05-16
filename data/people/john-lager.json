@@ -1,0 +1,14 @@
+{
+  "namn": "John Lager",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lund",
+      "valkrets": "Lund",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "18",
+      "kandidatnummer": "16539"
+    }
+  ]
+}

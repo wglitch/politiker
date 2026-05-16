@@ -1,0 +1,23 @@
+{
+  "namn": "Susanne Mårtensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Bjuv",
+      "valkrets": "Bjuv",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "26257"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Höganäs",
+      "valkrets": "Höganäs",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "19979"
+    }
+  ]
+}

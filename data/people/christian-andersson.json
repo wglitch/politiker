@@ -1,0 +1,23 @@
+{
+  "namn": "Christian Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "3",
+      "kandidatnummer": "36865"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "3",
+      "kandidatnummer": "36865"
+    }
+  ]
+}

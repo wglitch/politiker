@@ -1,0 +1,23 @@
+{
+  "namn": "Birgitta Petersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "7837"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Värnamo",
+      "valkrets": "Värnamo",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "19",
+      "kandidatnummer": "48272"
+    }
+  ]
+}

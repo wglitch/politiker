@@ -1,0 +1,41 @@
+{
+  "namn": "Karin Lamberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "24",
+      "kandidatnummer": "47428"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "24",
+      "kandidatnummer": "47428"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "24",
+      "kandidatnummer": "47428"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "21",
+      "kandidatnummer": "47428"
+    }
+  ]
+}

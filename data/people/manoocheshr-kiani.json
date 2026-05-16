@@ -1,0 +1,77 @@
+{
+  "namn": "Manoocheshr Kiani",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "10",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "4",
+      "kandidatnummer": "56590"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "SKP KOMMUNISTERNA",
+      "partiförkortning": "SKP",
+      "ordning": "4",
+      "kandidatnummer": "56590"
+    }
+  ]
+}

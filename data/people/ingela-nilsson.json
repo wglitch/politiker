@@ -1,0 +1,32 @@
+{
+  "namn": "Ingela Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "33",
+      "kandidatnummer": "32553"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vadstena",
+      "valkrets": "Vadstena",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "8",
+      "kandidatnummer": "34594"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "27065"
+    }
+  ]
+}

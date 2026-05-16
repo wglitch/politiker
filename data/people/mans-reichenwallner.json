@@ -1,0 +1,32 @@
+{
+  "namn": "Måns Reichenwallner",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "54860"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "54860"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "9",
+      "kandidatnummer": "54860"
+    }
+  ]
+}

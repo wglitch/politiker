@@ -1,0 +1,23 @@
+{
+  "namn": "Nils Littorin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "54006"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "54006"
+    }
+  ]
+}

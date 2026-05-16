@@ -1,0 +1,59 @@
+{
+  "namn": "Lisa Bertilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lidköping",
+      "valkrets": "Lidköping",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "1",
+      "kandidatnummer": "54096"
+    }
+  ]
+}

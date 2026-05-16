@@ -1,0 +1,23 @@
+{
+  "namn": "Ingrid Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "15",
+      "kandidatnummer": "31808"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Säter",
+      "valkrets": "Säter",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "28",
+      "kandidatnummer": "35464"
+    }
+  ]
+}

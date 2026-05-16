@@ -1,0 +1,23 @@
+{
+  "namn": "Per-Gunnar Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hässleholm",
+      "valkrets": "Hässleholm",
+      "parti": "Folkets Väl",
+      "partiförkortning": "FOV",
+      "ordning": "16",
+      "kandidatnummer": "46000"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grästorp",
+      "valkrets": "Grästorp",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "24",
+      "kandidatnummer": "22309"
+    }
+  ]
+}

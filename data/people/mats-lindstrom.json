@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "38",
+      "kandidatnummer": "12119"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Sjukvårdspartiet",
+      "partiförkortning": "SJV",
+      "ordning": "3",
+      "kandidatnummer": "12119"
+    }
+  ]
+}

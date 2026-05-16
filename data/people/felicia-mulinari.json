@@ -1,0 +1,23 @@
+{
+  "namn": "Felicia Mulinari",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "56466"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "10",
+      "kandidatnummer": "56466"
+    }
+  ]
+}

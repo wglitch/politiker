@@ -1,0 +1,41 @@
+{
+  "namn": "Jenny Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "45",
+      "kandidatnummer": "42100"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nykvarn",
+      "valkrets": "Nykvarn",
+      "parti": "Nykvarnspartiet",
+      "partiförkortning": "NP",
+      "ordning": "15",
+      "kandidatnummer": "56139"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vaxholm",
+      "valkrets": "Vaxholm",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "4",
+      "kandidatnummer": "51801"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "37",
+      "kandidatnummer": "7846"
+    }
+  ]
+}

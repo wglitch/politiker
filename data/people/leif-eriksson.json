@@ -1,0 +1,104 @@
+{
+  "namn": "Leif Eriksson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "5",
+      "kandidatnummer": "54111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "5",
+      "kandidatnummer": "54111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "5",
+      "kandidatnummer": "54111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "5",
+      "kandidatnummer": "54111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "5",
+      "kandidatnummer": "54111"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Gävleborgspartiet",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "55431"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ekerö",
+      "valkrets": "Ekerö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "20",
+      "kandidatnummer": "32291"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "14",
+      "kandidatnummer": "38029"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "14",
+      "kandidatnummer": "23386"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "6",
+      "kandidatnummer": "9085"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gävle",
+      "valkrets": "Gävle",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "45",
+      "kandidatnummer": "18686"
+    }
+  ]
+}

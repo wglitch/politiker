@@ -1,0 +1,50 @@
+{
+  "namn": "Victoria Åkesdotter Bäcklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "52914"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "52914"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "52914"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "4",
+      "kandidatnummer": "52914"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "4",
+      "kandidatnummer": "52914"
+    }
+  ]
+}

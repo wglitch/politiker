@@ -1,0 +1,23 @@
+{
+  "namn": "Inger Stenlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västerbottens län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "49",
+      "kandidatnummer": "25697"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sorsele",
+      "valkrets": "Sorsele",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "7",
+      "kandidatnummer": "25697"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Kristoffer Vesterberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "29",
+      "kandidatnummer": "6648"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvidsjaur",
+      "valkrets": "Arvidsjaur",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6648"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "namn": "Sofia Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Åtvidaberg",
+      "valkrets": "Åtvidaberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "11",
+      "kandidatnummer": "43491"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "4",
+      "kandidatnummer": "17579"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mellerud",
+      "valkrets": "Mellerud",
+      "parti": "KommunPartiet Mellerud",
+      "partiförkortning": "KiM",
+      "ordning": "13",
+      "kandidatnummer": "25634"
+    }
+  ]
+}

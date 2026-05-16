@@ -1,0 +1,23 @@
+{
+  "namn": "Bertil Svensson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nykvarn",
+      "valkrets": "Nykvarn",
+      "parti": "Nykvarnspartiet",
+      "partiförkortning": "NP",
+      "ordning": "20",
+      "kandidatnummer": "56144"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "23",
+      "kandidatnummer": "12953"
+    }
+  ]
+}

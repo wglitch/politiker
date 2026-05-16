@@ -1,0 +1,50 @@
+{
+  "namn": "Göran Möller",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "31",
+      "kandidatnummer": "47435"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "31",
+      "kandidatnummer": "47435"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "31",
+      "kandidatnummer": "47435"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Utvecklingspartiet demokraterna",
+      "partiförkortning": "UPDEM",
+      "ordning": "26",
+      "kandidatnummer": "47435"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Staffanstorp",
+      "valkrets": "Staffanstorp",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "7",
+      "kandidatnummer": "6371"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Henrik Yngvesson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Kalmar län",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "21",
+      "kandidatnummer": "3639"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mörbylånga",
+      "valkrets": "Mörbylånga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "3639"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Lars Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Österåker",
+      "valkrets": "Österåker",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "20",
+      "kandidatnummer": "28984"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malung-Sälen",
+      "valkrets": "Malung-Sälen",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "39051"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Amanda Berggren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "44",
+      "kandidatnummer": "51797"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "44",
+      "kandidatnummer": "51797"
+    }
+  ]
+}

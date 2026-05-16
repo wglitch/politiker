@@ -1,0 +1,32 @@
+{
+  "namn": "Martin Nedergaard-Hansen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "1",
+      "kandidatnummer": "52896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "1",
+      "kandidatnummer": "52896"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "1",
+      "kandidatnummer": "52896"
+    }
+  ]
+}

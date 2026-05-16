@@ -1,0 +1,41 @@
+{
+  "namn": "Birgitta Green",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "54869"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "54869"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Sjukvårdspartiet i Uppsala län",
+      "partiförkortning": "",
+      "ordning": "20",
+      "kandidatnummer": "54869"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Håbo",
+      "valkrets": "Håbo",
+      "parti": "Bålstapartiet",
+      "partiförkortning": "BÅP",
+      "ordning": "6",
+      "kandidatnummer": "54869"
+    }
+  ]
+}

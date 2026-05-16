@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Mill",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sjukvårdspartiet Gävleborg",
+      "partiförkortning": "SJPG",
+      "ordning": "19",
+      "kandidatnummer": "50734"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "5",
+      "kandidatnummer": "50734"
+    }
+  ]
+}

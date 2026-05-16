@@ -1,0 +1,23 @@
+{
+  "namn": "Tage Folkelind",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Värmlands län",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "16",
+      "kandidatnummer": "6047"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "33",
+      "kandidatnummer": "6047"
+    }
+  ]
+}

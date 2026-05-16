@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Sävborg Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Hallands län",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "42",
+      "kandidatnummer": "11294"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Halland",
+      "valkrets": "Halland",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "50",
+      "kandidatnummer": "11294"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "namn": "Lars Klevensparr",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "7",
+      "kandidatnummer": "54279"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "7",
+      "kandidatnummer": "54279"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "7",
+      "kandidatnummer": "54279"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "7",
+      "kandidatnummer": "54279"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Demokraterna",
+      "partiförkortning": "DEM",
+      "ordning": "7",
+      "kandidatnummer": "54279"
+    }
+  ]
+}

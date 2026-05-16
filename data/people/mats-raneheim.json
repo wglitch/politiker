@@ -1,0 +1,23 @@
+{
+  "namn": "Mats Raneheim",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "21",
+      "kandidatnummer": "54025"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "21",
+      "kandidatnummer": "54025"
+    }
+  ]
+}

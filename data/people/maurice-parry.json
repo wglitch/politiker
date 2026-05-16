@@ -1,0 +1,23 @@
+{
+  "namn": "Maurice Parry",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "52",
+      "kandidatnummer": "3936"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Täby",
+      "valkrets": "Täby Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "52",
+      "kandidatnummer": "3936"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Ericsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Söderköpingsinitiativet",
+      "partiförkortning": "",
+      "ordning": "35",
+      "kandidatnummer": "50384"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Pajala",
+      "valkrets": "Pajala",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "19",
+      "kandidatnummer": "50296"
+    }
+  ]
+}

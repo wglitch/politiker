@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Sjöberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Halmstad",
+      "valkrets": "Halmstad",
+      "parti": "Hjärta för Halmstad",
+      "partiförkortning": "HfH",
+      "ordning": "30",
+      "kandidatnummer": "43631"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jokkmokk",
+      "valkrets": "Jokkmokk",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "12",
+      "kandidatnummer": "28642"
+    }
+  ]
+}

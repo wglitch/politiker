@@ -1,0 +1,32 @@
+{
+  "namn": "Malin Ljungström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "6",
+      "kandidatnummer": "52902"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "6",
+      "kandidatnummer": "52902"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "6",
+      "kandidatnummer": "52902"
+    }
+  ]
+}

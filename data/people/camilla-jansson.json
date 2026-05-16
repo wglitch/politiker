@@ -1,0 +1,23 @@
+{
+  "namn": "Camilla Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sotenäs",
+      "valkrets": "Sotenäs",
+      "parti": "Demokratiresan",
+      "partiförkortning": "DemR",
+      "ordning": "2",
+      "kandidatnummer": "56529"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Miljöpartiet de gröna",
+      "partiförkortning": "MP",
+      "ordning": "9",
+      "kandidatnummer": "27228"
+    }
+  ]
+}

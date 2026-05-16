@@ -1,0 +1,23 @@
+{
+  "namn": "Sam Viklund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "7",
+      "kandidatnummer": "48003"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "7",
+      "kandidatnummer": "48003"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Erika Jonsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Emmaboda",
+      "valkrets": "Emmaboda",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "33",
+      "kandidatnummer": "37763"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Stenungsundspartiet",
+      "partiförkortning": "St",
+      "ordning": "15",
+      "kandidatnummer": "43133"
+    }
+  ]
+}

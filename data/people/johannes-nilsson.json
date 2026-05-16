@@ -1,0 +1,32 @@
+{
+  "namn": "Johannes Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lidköping",
+      "valkrets": "Lidköping",
+      "parti": "Sjukvårdspartiet - Västra Götaland",
+      "partiförkortning": "SPVG",
+      "ordning": "12",
+      "kandidatnummer": "54107"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "42",
+      "kandidatnummer": "29490"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "42",
+      "kandidatnummer": "29490"
+    }
+  ]
+}

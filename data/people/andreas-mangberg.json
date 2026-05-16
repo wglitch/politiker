@@ -1,0 +1,23 @@
+{
+  "namn": "Andreas Mångberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "1",
+      "kandidatnummer": "48033"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "1",
+      "kandidatnummer": "48033"
+    }
+  ]
+}

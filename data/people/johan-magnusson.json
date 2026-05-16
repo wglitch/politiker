@@ -1,0 +1,32 @@
+{
+  "namn": "Johan Magnusson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sävsjö",
+      "valkrets": "Sävsjö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "34",
+      "kandidatnummer": "25088"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uddevalla",
+      "valkrets": "Uddevalla",
+      "parti": "Uddevallapartiet",
+      "partiförkortning": "UddP",
+      "ordning": "14",
+      "kandidatnummer": "21735"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "31",
+      "kandidatnummer": "31350"
+    }
+  ]
+}

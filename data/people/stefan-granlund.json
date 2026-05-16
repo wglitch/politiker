@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Granlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "19",
+      "kandidatnummer": "37625"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Överkalix",
+      "valkrets": "Överkalix",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "1",
+      "kandidatnummer": "37625"
+    }
+  ]
+}

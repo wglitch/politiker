@@ -1,0 +1,23 @@
+{
+  "namn": "Niklas Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "51",
+      "kandidatnummer": "9891"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Bollnäs",
+      "valkrets": "Bollnäs",
+      "parti": "Bollnäspartiet",
+      "partiförkortning": "Bollp",
+      "ordning": "26",
+      "kandidatnummer": "52214"
+    }
+  ]
+}

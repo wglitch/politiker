@@ -1,0 +1,23 @@
+{
+  "namn": "Maja Torres Madzar",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "6",
+      "kandidatnummer": "50858"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "6",
+      "kandidatnummer": "50858"
+    }
+  ]
+}

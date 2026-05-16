@@ -1,0 +1,23 @@
+{
+  "namn": "Kristin Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Östra Göinge",
+      "valkrets": "Östra Göinge",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "22",
+      "kandidatnummer": "22450"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Årjäng",
+      "valkrets": "Årjäng",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "28",
+      "kandidatnummer": "32826"
+    }
+  ]
+}

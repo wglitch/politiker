@@ -1,0 +1,23 @@
+{
+  "namn": "Fredrik Bramstedt",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "36",
+      "kandidatnummer": "19687"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "36",
+      "kandidatnummer": "19687"
+    }
+  ]
+}

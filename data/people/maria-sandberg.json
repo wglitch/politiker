@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Sandberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Katrineholm",
+      "valkrets": "Katrineholm",
+      "parti": "Katrineholm FRAMÅT",
+      "partiförkortning": "",
+      "ordning": "4",
+      "kandidatnummer": "52109"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Strömsund",
+      "valkrets": "Strömsund",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "17",
+      "kandidatnummer": "50183"
+    }
+  ]
+}

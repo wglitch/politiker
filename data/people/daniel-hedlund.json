@@ -1,0 +1,23 @@
+{
+  "namn": "Daniel Hedlund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Upplands Väsby",
+      "valkrets": "Upplands Väsby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "57",
+      "kandidatnummer": "8483"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sala",
+      "valkrets": "Sala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "4",
+      "kandidatnummer": "6773"
+    }
+  ]
+}

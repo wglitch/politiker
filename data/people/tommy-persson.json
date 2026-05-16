@@ -1,0 +1,41 @@
+{
+  "namn": "Tommy Persson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Hörby",
+      "valkrets": "Hörby",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "10",
+      "kandidatnummer": "13121"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Orust",
+      "valkrets": "Orust",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "6",
+      "kandidatnummer": "35923"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Torsby",
+      "valkrets": "Torsby",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "18469"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dorotea",
+      "valkrets": "Dorotea",
+      "parti": "Dorotea Kommunlista",
+      "partiförkortning": "DKL",
+      "ordning": "7",
+      "kandidatnummer": "50519"
+    }
+  ]
+}

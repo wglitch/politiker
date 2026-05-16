@@ -1,0 +1,23 @@
+{
+  "namn": "Magnus Björklund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "16",
+      "kandidatnummer": "54813"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "7",
+      "kandidatnummer": "54813"
+    }
+  ]
+}

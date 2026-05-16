@@ -1,0 +1,23 @@
+{
+  "namn": "Eric Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlstad",
+      "valkrets": "Karlstad",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "4",
+      "kandidatnummer": "47904"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Avesta",
+      "valkrets": "Avesta",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "27",
+      "kandidatnummer": "8716"
+    }
+  ]
+}

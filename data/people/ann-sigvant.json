@@ -1,0 +1,23 @@
+{
+  "namn": "Ann Sigvant",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "42327"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "42327"
+    }
+  ]
+}

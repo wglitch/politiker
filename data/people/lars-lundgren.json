@@ -1,0 +1,50 @@
+{
+  "namn": "Lars Lundgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Huddinge",
+      "valkrets": "Huddinge",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "4",
+      "kandidatnummer": "45860"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tingsryd",
+      "valkrets": "Tingsryd",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "10",
+      "kandidatnummer": "27818"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Skövde",
+      "valkrets": "Skövde",
+      "parti": "Skövdepartiet",
+      "partiförkortning": "SköP",
+      "ordning": "13",
+      "kandidatnummer": "22514"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "25622"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örnsköldsvik",
+      "valkrets": "Örnsköldsviks Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "25622"
+    }
+  ]
+}

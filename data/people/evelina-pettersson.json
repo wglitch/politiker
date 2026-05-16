@@ -1,0 +1,23 @@
+{
+  "namn": "Evelina Pettersson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Enköping",
+      "valkrets": "Enköping",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "5834"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Boden",
+      "valkrets": "Boden",
+      "parti": "Aktiv samling - Bodenalternativet",
+      "partiförkortning": "ASB",
+      "ordning": "8",
+      "kandidatnummer": "47380"
+    }
+  ]
+}

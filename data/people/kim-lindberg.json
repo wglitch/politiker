@@ -1,0 +1,23 @@
+{
+  "namn": "Kim Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Boxholm",
+      "valkrets": "Boxholm",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "2",
+      "kandidatnummer": "45473"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Söderköpingsinitiativet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "54403"
+    }
+  ]
+}

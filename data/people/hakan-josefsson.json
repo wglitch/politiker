@@ -1,0 +1,68 @@
+{
+  "namn": "Håkan Josefsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "32",
+      "kandidatnummer": "52026"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "32",
+      "kandidatnummer": "52026"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "32",
+      "kandidatnummer": "52026"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "32",
+      "kandidatnummer": "52026"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "20",
+      "kandidatnummer": "15345"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "21",
+      "kandidatnummer": "52026"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "21",
+      "kandidatnummer": "52026"
+    }
+  ]
+}

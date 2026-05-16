@@ -1,0 +1,23 @@
+{
+  "namn": "Roger Sjöström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "8",
+      "kandidatnummer": "48004"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "8",
+      "kandidatnummer": "48004"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "namn": "Camilla Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "27",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "28",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "30",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "8",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "9",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Dalarnas Sjukvårdsparti",
+      "partiförkortning": "dsp",
+      "ordning": "26",
+      "kandidatnummer": "18895"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tanum",
+      "valkrets": "Tanum",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "23",
+      "kandidatnummer": "33108"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ludvika",
+      "valkrets": "Ludvika",
+      "parti": "Dalademokraterna",
+      "partiförkortning": "Ddem",
+      "ordning": "7",
+      "kandidatnummer": "18895"
+    }
+  ]
+}

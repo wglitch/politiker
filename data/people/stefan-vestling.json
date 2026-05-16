@@ -1,0 +1,23 @@
+{
+  "namn": "Stefan Vestling",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Dalarna",
+      "valkrets": "Region Dalarna",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "12",
+      "kandidatnummer": "37307"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Avesta",
+      "valkrets": "Avesta",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "11",
+      "kandidatnummer": "37307"
+    }
+  ]
+}

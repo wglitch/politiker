@@ -1,0 +1,23 @@
+{
+  "namn": "Christer Hedin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falkenberg",
+      "valkrets": "Falkenberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "20",
+      "kandidatnummer": "15416"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mark",
+      "valkrets": "Mark",
+      "parti": "Ambition Sverige",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "52514"
+    }
+  ]
+}

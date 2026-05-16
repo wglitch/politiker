@@ -1,0 +1,23 @@
+{
+  "namn": "Eje Bengtsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Skåne läns norra och östra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "12",
+      "kandidatnummer": "37847"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Perstorp",
+      "valkrets": "Perstorp",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "37847"
+    }
+  ]
+}

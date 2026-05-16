@@ -1,0 +1,32 @@
+{
+  "namn": "Christina Engström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "49",
+      "kandidatnummer": "54835"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Stenungsundspartiet",
+      "partiförkortning": "St",
+      "ordning": "24",
+      "kandidatnummer": "43142"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "29",
+      "kandidatnummer": "54835"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Kevin Mill",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Gävleborg",
+      "valkrets": "Region Gävleborg",
+      "parti": "Sjukvårdspartiet Gävleborg",
+      "partiförkortning": "SJPG",
+      "ordning": "9",
+      "kandidatnummer": "50725"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ljusdal",
+      "valkrets": "Ljusdal",
+      "parti": "Ljusdalsbygdens parti",
+      "partiförkortning": "LjP",
+      "ordning": "10",
+      "kandidatnummer": "50725"
+    }
+  ]
+}

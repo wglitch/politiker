@@ -1,0 +1,23 @@
+{
+  "namn": "Torbjörn Hedlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "35",
+      "kandidatnummer": "54827"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "21",
+      "kandidatnummer": "54827"
+    }
+  ]
+}

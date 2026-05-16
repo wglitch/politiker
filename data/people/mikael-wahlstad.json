@@ -1,0 +1,23 @@
+{
+  "namn": "Mikael Wahlstad",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "43",
+      "kandidatnummer": "54831"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "25",
+      "kandidatnummer": "54831"
+    }
+  ]
+}

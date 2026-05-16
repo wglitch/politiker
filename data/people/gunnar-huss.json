@@ -1,0 +1,59 @@
+{
+  "namn": "Gunnar Huss",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "8",
+      "kandidatnummer": "57201"
+    }
+  ]
+}

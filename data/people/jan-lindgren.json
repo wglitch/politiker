@@ -1,0 +1,41 @@
+{
+  "namn": "Jan Lindgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordväst",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "41",
+      "kandidatnummer": "7379"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Sydväst",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "41",
+      "kandidatnummer": "7379"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Linköping",
+      "valkrets": "Linköping Nordost",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "41",
+      "kandidatnummer": "7379"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskoga",
+      "valkrets": "Karlskoga",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "25",
+      "kandidatnummer": "18212"
+    }
+  ]
+}

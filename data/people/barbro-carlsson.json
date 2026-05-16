@@ -1,0 +1,32 @@
+{
+  "namn": "Barbro Carlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Medborgarpartiet i Gislaved (MiG)",
+      "partiförkortning": "MiG",
+      "ordning": "36",
+      "kandidatnummer": "54707"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tjörn",
+      "valkrets": "Tjörn",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "31",
+      "kandidatnummer": "22747"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungälv",
+      "valkrets": "Kungälv",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "10",
+      "kandidatnummer": "38147"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Nick Ljungdahl",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "4",
+      "kandidatnummer": "54534"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "4",
+      "kandidatnummer": "54534"
+    }
+  ]
+}

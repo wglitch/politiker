@@ -1,0 +1,86 @@
+{
+  "namn": "Johnny Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "13",
+      "kandidatnummer": "931"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Valdemarsvik",
+      "valkrets": "Valdemarsvik",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "13",
+      "kandidatnummer": "9209"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vadstena",
+      "valkrets": "Vadstena",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "10",
+      "kandidatnummer": "38396"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Burlöv",
+      "valkrets": "Burlöv",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "3",
+      "kandidatnummer": "931"
+    }
+  ]
+}

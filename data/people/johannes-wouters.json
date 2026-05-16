@@ -1,0 +1,23 @@
+{
+  "namn": "Johannes Wouters",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "51766"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "33",
+      "kandidatnummer": "51766"
+    }
+  ]
+}

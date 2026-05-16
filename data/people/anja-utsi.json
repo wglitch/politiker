@@ -1,0 +1,23 @@
+{
+  "namn": "Anja Utsi",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Norrbotten",
+      "valkrets": "Norrbottens läns valkrets",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "29",
+      "kandidatnummer": "28471"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvidsjaur",
+      "valkrets": "Arvidsjaur",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "3",
+      "kandidatnummer": "28471"
+    }
+  ]
+}

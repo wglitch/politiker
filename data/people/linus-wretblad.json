@@ -1,0 +1,23 @@
+{
+  "namn": "Linus Wretblad",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "10",
+      "kandidatnummer": "51631"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "10",
+      "kandidatnummer": "51631"
+    }
+  ]
+}

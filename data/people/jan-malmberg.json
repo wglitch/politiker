@@ -1,0 +1,23 @@
+{
+  "namn": "Jan Malmberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Söderköping",
+      "valkrets": "Söderköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "11",
+      "kandidatnummer": "6920"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Helsingborgspartiet",
+      "partiförkortning": "",
+      "ordning": "16",
+      "kandidatnummer": "53910"
+    }
+  ]
+}

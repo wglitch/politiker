@@ -1,0 +1,32 @@
+{
+  "namn": "Magnus Bodenäs",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Första valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "5",
+      "kandidatnummer": "52901"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Andra valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "5",
+      "kandidatnummer": "52901"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Jönköping",
+      "valkrets": "Tredje valkretsen",
+      "parti": "Vårddemokraterna",
+      "partiförkortning": "VD",
+      "ordning": "5",
+      "kandidatnummer": "52901"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Ceasar Sedholm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "3",
+      "kandidatnummer": "48035"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "3",
+      "kandidatnummer": "48035"
+    }
+  ]
+}

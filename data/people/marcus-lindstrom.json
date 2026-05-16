@@ -1,0 +1,23 @@
+{
+  "namn": "Marcus Lindström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sigtuna",
+      "valkrets": "Sigtuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "47",
+      "kandidatnummer": "7856"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Tibro",
+      "valkrets": "Tibro",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "31",
+      "kandidatnummer": "54939"
+    }
+  ]
+}

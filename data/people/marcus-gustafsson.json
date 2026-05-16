@@ -1,0 +1,32 @@
+{
+  "namn": "Marcus Gustafsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ödeshög",
+      "valkrets": "Ödeshög",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "6",
+      "kandidatnummer": "50264"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Helsingborg",
+      "valkrets": "Helsingborg",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "42182"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Köping",
+      "valkrets": "Köping",
+      "parti": "Vanligt Folk i Köpings kommun",
+      "partiförkortning": "VFiK",
+      "ordning": "5",
+      "kandidatnummer": "55117"
+    }
+  ]
+}

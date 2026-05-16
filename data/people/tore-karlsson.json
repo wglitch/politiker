@@ -1,0 +1,23 @@
+{
+  "namn": "Tore Karlsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Falun",
+      "valkrets": "Falun",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "6",
+      "kandidatnummer": "32861"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Dorotea",
+      "valkrets": "Dorotea",
+      "parti": "Dorotea Kommunlista",
+      "partiförkortning": "DKL",
+      "ordning": "4",
+      "kandidatnummer": "50516"
+    }
+  ]
+}

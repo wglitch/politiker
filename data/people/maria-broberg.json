@@ -1,0 +1,23 @@
+{
+  "namn": "Maria Broberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Sorsele",
+      "valkrets": "Sorsele",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "25691"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Älvsbyn",
+      "valkrets": "Älvsbyn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "10",
+      "kandidatnummer": "52952"
+    }
+  ]
+}

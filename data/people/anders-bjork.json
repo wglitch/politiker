@@ -1,0 +1,41 @@
+{
+  "namn": "Anders Björk",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vaxholm",
+      "valkrets": "Vaxholm",
+      "parti": "Livbojen Vaxholmsdemokraterna",
+      "partiförkortning": "LVD",
+      "ordning": "4",
+      "kandidatnummer": "34187"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Eksjö",
+      "valkrets": "Eksjö",
+      "parti": "Kristdemokraterna",
+      "partiförkortning": "KD",
+      "ordning": "9",
+      "kandidatnummer": "45875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grums",
+      "valkrets": "Grums",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "5",
+      "kandidatnummer": "10158"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Norsjö",
+      "valkrets": "Norsjö",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "9",
+      "kandidatnummer": "23025"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Matilda Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Norrköping",
+      "valkrets": "Norrköping",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "64",
+      "kandidatnummer": "10239"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Grästorp",
+      "valkrets": "Grästorp",
+      "parti": "FRAM FÖR KOMMUNEN",
+      "partiförkortning": "FFK",
+      "ordning": "25",
+      "kandidatnummer": "44589"
+    }
+  ]
+}

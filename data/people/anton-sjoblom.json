@@ -1,0 +1,23 @@
+{
+  "namn": "Anton Sjöblom",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Westbopartiet",
+      "partiförkortning": "WeP",
+      "ordning": "13",
+      "kandidatnummer": "50350"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haparanda",
+      "valkrets": "Haparanda",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "45734"
+    }
+  ]
+}

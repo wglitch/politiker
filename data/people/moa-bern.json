@@ -1,0 +1,23 @@
+{
+  "namn": "Moa Bern",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "53",
+      "kandidatnummer": "7495"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "53",
+      "kandidatnummer": "7495"
+    }
+  ]
+}

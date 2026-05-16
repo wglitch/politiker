@@ -1,0 +1,41 @@
+{
+  "namn": "Torbjörn Björlund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "56498"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "56498"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "1",
+      "kandidatnummer": "56498"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "6",
+      "kandidatnummer": "56498"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Markus Lindberg",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Karlshamn",
+      "valkrets": "Karlshamn",
+      "parti": "Centerpartiet",
+      "partiförkortning": "C",
+      "ordning": "13",
+      "kandidatnummer": "50411"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hedemora",
+      "valkrets": "Hedemora",
+      "parti": "Kommunlistan",
+      "partiförkortning": "KLH",
+      "ordning": "12",
+      "kandidatnummer": "55647"
+    }
+  ]
+}

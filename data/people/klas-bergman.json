@@ -1,0 +1,23 @@
+{
+  "namn": "Klas Bergman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Skellefteå",
+      "valkrets": "Skellefteå",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "19",
+      "kandidatnummer": "16102"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jokkmokk",
+      "valkrets": "Jokkmokk",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "5",
+      "kandidatnummer": "50951"
+    }
+  ]
+}

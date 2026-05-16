@@ -1,0 +1,23 @@
+{
+  "namn": "Annika Hagberg",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "7",
+      "kandidatnummer": "54809"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "3",
+      "kandidatnummer": "54809"
+    }
+  ]
+}

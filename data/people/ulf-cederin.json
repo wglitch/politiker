@@ -1,0 +1,23 @@
+{
+  "namn": "Ulf Cederin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lidingö",
+      "valkrets": "Lidingö",
+      "parti": "LIDINGÖPARTIET",
+      "partiförkortning": "LP",
+      "ordning": "3",
+      "kandidatnummer": "55854"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Motala",
+      "valkrets": "Motala",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "47",
+      "kandidatnummer": "9887"
+    }
+  ]
+}

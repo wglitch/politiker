@@ -1,0 +1,23 @@
+{
+  "namn": "Christina Löfgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Södertälje",
+      "valkrets": "Södertälje",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "43",
+      "kandidatnummer": "46666"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Arvidsjaur",
+      "valkrets": "Arvidsjaur",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "21669"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "namn": "Anders Jonasson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vaxholm",
+      "valkrets": "Vaxholm",
+      "parti": "Waxholmspartiet - borgerligt alternativ",
+      "partiförkortning": "WAX",
+      "ordning": "26",
+      "kandidatnummer": "26349"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona Ö",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "6127"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona V",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "6127"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Karlskrona",
+      "valkrets": "Karlskrona C",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "10",
+      "kandidatnummer": "6127"
+    }
+  ]
+}

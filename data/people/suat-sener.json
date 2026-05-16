@@ -1,0 +1,23 @@
+{
+  "namn": "Suat Sener",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Norra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "5",
+      "kandidatnummer": "48409"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Haninge",
+      "valkrets": "Haninge Södra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "5",
+      "kandidatnummer": "48409"
+    }
+  ]
+}

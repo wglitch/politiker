@@ -1,0 +1,59 @@
+{
+  "namn": "Ambjörn Inemyr",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Södra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "51960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Västra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "51960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro-Lekeberg",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "51960"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Örebro",
+      "valkrets": "Örebro läns Norra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "23",
+      "kandidatnummer": "51960"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Norra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "51960"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Örebro",
+      "valkrets": "Örebro Södra",
+      "parti": "Örebropartiet",
+      "partiförkortning": "",
+      "ordning": "13",
+      "kandidatnummer": "51960"
+    }
+  ]
+}

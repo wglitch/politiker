@@ -1,0 +1,23 @@
+{
+  "namn": "Veronica Nordenström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "24",
+      "kandidatnummer": "50805"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Demokratiska Sekulära Socialister Arbetarpartiet",
+      "partiförkortning": "",
+      "ordning": "24",
+      "kandidatnummer": "50805"
+    }
+  ]
+}

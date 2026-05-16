@@ -1,0 +1,41 @@
+{
+  "namn": "Andrea Egizi",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns södra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "56497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns mellersta",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "56497"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala läns norra",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "3",
+      "kandidatnummer": "56497"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Uppsala",
+      "valkrets": "Uppsala",
+      "parti": "Framtidens Vänster",
+      "partiförkortning": "",
+      "ordning": "5",
+      "kandidatnummer": "56497"
+    }
+  ]
+}

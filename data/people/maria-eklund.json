@@ -1,0 +1,32 @@
+{
+  "namn": "Maria Eklund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Salem",
+      "valkrets": "Salem",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "20",
+      "kandidatnummer": "51366"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Borgholm",
+      "valkrets": "Borgholm",
+      "parti": "Framtid Öland",
+      "partiförkortning": "FÖL",
+      "ordning": "3",
+      "kandidatnummer": "31840"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vindeln",
+      "valkrets": "Vindeln",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "16",
+      "kandidatnummer": "6321"
+    }
+  ]
+}

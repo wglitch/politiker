@@ -1,0 +1,23 @@
+{
+  "namn": "Bo Ullman",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Väster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "8",
+      "kandidatnummer": "54538"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kristianstad",
+      "valkrets": "Öster",
+      "parti": "Sakpolitikerna",
+      "partiförkortning": "Sak",
+      "ordning": "8",
+      "kandidatnummer": "54538"
+    }
+  ]
+}

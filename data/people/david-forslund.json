@@ -1,0 +1,23 @@
+{
+  "namn": "David Forslund",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västernorrland",
+      "valkrets": "Region Västernorrland",
+      "parti": "Sjukvårdspartiet - Västernorrland",
+      "partiförkortning": "SJVP",
+      "ordning": "4",
+      "kandidatnummer": "43979"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Timråpartiet",
+      "partiförkortning": "TimP",
+      "ordning": "2",
+      "kandidatnummer": "43979"
+    }
+  ]
+}

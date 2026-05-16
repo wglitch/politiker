@@ -1,0 +1,23 @@
+{
+  "namn": "Niclas Johansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nässjö",
+      "valkrets": "Nässjö",
+      "parti": "SAFE - Solidaritet Arbete Fred Ekologi",
+      "partiförkortning": "SAFE",
+      "ordning": "6",
+      "kandidatnummer": "48743"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mönsterås",
+      "valkrets": "Mönsterås",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "15",
+      "kandidatnummer": "34218"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Simon Vikström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Knivsta",
+      "valkrets": "Knivsta",
+      "parti": "Knivsta.Nu",
+      "partiförkortning": "KNU",
+      "ordning": "2",
+      "kandidatnummer": "54875"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Mariestad",
+      "valkrets": "Mariestad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "7",
+      "kandidatnummer": "55153"
+    }
+  ]
+}

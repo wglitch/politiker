@@ -1,0 +1,23 @@
+{
+  "namn": "Anders Söderström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Lidköping",
+      "valkrets": "Lidköping",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "17",
+      "kandidatnummer": "35700"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Ragunda",
+      "valkrets": "Ragunda",
+      "parti": "Allt för Ragunda",
+      "partiförkortning": "AfR",
+      "ordning": "9",
+      "kandidatnummer": "54221"
+    }
+  ]
+}

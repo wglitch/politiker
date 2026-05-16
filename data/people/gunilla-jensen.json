@@ -1,0 +1,23 @@
+{
+  "namn": "Gunilla Jensen",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "39",
+      "kandidatnummer": "54825"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "19",
+      "kandidatnummer": "54825"
+    }
+  ]
+}

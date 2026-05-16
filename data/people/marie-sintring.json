@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Sintring",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "54013"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Malmölistan",
+      "partiförkortning": "",
+      "ordning": "8",
+      "kandidatnummer": "54013"
+    }
+  ]
+}

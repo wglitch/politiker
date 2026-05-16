@@ -1,0 +1,23 @@
+{
+  "namn": "Lars-Erik Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Ystad",
+      "valkrets": "Ystad",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "21",
+      "kandidatnummer": "43708"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nora",
+      "valkrets": "Nora",
+      "parti": "Norapartiet",
+      "partiförkortning": "NOR",
+      "ordning": "4",
+      "kandidatnummer": "56789"
+    }
+  ]
+}

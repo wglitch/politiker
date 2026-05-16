@@ -1,0 +1,23 @@
+{
+  "namn": "Peter Spjuth",
+  "kandidaturer": [
+    {
+      "valtyp": "RD",
+      "område": "Riket",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "19",
+      "kandidatnummer": "39976"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lilla Edet",
+      "valkrets": "Lilla Edet",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "1",
+      "kandidatnummer": "39976"
+    }
+  ]
+}

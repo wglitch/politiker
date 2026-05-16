@@ -1,0 +1,59 @@
+{
+  "namn": "Jerker Söderlind",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "1 Södermalm-Enskede",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "2 Bromma-Kungsholmen",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "3 Norrmalm-Östermalm-Gamla Stan",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "4 Östra Söderort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "5 Västra Söderort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Stockholm",
+      "valkrets": "6 Yttre Västerort",
+      "parti": "Partiet Arkitekturupproret",
+      "partiförkortning": "PAU",
+      "ordning": "2",
+      "kandidatnummer": "54124"
+    }
+  ]
+}

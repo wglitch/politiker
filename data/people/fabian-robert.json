@@ -1,0 +1,50 @@
+{
+  "namn": "Fabian, Robert",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Göteborgs kommun",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "",
+      "kandidatnummer": "897"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns västra",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "",
+      "kandidatnummer": "897"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns norra",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "",
+      "kandidatnummer": "897"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns södra",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "",
+      "kandidatnummer": "897"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Västra Götaland",
+      "valkrets": "Västra Götalands läns östra",
+      "parti": "Alternativ för Sverige",
+      "partiförkortning": "AFS",
+      "ordning": "",
+      "kandidatnummer": "897"
+    }
+  ]
+}

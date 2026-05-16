@@ -1,0 +1,77 @@
+{
+  "namn": "Jan O Pålsson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordvästkretsen",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Nordostkretsen",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Mellankretsen",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen I",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydvästkretsen II",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "RF",
+      "område": "Skåne",
+      "valkrets": "Sydostkretsen",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "1",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "2",
+      "kandidatnummer": "49797"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "TRYGGHETSPARTIET",
+      "partiförkortning": "TRP",
+      "ordning": "2",
+      "kandidatnummer": "49797"
+    }
+  ]
+}

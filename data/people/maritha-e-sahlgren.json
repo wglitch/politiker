@@ -1,0 +1,23 @@
+{
+  "namn": "Maritha E Sahlgren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs norra valkrets",
+      "parti": "Varbergspartiet",
+      "partiförkortning": "VP",
+      "ordning": "5",
+      "kandidatnummer": "56800"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Varberg",
+      "valkrets": "Varbergs södra valkrets",
+      "parti": "Varbergspartiet",
+      "partiförkortning": "VP",
+      "ordning": "5",
+      "kandidatnummer": "56800"
+    }
+  ]
+}

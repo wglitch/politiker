@@ -1,0 +1,23 @@
+{
+  "namn": "Fingal Anderson Edvardsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Gislaved",
+      "valkrets": "Gislaved",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "3",
+      "kandidatnummer": "38327"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jönköping",
+      "valkrets": "Jönköping",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "7",
+      "kandidatnummer": "38327"
+    }
+  ]
+}

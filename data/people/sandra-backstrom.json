@@ -1,0 +1,23 @@
+{
+  "namn": "Sandra Bäckström",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "45",
+      "kandidatnummer": "54833"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hagfors",
+      "valkrets": "Hagfors",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "27",
+      "kandidatnummer": "54833"
+    }
+  ]
+}

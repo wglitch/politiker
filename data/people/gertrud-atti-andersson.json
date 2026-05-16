@@ -1,0 +1,23 @@
+{
+  "namn": "Gertrud \"Atti\" Andersson",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "24",
+      "kandidatnummer": "14528"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "40",
+      "kandidatnummer": "14528"
+    }
+  ]
+}

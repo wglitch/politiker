@@ -1,0 +1,23 @@
+{
+  "namn": "Axel Hjelmer",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Kronoberg",
+      "valkrets": "Kronoberg",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "9",
+      "kandidatnummer": "45899"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Växjö",
+      "valkrets": "Växjö",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "11",
+      "kandidatnummer": "45899"
+    }
+  ]
+}

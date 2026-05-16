@@ -1,0 +1,32 @@
+{
+  "namn": "Thunfors, Robert",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Timrå",
+      "valkrets": "Timrå",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "53048"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls  Första",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "53048"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Sundsvall",
+      "valkrets": "Sundsvalls Andra",
+      "parti": "Norrlandspartiet",
+      "partiförkortning": "",
+      "ordning": "",
+      "kandidatnummer": "53048"
+    }
+  ]
+}

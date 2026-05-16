@@ -1,0 +1,23 @@
+{
+  "namn": "Emil Jansson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Vallentuna",
+      "valkrets": "Vallentuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "30",
+      "kandidatnummer": "7652"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Lindesberg",
+      "valkrets": "Lindesberg",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "17",
+      "kandidatnummer": "50980"
+    }
+  ]
+}

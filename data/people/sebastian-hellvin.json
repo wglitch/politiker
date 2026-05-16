@@ -1,0 +1,23 @@
+{
+  "namn": "Sebastian Hellvin",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Norra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "32",
+      "kandidatnummer": "17862"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kalmar",
+      "valkrets": "Kalmar Södra",
+      "parti": "Vänsterpartiet",
+      "partiförkortning": "V",
+      "ordning": "32",
+      "kandidatnummer": "17862"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Christer Ekelund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "60",
+      "kandidatnummer": "42333"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "60",
+      "kandidatnummer": "42333"
+    }
+  ]
+}

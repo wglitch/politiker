@@ -1,0 +1,23 @@
+{
+  "namn": "Roberth Björk",
+  "kandidaturer": [
+    {
+      "valtyp": "RF",
+      "område": "Värmland",
+      "valkrets": "Region Värmland",
+      "parti": "Oberoende Realister",
+      "partiförkortning": "OR",
+      "ordning": "52",
+      "kandidatnummer": "54499"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Hammarö",
+      "valkrets": "Hammarö",
+      "parti": "Sans o Balans",
+      "partiförkortning": "SoB",
+      "ordning": "7",
+      "kandidatnummer": "54499"
+    }
+  ]
+}

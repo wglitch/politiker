@@ -1,0 +1,23 @@
+{
+  "namn": "Sture Larsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Västerås",
+      "valkrets": "Västerås",
+      "parti": "Liberalerna (tidigare Folkpartiet)",
+      "partiförkortning": "L",
+      "ordning": "16",
+      "kandidatnummer": "5592"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Övertorneå",
+      "valkrets": "Övertorneå",
+      "parti": "Framtid S Övertorneå",
+      "partiförkortning": "FrSÖ",
+      "ordning": "10",
+      "kandidatnummer": "47135"
+    }
+  ]
+}

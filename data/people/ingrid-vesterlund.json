@@ -1,0 +1,23 @@
+{
+  "namn": "Ingrid Vesterlund",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "36637"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Medborgerlig Samling",
+      "partiförkortning": "MED",
+      "ordning": "7",
+      "kandidatnummer": "36637"
+    }
+  ]
+}

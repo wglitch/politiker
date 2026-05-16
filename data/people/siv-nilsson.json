@@ -1,0 +1,23 @@
+{
+  "namn": "Siv Nilsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Älvdalen",
+      "valkrets": "Älvdalen",
+      "parti": "Arbetarepartiet-Socialdemokraterna",
+      "partiförkortning": "S",
+      "ordning": "13",
+      "kandidatnummer": "37957"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jokkmokk",
+      "valkrets": "Jokkmokk",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "7",
+      "kandidatnummer": "36959"
+    }
+  ]
+}

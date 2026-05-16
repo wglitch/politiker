@@ -1,0 +1,23 @@
+{
+  "namn": "Marie Ryding",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "32",
+      "kandidatnummer": "51849"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Nackalistan",
+      "partiförkortning": "NL",
+      "ordning": "32",
+      "kandidatnummer": "51849"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "namn": "Tomas Jönsson",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Eskilstuna",
+      "valkrets": "Eskilstuna",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "20",
+      "kandidatnummer": "40725"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Vadstena",
+      "valkrets": "Vadstena",
+      "parti": "Konsensus - För Vadstenas Bästa",
+      "partiförkortning": "Kons",
+      "ordning": "40",
+      "kandidatnummer": "31551"
+    }
+  ]
+}

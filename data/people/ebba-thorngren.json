@@ -1,0 +1,23 @@
+{
+  "namn": "Ebba Thorngren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka Västra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "7496"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Nacka",
+      "valkrets": "Nacka  Östra",
+      "parti": "Moderaterna",
+      "partiförkortning": "M",
+      "ordning": "54",
+      "kandidatnummer": "7496"
+    }
+  ]
+}

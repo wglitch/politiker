@@ -1,0 +1,23 @@
+{
+  "namn": "Sven Rahm",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Skurup",
+      "valkrets": "Skurup",
+      "parti": "Sverigedemokraterna",
+      "partiförkortning": "SD",
+      "ordning": "16",
+      "kandidatnummer": "48482"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Kungsbacka",
+      "valkrets": "Kungsbacka",
+      "parti": "Kungsbackaborna",
+      "partiförkortning": "Kbabo",
+      "ordning": "22",
+      "kandidatnummer": "29936"
+    }
+  ]
+}

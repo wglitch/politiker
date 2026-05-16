@@ -1,0 +1,23 @@
+{
+  "namn": "Gert Hallengren",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Östra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "5",
+      "kandidatnummer": "56145"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Malmö",
+      "valkrets": "Malmö Västra",
+      "parti": "Partiet Nyans",
+      "partiförkortning": "PNy",
+      "ordning": "5",
+      "kandidatnummer": "56145"
+    }
+  ]
+}

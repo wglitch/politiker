@@ -1,0 +1,23 @@
+{
+  "namn": "Emil Sotkasiira",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå centrala",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "9",
+      "kandidatnummer": "48041"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Umeå",
+      "valkrets": "Umeå omland",
+      "parti": "Kommunistiska Partiet",
+      "partiförkortning": "K",
+      "ordning": "9",
+      "kandidatnummer": "48041"
+    }
+  ]
+}

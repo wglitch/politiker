@@ -1,0 +1,23 @@
+{
+  "namn": "Ola Engström",
+  "kandidaturer": [
+    {
+      "valtyp": "KF",
+      "område": "Stenungsund",
+      "valkrets": "Stenungsund",
+      "parti": "Stenungsundspartiet",
+      "partiförkortning": "St",
+      "ordning": "27",
+      "kandidatnummer": "43145"
+    },
+    {
+      "valtyp": "KF",
+      "område": "Jokkmokk",
+      "valkrets": "Jokkmokk",
+      "parti": "Samernas Väl",
+      "partiförkortning": "SV",
+      "ordning": "9",
+      "kandidatnummer": "56700"
+    }
+  ]
+}

@@ -66,7 +66,7 @@ function renderResults(matches, q) {
   }
 
   resultsEl.innerHTML = matches.map(item => `
-    <div class="result" data-slug="${item.slug}">
+    <div class="result" data-slug="${item.slug}" data-bucket="${item.bucket}">
       <strong>${escapeHtml(item.namn)}</strong>
     </div>
   `).join("");
@@ -80,12 +80,16 @@ function renderResults(matches, q) {
   statusEl.textContent = `${matches.length} träffar visas.`;
 }
 
-async function loadPerson(slug) {
+async function loadPerson(slug, bucket) {
   try {
-    const res = await fetch(`data/people/${slug}.json`);
-    if (!res.ok) throw new Error("Kunde inte ladda personfil.");
+    const res = await fetch(`data/people-${bucket}.json`);
+    if (!res.ok) throw new Error("Kunde inte ladda bucketfil.");
 
-    const person = await res.json();
+    const bucketData = await res.json();
+    const person = bucketData[slug];
+
+    if (!person) throw new Error("Personen saknas i bucketfilen.");
+
     renderPerson(person);
   } catch (err) {
     personEl.innerHTML = `<p class="muted">Kunde inte ladda kandidatens uppgifter.</p>`;

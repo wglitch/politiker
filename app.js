@@ -72,15 +72,17 @@ function renderResults(matches, q) {
   `).join("");
 
   document.querySelectorAll(".result").forEach(el => {
-    el.addEventListener("click", () => {
-      loadPerson(el.dataset.slug);
-    });
+  el.addEventListener("click", () => {
+    loadPerson(el.dataset.slug, el.dataset.bucket);
   });
+});
 
   statusEl.textContent = `${matches.length} träffar visas.`;
 }
 
 async function loadPerson(slug, bucket) {
+  console.log("Laddar:", `data/people-${bucket}.json`, slug);
+
   try {
     const res = await fetch(`data/people-${bucket}.json`);
     if (!res.ok) throw new Error("Kunde inte ladda bucketfil.");
